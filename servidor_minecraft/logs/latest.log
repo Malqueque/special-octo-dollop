@@ -639,3 +639,13 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [01Dec2024 21:22:51.131] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PlayerFormEntity['MR138'/19876, l='ServerLevel[world]', x=20.05, y=-11.46, z=139.38] died: MR138 was slain by Looter
 [01Dec2024 21:23:41.424] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PlayerFormEntity['XPurple_DiamondX'/19120, l='ServerLevel[world]', x=48.40, y=-5.00, z=123.44] died: XPurple_DiamondX was slain by Zombie
 [01Dec2024 21:25:54.172] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PlayerFormEntity['Nightfox'/21563, l='ServerLevel[world]', x=73.60, y=-11.10, z=101.60] died: Nightfox suffocated in a wall
+[01Dec2024 21:26:49.501] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ollop78 has made the advancement [Sweet Dreams]
+[01Dec2024 21:27:49.875] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PlayerFormEntity['Kronoz'/23230, l='ServerLevel[world]', x=172.69, y=-24.00, z=216.78] died: Kronoz was slain by Zombie
+[01Dec2024 21:28:09.378] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PlayerFormEntity['ShadowSwordz'/23178, l='ServerLevel[world]', x=131.06, y=24.00, z=72.92] died: ShadowSwordz was slain by Spider
+[01Dec2024 21:29:51.633] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PlayerFormEntity['ItsPizzaTIM'/23640, l='ServerLevel[world]', x=148.96, y=-30.00, z=229.86] died: ItsPizzaTIM was slain by Zombie
+[01Dec2024 21:32:55.827] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PlayerFormEntity['Beta'/26987, l='ServerLevel[world]', x=165.30, y=3.90, z=346.60] died: Beta suffocated in a wall
+[01Dec2024 21:34:19.383] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ollop78 has made the advancement [Barrel Booty]
+[01Dec2024 21:36:45.134] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ollop78: Set own game mode to Creative Mode]
+[01Dec2024 21:36:46.988] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ollop78: Set own game mode to Survival Mode]
+[01Dec2024 21:36:48.131] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ollop78 lost connection: Disconnected
+[01Dec2024 21:36:48.131] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ollop78 left the game
