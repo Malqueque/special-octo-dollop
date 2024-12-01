@@ -1589,45 +1589,16 @@
     },
     "done": true
   },
-  "lootr:1chest": {
+  "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
-      "opened_chest": "2024-12-01 05:38:16 +0000"
+      "muskeg": "2024-12-01 05:17:50 +0000",
+      "tundra": "2024-12-01 05:17:46 +0000"
     },
-    "done": true
+    "done": false
   },
-  "minecraft:story/obtain_armor": {
+  "biomesoplenty:biomesoplenty/root": {
     "criteria": {
-      "iron_chestplate": "2024-12-01 05:57:15 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/fletching_table": {
-    "criteria": {
-      "has_flint": "2024-12-01 05:50:57 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
-    "criteria": {
-      "has_potato": "2024-12-01 05:41:06 +0000"
-    },
-    "done": true
-  },
-  "majruszsdifficulty:recipes/misc/bandage": {
-    "criteria": {
-      "has_string": "2024-12-01 05:55:51 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/deflect_arrow": {
-    "criteria": {
-      "deflected_projectile": "2024-12-01 05:34:49 +0000"
-    },
-    "done": true
-  },
-  "majruszsdifficulty:bleeding_inflicted": {
-    "criteria": {
-      "bleeding_applied": "2024-12-01 05:27:31 +0000"
+      "tundra": "2024-12-01 05:17:46 +0000"
     },
     "done": true
   },
@@ -1637,70 +1608,39 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/white_dye": {
+  "minecraft:recipes/misc/firework_rocket_simple": {
     "criteria": {
-      "has_bone_meal": "2024-12-01 05:41:19 +0000"
+      "has_gunpowder": "2024-12-01 05:24:27 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/combat/bow": {
+  "minecraft:recipes/redstone/tnt": {
     "criteria": {
-      "has_string": "2024-12-01 05:55:51 +0000"
+      "has_gunpowder": "2024-12-01 05:24:27 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/andesite_stairs": {
+  "dotf:recipes/combat/blamite_crystal": {
     "criteria": {
-      "has_andesite": "2024-12-01 05:43:19 +0000"
+      "has_gunpowder": "2024-12-01 05:24:27 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/food/baked_potato": {
+  "majruszsdifficulty:bleeding_inflicted": {
     "criteria": {
-      "has_potato": "2024-12-01 05:41:06 +0000"
+      "bleeding_applied": "2024-12-01 05:27:31 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/combat/arrow": {
+  "tombstone:adventure/cancel_ghostly_shape": {
     "criteria": {
-      "has_flint": "2024-12-01 05:50:57 +0000"
+      "coded_trigger": "2024-12-01 05:30:14 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/andesite_wall_from_andesite_stonecutting": {
+  "minecraft:story/deflect_arrow": {
     "criteria": {
-      "has_andesite": "2024-12-01 05:43:19 +0000"
-    },
-    "done": true
-  },
-  "justhammers:recipes/tools/iron_reinforced_impact_hammer": {
-    "criteria": {
-      "has_material": "2024-12-01 05:42:12 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/fishing_rod": {
-    "criteria": {
-      "has_string": "2024-12-01 05:55:51 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:biomesoplenty/all_biomes": {
-    "criteria": {
-      "muskeg": "2024-12-01 05:17:50 +0000",
-      "tundra": "2024-12-01 05:17:46 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/building_blocks/polished_andesite_slab_from_andesite_stonecutting": {
-    "criteria": {
-      "has_andesite": "2024-12-01 05:43:19 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/tripwire_hook": {
-    "criteria": {
-      "has_string": "2024-12-01 05:55:51 +0000"
+      "deflected_projectile": "2024-12-01 05:34:49 +0000"
     },
     "done": true
   },
@@ -1710,9 +1650,51 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/candle": {
+  "lootr:1chest": {
     "criteria": {
-      "has_string": "2024-12-01 05:55:51 +0000"
+      "opened_chest": "2024-12-01 05:38:16 +0000"
+    },
+    "done": true
+  },
+  "lootr:social": {
+    "criteria": {
+      "opened_chest": "2024-12-01 05:38:16 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2024-12-01 05:41:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2024-12-01 05:41:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2024-12-01 05:41:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2024-12-01 05:41:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bone_meal": "2024-12-01 05:41:19 +0000"
+    },
+    "done": true
+  },
+  "justhammers:recipes/tools/iron_reinforced_impact_hammer": {
+    "criteria": {
+      "has_material": "2024-12-01 05:42:12 +0000"
     },
     "done": true
   },
@@ -1722,9 +1704,45 @@
     },
     "done": true
   },
-  "tombstone:adventure/cancel_ghostly_shape": {
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
     "criteria": {
-      "coded_trigger": "2024-12-01 05:30:14 +0000"
+      "has_iron_block": "2024-12-01 05:42:12 +0000"
+    },
+    "done": true
+  },
+  "justhammers:recipes/tools/iron_destructor_hammer": {
+    "criteria": {
+      "has_material": "2024-12-01 05:42:12 +0000"
+    },
+    "done": true
+  },
+  "justhammers:recipes/tools/iron_impact_hammer": {
+    "criteria": {
+      "has_material": "2024-12-01 05:42:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2024-12-01 05:42:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_stairs": {
+    "criteria": {
+      "has_andesite": "2024-12-01 05:43:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/andesite_wall_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2024-12-01 05:43:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_slab_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2024-12-01 05:43:19 +0000"
     },
     "done": true
   },
@@ -1740,57 +1758,15 @@
     },
     "done": true
   },
-  "lootr:social": {
-    "criteria": {
-      "opened_chest": "2024-12-01 05:38:16 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/tools/flint_and_steel": {
-    "criteria": {
-      "has_flint": "2024-12-01 05:50:57 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/polished_andesite_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2024-12-01 05:43:19 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/food/baked_potato_from_smoking": {
-    "criteria": {
-      "has_potato": "2024-12-01 05:41:06 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:biomesoplenty/root": {
-    "criteria": {
-      "tundra": "2024-12-01 05:17:46 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/polished_andesite": {
     "criteria": {
       "has_andesite": "2024-12-01 05:43:19 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
-    "criteria": {
-      "has_iron_block": "2024-12-01 05:42:12 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/white_wool_from_string": {
-    "criteria": {
-      "has_string": "2024-12-01 05:55:51 +0000"
-    },
-    "done": true
-  },
-  "justhammers:recipes/tools/iron_destructor_hammer": {
-    "criteria": {
-      "has_material": "2024-12-01 05:42:12 +0000"
     },
     "done": true
   },
@@ -1812,39 +1788,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/firework_rocket_simple": {
+  "minecraft:recipes/decorations/fletching_table": {
     "criteria": {
-      "has_gunpowder": "2024-12-01 05:24:27 +0000"
+      "has_flint": "2024-12-01 05:50:57 +0000"
     },
     "done": true
   },
-  "justhammers:recipes/tools/iron_impact_hammer": {
+  "minecraft:recipes/combat/arrow": {
     "criteria": {
-      "has_material": "2024-12-01 05:42:12 +0000"
+      "has_flint": "2024-12-01 05:50:57 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/redstone/tnt": {
+  "minecraft:recipes/tools/flint_and_steel": {
     "criteria": {
-      "has_gunpowder": "2024-12-01 05:24:27 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/anvil": {
-    "criteria": {
-      "has_iron_block": "2024-12-01 05:42:12 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/loom": {
-    "criteria": {
-      "has_string": "2024-12-01 05:55:51 +0000"
-    },
-    "done": true
-  },
-  "dotf:recipes/combat/blamite_crystal": {
-    "criteria": {
-      "has_gunpowder": "2024-12-01 05:24:27 +0000"
+      "has_flint": "2024-12-01 05:50:57 +0000"
     },
     "done": true
   },
@@ -1854,9 +1812,81 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/bone_block": {
+  "majruszsdifficulty:recipes/misc/bandage": {
     "criteria": {
-      "has_bone_meal": "2024-12-01 05:41:19 +0000"
+      "has_string": "2024-12-01 05:55:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2024-12-01 05:55:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2024-12-01 05:55:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2024-12-01 05:55:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/candle": {
+    "criteria": {
+      "has_string": "2024-12-01 05:55:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_wool_from_string": {
+    "criteria": {
+      "has_string": "2024-12-01 05:55:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/loom": {
+    "criteria": {
+      "has_string": "2024-12-01 05:55:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_chestplate": "2024-12-01 05:57:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_wood": {
+    "criteria": {
+      "has_log": "2024-12-01 21:19:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_logs": "2024-12-01 21:19:25 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/copper_backpack": {
+    "criteria": {
+      "has_backpack": "2024-12-01 21:16:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/raw_copper": {
+    "criteria": {
+      "has_raw_copper_block": "2024-12-01 21:18:09 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/iron_backpack": {
+    "criteria": {
+      "has_backpack": "2024-12-01 21:16:48 +0000"
     },
     "done": true
   },
