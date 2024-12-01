@@ -738,3 +738,44 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [01Dec2024 16:46:48.162] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nacho1704 couldn't dodge that one.
 [01Dec2024 16:46:48.165] [Server thread/INFO] [tombstone/]: The player Nacho1704 has successfully been saved
 [01Dec2024 16:47:21.500] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PlayerFormEntity['AzPure'/50448, l='ServerLevel[world]', x=598.30, y=22.45, z=607.02] died: AzPure was slain by Zombie
+[01Dec2024 16:48:26.567] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: vicentula[/127.189.253.42:36227] logged in with entity id 53448 at (611.5179286492411, 87.96636804164123, 552.3447656791991)
+[01Dec2024 16:48:26.574] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: vicentula joined the game
+[01Dec2024 16:48:26.618] [Server thread/INFO] [Jade/]: Syncing config to vicentula (ea963feb-ef64-36f6-8969-26de2e90d8be)
+[01Dec2024 16:48:32.117] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PlayerFormEntity['ShadowSwordz'/53363, l='ServerLevel[world]', x=543.30, y=20.00, z=628.46] died: ShadowSwordz died because of Runner
+[01Dec2024 16:49:49.629] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PlayerFormEntity['AzPure'/53895, l='ServerLevel[world]', x=590.40, y=36.00, z=479.60] died: AzPure was slain by Zombie
+[01Dec2024 16:50:06.316] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PlayerFormEntity['TeamAbyssal'/55320, l='ServerLevel[world]', x=688.12, y=11.22, z=580.52] died: TeamAbyssal was shot by Skeleton
+[01Dec2024 16:52:11.870] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: vicentula lost connection: Timed out
+[01Dec2024 16:52:11.870] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: vicentula left the game
+[01Dec2024 16:52:43.413] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PlayerFormEntity['purple skittle'/59695, l='ServerLevel[world]', x=452.33, y=9.00, z=527.84] died: purple skittle was shot by Skeleton
+[01Dec2024 16:54:08.759] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: vicentula[/127.189.253.42:55221] logged in with entity id 63021 at (607.7953096027989, 65.0, 557.2218498704666)
+[01Dec2024 16:54:08.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: vicentula joined the game
+[01Dec2024 16:54:08.782] [Server thread/INFO] [Jade/]: Syncing config to vicentula (ea963feb-ef64-36f6-8969-26de2e90d8be)
+[01Dec2024 16:54:38.864] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: vicentula lost connection: Timed out
+[01Dec2024 16:54:38.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: vicentula left the game
+[01Dec2024 16:55:15.008] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PlayerFormEntity['Nightfox'/65496, l='ServerLevel[world]', x=215.40, y=-8.61, z=321.18] died: Nightfox was slain by Looter
+[01Dec2024 16:57:19.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nacho1704 has made the advancement [Disme A Dozen]
+[01Dec2024 16:57:30.297] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PlayerFormEntity['Allan Marceau'/67632, l='ServerLevel[world]', x=77.13, y=-14.00, z=462.31] died: Allan Marceau was slain by Zombie
+[01Dec2024 16:57:30.516] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: vicentula[/127.189.253.42:54833] logged in with entity id 68130 at (607.7953096027989, 65.0, 557.2218498704666)
+[01Dec2024 16:57:30.522] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: vicentula joined the game
+[01Dec2024 16:57:30.530] [Server thread/INFO] [Jade/]: Syncing config to vicentula (ea963feb-ef64-36f6-8969-26de2e90d8be)
+[01Dec2024 16:58:30.628] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: vicentula lost connection: Timed out
+[01Dec2024 16:58:30.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: vicentula left the game
+[01Dec2024 16:59:08.001] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PlayerFormEntity['Reno'/68144, l='ServerLevel[world]', x=72.27, y=62.00, z=362.83] died: Reno was lethally executed by Vindicator Form.
+[01Dec2024 16:59:40.914] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: vicentula[/127.189.253.42:41009] logged in with entity id 71692 at (610.6865772634917, 65.0, 556.9294911593576)
+[01Dec2024 16:59:40.919] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: vicentula joined the game
+[01Dec2024 16:59:40.927] [Server thread/INFO] [Jade/]: Syncing config to vicentula (ea963feb-ef64-36f6-8969-26de2e90d8be)
+[01Dec2024 17:01:15.570] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PlayerFormEntity['purple skittle'/73659, l='ServerLevel[world]', x=119.05, y=-18.00, z=510.72] died: purple skittle was slain by Looter
+[01Dec2024 17:01:23.186] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PlayerFormEntity['TeamAbyssal'/73919, l='ServerLevel[world]', x=652.36, y=21.19, z=525.43] died: TeamAbyssal was slain by Zombie
+[01Dec2024 17:02:17.787] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PlayerFormEntity['XPurple_DiamondX'/75366, l='ServerLevel[world]', x=621.80, y=33.57, z=499.21] died: XPurple_DiamondX was slain by Looter
+[01Dec2024 17:02:56.223] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PlayerFormEntity['ASEStefan'/76400, l='ServerLevel[world]', x=133.40, y=13.90, z=398.60] died: ASEStefan suffocated in a wall
+[01Dec2024 17:03:34.111] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PlayerFormEntity['Beta'/76558, l='ServerLevel[world]', x=609.19, y=37.00, z=561.27] died: Beta was slain by Looter
+[01Dec2024 17:04:43.075] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PlayerFormEntity['ItsPizzaTIM'/78177, l='ServerLevel[world]', x=541.39, y=20.00, z=628.18] died: ItsPizzaTIM was slain by Zombie
+[01Dec2024 17:05:42.680] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PlayerFormEntity['Kronoz'/81067, l='ServerLevel[world]', x=106.40, y=11.73, z=529.96] died: Kronoz fought valiantly but fell to the flood swarm.
+[01Dec2024 17:06:13.768] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PlayerFormEntity['XPurple_DiamondX'/82727, l='ServerLevel[world]', x=142.55, y=21.00, z=576.44] died: XPurple_DiamondX was consumed by Vindicator Form.
+[01Dec2024 17:06:38.905] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: vicentula moved too quickly! 4.96179571457094,7.895575898673286,-3.8130677065418013
+[01Dec2024 17:06:43.273] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PlayerFormEntity['TeamAbyssal'/78630, l='ServerLevel[world]', x=640.05, y=20.00, z=517.56] died: TeamAbyssal was slain by Looter
+[01Dec2024 17:06:44.982] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nacho1704> z
+[01Dec2024 17:06:45.178] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nacho1704> z
+[01Dec2024 17:06:45.275] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nacho1704> z
+[01Dec2024 17:06:56.729] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: vicentula lost connection: Timed out
+[01Dec2024 17:06:56.730] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: vicentula left the game
