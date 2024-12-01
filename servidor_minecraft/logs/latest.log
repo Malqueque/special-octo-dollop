@@ -731,3 +731,41 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [01Dec2024 23:06:44.728] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nacho1704 was slaughtered by Villager Form.
 [01Dec2024 23:06:44.741] [Server thread/INFO] [tombstone/]: The player Nacho1704 has successfully been saved
 [01Dec2024 23:07:37.974] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PlayerFormEntity['Allan Marceau'/110977, l='ServerLevel[world]', x=102.19, y=28.00, z=236.15] died: Allan Marceau was blown up by Creeper
+[01Dec2024 23:10:46.242] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PlayerFormEntity['ASEStefan'/114504, l='ServerLevel[world]', x=192.45, y=64.00, z=99.05] died: ASEStefan was slain by Zombie
+[01Dec2024 23:11:13.779] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PlayerFormEntity['ItsPizzaTIM'/113939, l='ServerLevel[world]', x=200.60, y=29.00, z=239.55] died: ItsPizzaTIM was slain by Zombie
+[01Dec2024 23:11:21.112] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: vicentula[/127.189.253.42:38161] logged in with entity id 115284 at (611.1560061257527, 76.0, 547.683323377636)
+[01Dec2024 23:11:21.123] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: vicentula joined the game
+[01Dec2024 23:11:21.133] [Server thread/INFO] [Jade/]: Syncing config to vicentula (ea963feb-ef64-36f6-8969-26de2e90d8be)
+[01Dec2024 23:11:51.254] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: vicentula lost connection: Timed out
+[01Dec2024 23:11:51.255] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: vicentula left the game
+[01Dec2024 23:12:39.700] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: vicentula[/127.189.253.42:34785] logged in with entity id 119102 at (611.1560061257527, 76.0, 547.683323377636)
+[01Dec2024 23:12:39.717] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: vicentula joined the game
+[01Dec2024 23:12:39.727] [Server thread/INFO] [Jade/]: Syncing config to vicentula (ea963feb-ef64-36f6-8969-26de2e90d8be)
+[01Dec2024 23:13:03.079] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PlayerFormEntity['AzPure'/119587, l='ServerLevel[world]', x=641.26, y=21.99, z=525.81] died: AzPure was slain by Looter
+[01Dec2024 23:13:09.807] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: vicentula lost connection: Timed out
+[01Dec2024 23:13:09.808] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: vicentula left the game
+[01Dec2024 23:13:33.210] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: vicentula[/127.189.253.42:54333] logged in with entity id 121166 at (611.1560061257527, 76.0, 547.683323377636)
+[01Dec2024 23:13:33.215] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: vicentula joined the game
+[01Dec2024 23:13:33.223] [Server thread/INFO] [Jade/]: Syncing config to vicentula (ea963feb-ef64-36f6-8969-26de2e90d8be)
+[01Dec2024 23:14:03.348] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: vicentula lost connection: Timed out
+[01Dec2024 23:14:03.349] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: vicentula left the game
+[01Dec2024 23:14:23.532] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PlayerFormEntity['Vee'/114731, l='ServerLevel[world]', x=197.41, y=64.29, z=129.35] died: Vee was shot by Nacho1704
+[01Dec2024 23:14:27.245] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: vicentula[/127.189.253.42:37607] logged in with entity id 123102 at (611.1560061257527, 76.0, 547.683323377636)
+[01Dec2024 23:14:27.250] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: vicentula joined the game
+[01Dec2024 23:14:27.257] [Server thread/INFO] [Jade/]: Syncing config to vicentula (ea963feb-ef64-36f6-8969-26de2e90d8be)
+[01Dec2024 23:14:50.883] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PlayerFormEntity['TeamAbyssal'/124563, l='ServerLevel[world]', x=620.91, y=-18.00, z=541.35] died: TeamAbyssal was slain by Looter
+[01Dec2024 23:14:52.482] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PlayerFormEntity['okshn'/124358, l='ServerLevel[world]', x=630.59, y=15.92, z=534.18] died: okshn was slain by Looter
+[01Dec2024 23:14:53.692] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PlayerFormEntity['Vee'/124360, l='ServerLevel[world]', x=536.40, y=17.90, z=585.60] died: Vee suffocated in a wall
+[01Dec2024 23:15:01.681] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PlayerFormEntity['boodahbob'/124332, l='ServerLevel[world]', x=611.61, y=12.69, z=541.08] died: boodahbob was slain by Looter
+[01Dec2024 23:15:12.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <vicentula> el wn viciao
+[01Dec2024 23:15:16.353] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <vicentula> me fui y estabas jugando
+[01Dec2024 23:15:32.405] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PlayerFormEntity['TeamAbyssal'/114581, l='ServerLevel[world]', x=196.84, y=63.00, z=128.39] died: TeamAbyssal was shot by Pillager
+[01Dec2024 23:15:40.449] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nacho1704 has completed the challenge [Village Defender]
+[01Dec2024 23:16:52.646] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PlayerFormEntity['Shiarir'/124763, l='ServerLevel[world]', x=638.84, y=11.00, z=528.62] died: Shiarir was slain by Enderman
+[01Dec2024 23:16:57.077] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PlayerFormEntity['Reno'/128064, l='ServerLevel[world]', x=698.58, y=16.22, z=527.37] died: Reno was slain by Zombie
+[01Dec2024 23:17:27.512] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: vicentula lost connection: Timed out
+[01Dec2024 23:17:27.513] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: vicentula left the game
+[01Dec2024 23:17:44.837] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: vicentula[/127.189.253.42:41527] logged in with entity id 131610 at (621.1737093030483, 91.0, 546.4490609283228)
+[01Dec2024 23:17:44.842] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: vicentula joined the game
+[01Dec2024 23:17:44.850] [Server thread/INFO] [Jade/]: Syncing config to vicentula (ea963feb-ef64-36f6-8969-26de2e90d8be)
+[01Dec2024 23:18:00.586] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PlayerFormEntity['ShadowWolf'/132617, l='ServerLevel[world]', x=589.81, y=37.54, z=549.96] died: ShadowWolf was slaughtered by Vindicator Form.
