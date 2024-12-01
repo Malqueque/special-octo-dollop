@@ -779,3 +779,22 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [01Dec2024 17:06:45.275] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nacho1704> z
 [01Dec2024 17:06:56.729] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: vicentula lost connection: Timed out
 [01Dec2024 17:06:56.730] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: vicentula left the game
+[01Dec2024 17:08:36.153] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@6add51a9[id=<null>,name=vicentula,properties={},legacy=false] (/127.189.253.42:34561): Took too long to log in
+[01Dec2024 17:08:36.155] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@6add51a9[id=<null>,name=vicentula,properties={},legacy=false] (/127.189.253.42:34561) lost connection: Took too long to log in
+[01Dec2024 17:08:36.200] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[01Dec2024 17:09:41.012] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: vicentula[/127.189.253.42:40641] logged in with entity id 86648 at (611.1560061257527, 76.0, 547.683323377636)
+[01Dec2024 17:09:41.016] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: vicentula joined the game
+[01Dec2024 17:09:41.024] [Server thread/INFO] [Jade/]: Syncing config to vicentula (ea963feb-ef64-36f6-8969-26de2e90d8be)
+[01Dec2024 17:09:52.907] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PlayerFormEntity['purple skittle'/87001, l='ServerLevel[world]', x=54.45, y=-16.00, z=464.09] died: purple skittle was slain by Enderman
+[01Dec2024 17:10:11.077] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: vicentula lost connection: Timed out
+[01Dec2024 17:10:11.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: vicentula left the game
+[01Dec2024 17:10:11.274] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PlayerFormEntity['Stinker Bomber'/87009, l='ServerLevel[world]', x=-41.15, y=81.90, z=392.60] died: Stinker Bomber suffocated in a wall
+[01Dec2024 17:13:47.273] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=125, y=64, z=203} BlockPos{x=126, y=62, z=203}
+[01Dec2024 17:15:28.453] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PlayerFormEntity['entiral'/93096, l='ServerLevel[world]', x=144.60, y=-36.10, z=251.60] died: entiral suffocated in a wall
+[01Dec2024 17:17:09.355] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PlayerFormEntity['Stinker Bomber'/94793, l='ServerLevel[world]', x=24.25, y=-12.00, z=145.04] died: Stinker Bomber was slain by Zombie
+[01Dec2024 17:17:41.556] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PlayerFormEntity['ShadowWolf'/95318, l='ServerLevel[world]', x=48.09, y=67.00, z=164.43] died: ShadowWolf was slain by Looter
+[01Dec2024 17:19:24.398] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PlayerFormEntity['entiral'/95971, l='ServerLevel[world]', x=54.78, y=-3.00, z=232.73] died: entiral was slain by Zombie
+[01Dec2024 17:21:49.249] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PlayerFormEntity['TeamAbyssal'/99248, l='ServerLevel[world]', x=135.66, y=-38.77, z=245.79] died: TeamAbyssal was slain by Looter
+[01Dec2024 17:22:48.995] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PlayerFormEntity['entiral'/99947, l='ServerLevel[world]', x=121.82, y=13.00, z=214.86] died: entiral was slain by Looter
+[01Dec2024 17:25:33.743] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PlayerFormEntity['okshn'/103003, l='ServerLevel[world]', x=21.64, y=-7.00, z=156.36] died: okshn was slain by Enderman
+[01Dec2024 17:25:42.042] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PlayerFormEntity['ASEStefan'/103776, l='ServerLevel[world]', x=164.60, y=-6.10, z=77.40] died: ASEStefan suffocated in a wall
