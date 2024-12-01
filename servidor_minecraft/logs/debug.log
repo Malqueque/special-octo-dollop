@@ -4519,3 +4519,19 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [01Dec2024 17:57:21.497] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_villager,weight=1,minDay=0,maxDay=20] to hordespawn on day 10
 [01Dec2024 17:58:11.498] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 10
 [01Dec2024 17:58:11.499] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_villager,weight=1,minDay=0,maxDay=20] to hordespawn on day 10
+[01Dec2024 17:59:01.510] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 10
+[01Dec2024 17:59:01.511] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_villager,weight=1,minDay=0,maxDay=20] to hordespawn on day 10
+[01Dec2024 17:59:01.512] [Server thread/INFO] [hordes/]: [net.smileycorp.hordes.hordeevent.capability.HordeEvent@7b9a0ecb]Can't spawn wave because max cap has been reached
+[01Dec2024 18:00:41.593] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PlayerFormEntity['Reno'/129764, l='ServerLevel[world]', x=90.51, y=-16.00, z=122.66] died: Reno was slain by Zombie
+[01Dec2024 18:01:07.856] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nacho1704 has reached the goal [Bone Crusher]
+[01Dec2024 18:01:31.541] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nacho1704 has reached the goal [Strong or Careful]
+[01Dec2024 18:01:31.541] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nacho1704 was slain by Drowned
+[01Dec2024 18:01:31.543] [Server thread/WARN] [tombstone/]: The drop event of the player Nacho1704 was canceled by another mod
+[01Dec2024 18:01:31.554] [Server thread/INFO] [tombstone/]: The player Nacho1704 has successfully been saved
+[01Dec2024 18:01:51.945] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PlayerFormEntity['MR138'/130619, l='ServerLevel[world]', x=90.14, y=63.75, z=89.30] died: MR138 was slain by Zombie
+[01Dec2024 18:02:12.253] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombiePlayer['Nacho1704'/130823, l='ServerLevel[world]', x=104.72, y=63.00, z=168.28] died: Zombie Player was slain by Nacho1704
+[01Dec2024 18:02:12.721] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Dec2024 18:02:12.729] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Dec2024 18:06:06.444] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PlayerFormEntity['okshn'/132866, l='ServerLevel[world]', x=196.65, y=-17.00, z=210.97] died: okshn was slain by Looter
+[01Dec2024 18:07:12.718] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Dec2024 18:07:12.725] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
