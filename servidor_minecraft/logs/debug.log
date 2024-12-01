@@ -4475,3 +4475,47 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [01Dec2024 17:25:42.042] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PlayerFormEntity['ASEStefan'/103776, l='ServerLevel[world]', x=164.60, y=-6.10, z=77.40] died: ASEStefan suffocated in a wall
 [01Dec2024 17:27:12.741] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [01Dec2024 17:27:12.752] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Dec2024 17:30:24.894] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PlayerFormEntity['Reno'/106145, l='ServerLevel[world]', x=138.40, y=-5.10, z=108.60] died: Reno suffocated in a wall
+[01Dec2024 17:32:12.725] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Dec2024 17:32:12.733] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Dec2024 17:33:22.940] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PlayerFormEntity['ASEStefan'/108152, l='ServerLevel[world]', x=123.48, y=14.00, z=218.40] died: ASEStefan was slain by Zombie
+[01Dec2024 17:33:28.145] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PlayerFormEntity['ItsPizzaTIM'/108488, l='ServerLevel[world]', x=110.60, y=29.90, z=240.60] died: ItsPizzaTIM suffocated in a wall
+[01Dec2024 17:34:25.746] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PlayerFormEntity['Stinker Bomber'/109566, l='ServerLevel[world]', x=136.98, y=-37.00, z=242.91] died: Stinker Bomber was slain by Zombie
+[01Dec2024 17:36:18.499] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PlayerFormEntity['Vee'/110079, l='ServerLevel[world]', x=199.40, y=20.90, z=124.60] died: Vee was shot by Skeleton
+[01Dec2024 17:37:12.717] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Dec2024 17:37:12.723] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Dec2024 17:38:06.792] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PlayerFormEntity['Shiarir'/111998, l='ServerLevel[world]', x=148.60, y=-5.10, z=90.60] died: Shiarir suffocated in a wall
+[01Dec2024 17:39:58.392] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PlayerFormEntity['ItsPizzaTIM'/114177, l='ServerLevel[world]', x=99.32, y=29.00, z=231.57] died: ItsPizzaTIM was slain by Zombie
+[01Dec2024 17:41:16.696] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PlayerFormEntity['Kronoz'/115350, l='ServerLevel[world]', x=26.69, y=-12.00, z=138.81] died: Kronoz was slain by Looter
+[01Dec2024 17:41:30.646] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PlayerFormEntity['ShadowWolf'/115471, l='ServerLevel[world]', x=115.60, y=-13.10, z=245.60] died: ShadowWolf suffocated in a wall
+[01Dec2024 17:42:12.717] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Dec2024 17:42:12.725] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Dec2024 17:42:13.994] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PlayerFormEntity['Beta'/115615, l='ServerLevel[world]', x=41.22, y=67.00, z=169.37] died: Beta was slain by Zombie
+[01Dec2024 17:42:24.846] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PlayerFormEntity['okshn'/115354, l='ServerLevel[world]', x=116.43, y=10.48, z=214.18] died: okshn was slain by Looter
+[01Dec2024 17:46:54.250] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PlayerFormEntity['Stinker Bomber'/120563, l='ServerLevel[world]', x=94.49, y=-14.00, z=111.49] died: Stinker Bomber was slain by Zombie
+[01Dec2024 17:47:12.714] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Dec2024 17:47:12.721] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Dec2024 17:49:09.742] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PlayerFormEntity['entiral'/123964, l='ServerLevel[world]', x=123.76, y=-44.00, z=116.90] died: entiral was slain by Zombie
+[01Dec2024 17:50:39.440] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PlayerFormEntity['okshn'/124667, l='ServerLevel[world]', x=149.11, y=-30.00, z=221.87] died: okshn was slain by Looter
+[01Dec2024 17:52:12.731] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Dec2024 17:52:12.739] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Dec2024 17:52:45.145] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PlayerFormEntity['okshn'/125601, l='ServerLevel[world]', x=48.77, y=-11.00, z=79.59] died: okshn was slain by Looter
+[01Dec2024 17:52:49.293] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PlayerFormEntity['ItsPizzaTIM'/125999, l='ServerLevel[world]', x=93.33, y=29.00, z=237.72] died: ItsPizzaTIM was slain by Zombie
+[01Dec2024 17:53:22.442] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PlayerFormEntity['boodahbob'/125887, l='ServerLevel[world]', x=32.11, y=87.00, z=160.19] died: boodahbob was slain by Zombie
+[01Dec2024 17:54:51.449] [Server thread/INFO] [hordes/]: [net.smileycorp.hordes.hordeevent.capability.HordeEvent@7b9a0ecb]Trying to start horde event on day 10 with nextDay 10 and time 18000
+[01Dec2024 17:54:51.453] [Server thread/INFO] [hordes/]: Applying script hordes:default for event net.smileycorp.hordes.common.event.HordeBuildSpawnDataEvent@30493c7f
+[01Dec2024 17:54:51.455] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 0
+[01Dec2024 17:54:51.455] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_villager,weight=1,minDay=0,maxDay=20] to hordespawn on day 0
+[01Dec2024 17:54:51.501] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 10
+[01Dec2024 17:54:51.501] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_villager,weight=1,minDay=0,maxDay=20] to hordespawn on day 10
+[01Dec2024 17:55:17.990] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PlayerFormEntity['Shiarir'/126959, l='ServerLevel[world]', x=177.46, y=55.31, z=200.70] died: Shiarir died because of Zombie
+[01Dec2024 17:55:41.501] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 10
+[01Dec2024 17:55:41.501] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_villager,weight=1,minDay=0,maxDay=20] to hordespawn on day 10
+[01Dec2024 17:56:31.499] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 10
+[01Dec2024 17:56:31.500] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_villager,weight=1,minDay=0,maxDay=20] to hordespawn on day 10
+[01Dec2024 17:57:12.724] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Dec2024 17:57:12.732] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Dec2024 17:57:21.497] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 10
+[01Dec2024 17:57:21.497] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_villager,weight=1,minDay=0,maxDay=20] to hordespawn on day 10
+[01Dec2024 17:58:11.498] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 10
+[01Dec2024 17:58:11.499] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_villager,weight=1,minDay=0,maxDay=20] to hordespawn on day 10
