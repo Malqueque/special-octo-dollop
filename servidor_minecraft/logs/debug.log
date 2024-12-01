@@ -3399,3 +3399,17 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [01Dec2024 21:36:46.988] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ollop78: Set own game mode to Survival Mode]
 [01Dec2024 21:36:48.131] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ollop78 lost connection: Disconnected
 [01Dec2024 21:36:48.131] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ollop78 left the game
+[01Dec2024 21:37:23.803] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Dec2024 21:37:23.811] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Dec2024 21:38:00.224] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PlayerFormEntity['XPurple_DiamondX'/31394, l='ServerLevel[world]', x=110.49, y=-12.00, z=111.67] died: XPurple_DiamondX tried to swim in lava to escape Zombie Villager
+[01Dec2024 21:38:06.022] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PlayerFormEntity['Finton'/31392, l='ServerLevel[world]', x=110.09, y=-12.86, z=113.53] died: Finton tried to swim in lava
+[01Dec2024 21:38:39.436] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PlayerFormEntity['AzPure'/31374, l='ServerLevel[world]', x=104.51, y=28.00, z=236.88] died: AzPure was slain by Zombie
+[01Dec2024 21:39:28.234] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PlayerFormEntity['TeamAbyssal'/32489, l='ServerLevel[world]', x=105.40, y=-45.00, z=313.78] died: TeamAbyssal was slain by Enderman
+[01Dec2024 21:42:23.806] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Dec2024 21:42:23.814] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Dec2024 21:42:40.901] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nacho1704 has made the advancement [Diamonds!]
+[01Dec2024 21:43:04.192] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PlayerFormEntity['MR138'/34972, l='ServerLevel[world]', x=86.84, y=-42.00, z=179.60] died: MR138 was slain by Zombie
+[01Dec2024 21:45:28.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nacho1704 was slain by Enderman Form
+[01Dec2024 21:45:28.141] [Server thread/DEBUG] [tombstone/]: A new grave of the player Nacho1704 was created at position [x:93, y:-42, z:305, dim:minecraft:overworld]
+[01Dec2024 21:45:28.162] [Server thread/INFO] [tombstone/]: The player Nacho1704 has successfully been saved
+[01Dec2024 21:46:14.178] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PlayerFormEntity['purple skittle'/38197, l='ServerLevel[world]', x=109.46, y=-15.00, z=293.19] died: purple skittle tried to swim in lava

@@ -693,6 +693,7 @@
       "maple_woods": "2024-12-01 16:38:35 +0000",
       "coniferous_forest": "2024-12-01 16:55:09 +0000",
       "aspen_glade": "2024-12-01 03:58:06 +0000",
+      "fir_clearing": "2024-12-01 21:40:08 +0000",
       "pumpkin_patch": "2024-12-01 16:37:22 +0000",
       "tundra": "2024-12-01 04:13:13 +0000",
       "gravel_beach": "2024-12-01 04:44:04 +0000"
@@ -2548,15 +2549,93 @@
     },
     "done": true
   },
+  "justhammers:recipes/tools/reinforced_core": {
+    "criteria": {
+      "has_material": "2024-12-01 21:39:05 +0000"
+    },
+    "done": true
+  },
+  "justhammers:recipes/tools/destructor_core": {
+    "criteria": {
+      "has_material": "2024-12-01 21:39:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_torch": {
+    "criteria": {
+      "has_redstone": "2024-12-01 21:34:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/clock": {
+    "criteria": {
+      "has_redstone": "2024-12-01 21:34:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/snow": {
     "criteria": {
       "has_snowball": "2024-12-01 21:18:49 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/redstone/note_block": {
+    "criteria": {
+      "has_redstone": "2024-12-01 21:34:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/target": {
+    "criteria": {
+      "has_redstone": "2024-12-01 21:34:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/compass": {
+    "criteria": {
+      "has_redstone": "2024-12-01 21:34:17 +0000"
+    },
+    "done": true
+  },
+  "justhammers:recipes/tools/reinforced_impact_core": {
+    "criteria": {
+      "has_material": "2024-12-01 21:39:05 +0000"
+    },
+    "done": true
+  },
+  "justhammers:recipes/tools/stone_hammer": {
+    "criteria": {
+      "has_the_recipe": "2024-12-01 21:39:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dropper": {
+    "criteria": {
+      "has_redstone": "2024-12-01 21:34:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_block": {
+    "criteria": {
+      "has_redstone": "2024-12-01 21:34:17 +0000"
+    },
+    "done": true
+  },
+  "justhammers:recipes/tools/impact_core": {
+    "criteria": {
+      "has_material": "2024-12-01 21:39:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/snow_block": {
     "criteria": {
       "has_snowball": "2024-12-01 21:18:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/piston": {
+    "criteria": {
+      "has_redstone": "2024-12-01 21:34:17 +0000"
     },
     "done": true
   },
