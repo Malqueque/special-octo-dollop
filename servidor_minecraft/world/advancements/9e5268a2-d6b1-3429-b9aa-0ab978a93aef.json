@@ -29,6 +29,7 @@
       "minecraft:cold_ocean": "2024-12-01 05:49:29 +0000",
       "minecraft:forest": "2024-12-01 03:49:28 +0000",
       "minecraft:old_growth_spruce_taiga": "2024-12-01 16:40:48 +0000",
+      "minecraft:deep_dark": "2024-12-01 22:13:22 +0000",
       "minecraft:meadow": "2024-12-01 16:49:20 +0000",
       "minecraft:plains": "2024-12-01 03:55:51 +0000"
     },
@@ -692,6 +693,7 @@
       "highland": "2024-12-01 16:38:27 +0000",
       "maple_woods": "2024-12-01 16:38:35 +0000",
       "coniferous_forest": "2024-12-01 16:55:09 +0000",
+      "redwood_forest": "2024-12-01 22:17:42 +0000",
       "aspen_glade": "2024-12-01 03:58:06 +0000",
       "fir_clearing": "2024-12-01 21:40:08 +0000",
       "pumpkin_patch": "2024-12-01 16:37:22 +0000",
@@ -1268,7 +1270,8 @@
   "lootr:social": {
     "criteria": {
       "opened_barrel": "2024-12-01 04:08:26 +0000",
-      "opened_chest": "2024-12-01 04:11:15 +0000"
+      "opened_chest": "2024-12-01 04:11:15 +0000",
+      "opened_cart": "2024-12-01 22:15:12 +0000"
     },
     "done": false
   },
@@ -2616,6 +2619,12 @@
     },
     "done": true
   },
+  "lootr:1cart": {
+    "criteria": {
+      "opened_cart": "2024-12-01 22:15:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_pickaxe": {
     "criteria": {
       "has_diamond": "2024-12-01 21:42:40 +0000"
@@ -2640,6 +2649,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/activator_rail": {
+    "criteria": {
+      "has_rail": "2024-12-01 22:15:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_shovel": {
     "criteria": {
       "has_diamond": "2024-12-01 21:42:40 +0000"
@@ -2661,6 +2676,12 @@
   "minecraft:recipes/combat/diamond_boots": {
     "criteria": {
       "has_diamond": "2024-12-01 21:42:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/detector_rail": {
+    "criteria": {
+      "has_rail": "2024-12-01 22:15:48 +0000"
     },
     "done": true
   },
@@ -2700,6 +2721,12 @@
     },
     "done": true
   },
+  "artifacts:amateur_archaeologist": {
+    "criteria": {
+      "find_artifact": "2024-12-01 22:18:17 +0000"
+    },
+    "done": true
+  },
   "justhammers:recipes/tools/impact_core": {
     "criteria": {
       "has_material": "2024-12-01 21:39:05 +0000"
@@ -2727,6 +2754,12 @@
   "minecraft:recipes/building_blocks/snow_block": {
     "criteria": {
       "has_snowball": "2024-12-01 21:18:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/powered_rail": {
+    "criteria": {
+      "has_rail": "2024-12-01 22:15:48 +0000"
     },
     "done": true
   },
