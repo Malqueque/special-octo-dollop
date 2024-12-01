@@ -4545,3 +4545,13 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [01Dec2024 18:17:12.722] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [01Dec2024 18:17:12.729] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [01Dec2024 18:17:39.497] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PlayerFormEntity['Nightfox'/138620, l='ServerLevel[world]', x=122.71, y=23.00, z=76.04] died: Nightfox was slain by Zombie
+[01Dec2024 18:20:00.991] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PlayerFormEntity['boodahbob'/139905, l='ServerLevel[world]', x=91.82, y=29.90, z=247.40] died: boodahbob suffocated in a wall
+[01Dec2024 18:22:12.716] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Dec2024 18:22:12.723] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Dec2024 18:23:07.650] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PlayerFormEntity['Shiarir'/142437, l='ServerLevel[world]', x=163.72, y=2.00, z=313.69] died: Shiarir was shot by Skeleton
+[01Dec2024 18:26:46.088] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nacho1704 was exploded with gas by a Pod Infector.
+[01Dec2024 18:26:46.090] [Server thread/DEBUG] [tombstone/]: A new grave of the player Nacho1704 was created at position [x:122, y:14, z:217, dim:minecraft:overworld]
+[01Dec2024 18:26:46.107] [Server thread/INFO] [tombstone/]: The player Nacho1704 has successfully been saved
+[01Dec2024 18:27:12.725] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Dec2024 18:27:12.732] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Dec2024 18:27:27.950] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PlayerFormEntity['Nacho1704'/146086, l='ServerLevel[world]', x=126.32, y=15.00, z=218.12] died: Nacho1704 was slain by Nacho1704
