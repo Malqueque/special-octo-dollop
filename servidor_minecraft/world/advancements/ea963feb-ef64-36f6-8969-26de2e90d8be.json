@@ -1977,6 +1977,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/spyglass": {
+    "criteria": {
+      "has_amethyst_shard": "2024-12-01 23:39:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_stairs_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2024-12-01 23:25:22 +0000"
@@ -2037,9 +2043,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/calibrated_sculk_sensor": {
+    "criteria": {
+      "has_amethyst_shard": "2024-12-01 23:39:29 +0000"
+    },
+    "done": true
+  },
   "justhammers:recipes/tools/reinforced_impact_core": {
     "criteria": {
       "has_material": "2024-12-01 23:25:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tinted_glass": {
+    "criteria": {
+      "has_amethyst_shard": "2024-12-01 23:39:29 +0000"
     },
     "done": true
   },
@@ -2064,6 +2082,12 @@
   "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
     "criteria": {
       "has_stone": "2024-12-01 23:25:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/amethyst_block": {
+    "criteria": {
+      "has_amethyst_shard": "2024-12-01 23:39:29 +0000"
     },
     "done": true
   },
