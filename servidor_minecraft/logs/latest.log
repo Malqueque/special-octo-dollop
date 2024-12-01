@@ -677,3 +677,41 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [01Dec2024 16:21:45.315] [Server thread/INFO] [tombstone/]: The player Nacho1704 has successfully been saved
 [01Dec2024 16:23:31.368] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nacho1704 has made the advancement [Ambush]
 [01Dec2024 16:25:06.799] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nacho1704 has reached the goal [Fortuitous Militia]
+[01Dec2024 16:27:51.250] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nacho1704 has made the advancement [Voluntary Exile]
+[01Dec2024 16:28:48.553] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nacho1704 was shot by Pillager
+[01Dec2024 16:28:48.560] [Server thread/INFO] [tombstone/]: The player Nacho1704 has successfully been saved
+[01Dec2024 16:30:29.743] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PlayerFormEntity['TeamAbyssal'/15596, l='ServerLevel[world]', x=163.40, y=-17.10, z=86.40] died: TeamAbyssal suffocated in a wall
+[01Dec2024 16:30:43.324] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nacho1704 has made the advancement [Where Is The Stone Pen?]
+[01Dec2024 16:31:01.039] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PlayerFormEntity['Vee'/15713, l='ServerLevel[world]', x=166.40, y=-15.10, z=86.40] died: Vee suffocated in a wall
+[01Dec2024 16:31:01.353] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: vicentula[/127.189.253.42:58357] logged in with entity id 16612 at (605.996808882222, 87.0, 557.0843674973431)
+[01Dec2024 16:31:01.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: vicentula joined the game
+[01Dec2024 16:31:01.379] [Server thread/INFO] [Jade/]: Syncing config to vicentula (ea963feb-ef64-36f6-8969-26de2e90d8be)
+[01Dec2024 16:31:29.919] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PlayerFormEntity['AzPure'/16681, l='ServerLevel[world]', x=557.40, y=5.90, z=521.40] died: AzPure suffocated in a wall
+[01Dec2024 16:31:44.500] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PlayerFormEntity['purple skittle'/16760, l='ServerLevel[world]', x=546.40, y=8.90, z=523.96] died: purple skittle suffocated in a wall
+[01Dec2024 16:31:54.918] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <vicentula> g
+[01Dec2024 16:32:52.434] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: vicentula has reached the goal [Strong or Careful]
+[01Dec2024 16:32:52.435] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: vicentula fell from a high place
+[01Dec2024 16:32:52.437] [Server thread/INFO] [tombstone/]: The player vicentula has successfully been saved
+[01Dec2024 16:32:56.996] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PlayerFormEntity['Shiarir'/18432, l='ServerLevel[world]', x=250.77, y=-12.00, z=193.13] died: Shiarir was slain by Looter
+[01Dec2024 16:33:19.365] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PlayerFormEntity['MR138'/21183, l='ServerLevel[world]', x=623.16, y=24.00, z=467.91] died: MR138 was shot by Skeleton
+[01Dec2024 16:33:21.613] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <vicentula> zzz
+[01Dec2024 16:33:48.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nacho1704> z
+[01Dec2024 16:33:48.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nacho1704> z
+[01Dec2024 16:34:01.878] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <vicentula> ven a hacete la casa aca
+[01Dec2024 16:34:08.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nacho1704> pasa coords
+[01Dec2024 16:34:11.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <vicentula> edtoy en el bioma de los arboles
+[01Dec2024 16:34:14.178] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <vicentula> grandes
+[01Dec2024 16:34:17.968] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nacho1704> las torres de los saqueadores sirven
+[01Dec2024 16:34:30.583] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nacho1704> se agarran a combos con los bichos esos grandes
+[01Dec2024 16:34:46.473] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <vicentula> con el gato ya estuvimos alli
+[01Dec2024 16:34:46.764] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PlayerFormEntity['Beta'/24222, l='ServerLevel[world]', x=644.17, y=11.47, z=529.08] died: Beta was slain by Zombie
+[01Dec2024 16:34:50.221] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nacho1704> creo que se mataron al de la escopeta ahsgdh
+[01Dec2024 16:34:54.913] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <vicentula> no tienen mucho
+[01Dec2024 16:35:10.330] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <vicentula> la haces corta desde alli a donde estoy
+[01Dec2024 16:35:10.559] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PlayerFormEntity['ShadowWolf'/25237, l='ServerLevel[world]', x=571.06, y=34.23, z=474.55] died: ShadowWolf was slain by Zombie
+[01Dec2024 16:35:10.633] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nacho1704> pasa las cordenadas
+[01Dec2024 16:35:29.334] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nacho1704> en el mapa guarda un punto
+[01Dec2024 16:35:37.627] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nacho1704> y ahi mismo te deja enviarlo
+[01Dec2024 16:35:45.771] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <vicentula> x606 z 546 y 87 (5)
+[01Dec2024 16:36:23.858] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PlayerFormEntity['Shiarir'/28122, l='ServerLevel[world]', x=628.64, y=34.42, z=466.51] died: Shiarir was slain by Zombie
+[01Dec2024 16:36:41.462] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PlayerFormEntity['purple skittle'/29495, l='ServerLevel[world]', x=322.52, y=-17.00, z=282.94] died: purple skittle was shot by Skeleton
