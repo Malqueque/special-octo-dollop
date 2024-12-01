@@ -658,3 +658,24 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [01Dec2024 21:45:28.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nacho1704 was slain by Enderman Form
 [01Dec2024 21:45:28.162] [Server thread/INFO] [tombstone/]: The player Nacho1704 has successfully been saved
 [01Dec2024 21:46:14.178] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PlayerFormEntity['purple skittle'/38197, l='ServerLevel[world]', x=109.46, y=-15.00, z=293.19] died: purple skittle tried to swim in lava
+[01Dec2024 21:47:16.574] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nacho1704 was blown up with gas and poison by a Carrier Form.
+[01Dec2024 21:47:16.591] [Server thread/INFO] [tombstone/]: The player Nacho1704 has successfully been saved
+[01Dec2024 21:48:57.035] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PlayerFormEntity['Shiarir'/42775, l='ServerLevel[world]', x=192.20, y=-17.00, z=318.25] died: Shiarir was shot by Skeleton
+[01Dec2024 21:50:10.089] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PlayerFormEntity['purple skittle'/44284, l='ServerLevel[world]', x=89.60, y=-41.10, z=304.60] died: purple skittle was slain by Nacho1704
+[01Dec2024 21:51:55.678] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PlayerFormEntity['ShadowSwordz'/46478, l='ServerLevel[world]', x=75.40, y=-35.63, z=433.19] died: ShadowSwordz was slain by Zombie
+[01Dec2024 21:52:04.533] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nacho1704 has made the advancement [Close Quarters]
+[01Dec2024 21:52:40.031] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PlayerFormEntity['purple skittle'/47552, l='ServerLevel[world]', x=140.79, y=-37.88, z=253.56] died: purple skittle was slain by Looter
+[01Dec2024 21:53:07.334] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nacho1704 couldn't dodge that one.
+[01Dec2024 21:53:07.339] [Server thread/INFO] [tombstone/]: The player Nacho1704 has successfully been saved
+[01Dec2024 21:56:18.183] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nacho1704 was infinitely tormented by Villager Form.
+[01Dec2024 21:56:18.209] [Server thread/INFO] [tombstone/]: The player Nacho1704 has successfully been saved
+[01Dec2024 21:57:23.628] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PlayerFormEntity['Kronoz'/53403, l='ServerLevel[world]', x=164.60, y=-25.10, z=225.60] died: Kronoz suffocated in a wall
+[01Dec2024 21:58:44.994] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nacho1704 hit the ground too hard
+[01Dec2024 21:58:44.996] [Server thread/INFO] [tombstone/]: The player Nacho1704 has successfully been saved
+[01Dec2024 22:00:12.729] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PlayerFormEntity['Shiarir'/56925, l='ServerLevel[world]', x=192.05, y=-18.58, z=327.60] died: Shiarir was slain by Enderman
+[01Dec2024 22:00:20.876] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PlayerFormEntity['Nightfox'/57376, l='ServerLevel[world]', x=138.60, y=2.15, z=315.87] died: Nightfox was slain by Enderman
+[01Dec2024 22:01:09.970] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PlayerFormEntity['TeamAbyssal'/55333, l='ServerLevel[world]', x=82.26, y=-50.00, z=356.60] died: TeamAbyssal suffocated in a wall
+[01Dec2024 22:01:13.913] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nacho1704 was made into target practice.
+[01Dec2024 22:01:13.941] [Server thread/INFO] [tombstone/]: The player Nacho1704 has successfully been saved
+[01Dec2024 22:03:43.923] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PlayerFormEntity['TeamAbyssal'/61221, l='ServerLevel[world]', x=16.05, y=31.54, z=321.93] died: TeamAbyssal was slain by Zombie
+[01Dec2024 22:03:49.826] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PlayerFormEntity['entiral'/61052, l='ServerLevel[world]', x=82.85, y=-13.00, z=339.84] died: entiral died because of Zombie
