@@ -3510,3 +3510,9 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [01Dec2024 22:44:42.921] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PlayerFormEntity['ASEStefan'/97260, l='ServerLevel[world]', x=108.87, y=-15.00, z=119.82] died: ASEStefan tried to swim in lava
 [01Dec2024 22:47:23.799] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [01Dec2024 22:47:23.806] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Dec2024 22:51:30.537] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PlayerFormEntity['Reno'/100885, l='ServerLevel[world]', x=115.60, y=29.82, z=240.40] died: Reno was slain by Zombie
+[01Dec2024 22:52:23.793] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Dec2024 22:52:23.800] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Dec2024 22:54:29.773] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PlayerFormEntity['TeamAbyssal'/102205, l='ServerLevel[world]', x=118.60, y=21.90, z=80.60] died: TeamAbyssal suffocated in a wall
+[01Dec2024 22:57:23.803] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Dec2024 22:57:23.810] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
