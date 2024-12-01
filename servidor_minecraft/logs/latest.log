@@ -693,3 +693,30 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [01Dec2024 22:21:01.777] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PlayerFormEntity['purple skittle'/75742, l='ServerLevel[world]', x=147.60, y=7.90, z=324.60] died: purple skittle suffocated in a wall
 [01Dec2024 22:21:17.777] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PlayerFormEntity['AzPure'/76158, l='ServerLevel[world]', x=21.60, y=32.90, z=346.40] died: AzPure suffocated in a wall
 [01Dec2024 22:22:44.926] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PlayerFormEntity['Finton'/76685, l='ServerLevel[world]', x=188.52, y=-23.00, z=219.20] died: Finton was slain by Zombie
+[01Dec2024 22:28:59.882] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PlayerFormEntity['boodahbob'/81592, l='ServerLevel[world]', x=78.32, y=-24.00, z=360.20] died: boodahbob was slain by Zombie
+[01Dec2024 22:30:12.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nacho1704 was slain by Pod Infector
+[01Dec2024 22:30:12.878] [Server thread/WARN] [tombstone/]: The drop event of the player Nacho1704 was canceled by another mod
+[01Dec2024 22:30:12.889] [Server thread/INFO] [tombstone/]: The player Nacho1704 has successfully been saved
+[01Dec2024 22:30:21.621] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PlayerFormEntity['Reno'/82910, l='ServerLevel[world]', x=105.69, y=-18.00, z=285.51] died: Reno was slain by Looter
+[01Dec2024 22:31:52.344] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nacho1704 died because of Zombie Player
+[01Dec2024 22:31:52.345] [Server thread/WARN] [tombstone/]: The drop event of the player Nacho1704 was canceled by another mod
+[01Dec2024 22:31:52.346] [Server thread/INFO] [tombstone/]: The player Nacho1704 has successfully been saved
+[01Dec2024 22:33:05.479] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Weaponsmith'/84695, l='ServerLevel[world]', x=69.47, y=89.54, z=366.49] died, message: 'Weaponsmith was slain by Soldier'
+[01Dec2024 22:33:41.645] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nacho1704 died because of Zombie Player
+[01Dec2024 22:33:41.647] [Server thread/WARN] [tombstone/]: The drop event of the player Nacho1704 was canceled by another mod
+[01Dec2024 22:33:41.647] [Server thread/INFO] [tombstone/]: The player Nacho1704 has successfully been saved
+[01Dec2024 22:35:09.583] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nacho1704 died
+[01Dec2024 22:35:09.584] [Server thread/WARN] [tombstone/]: The drop event of the player Nacho1704 was canceled by another mod
+[01Dec2024 22:35:09.585] [Server thread/INFO] [tombstone/]: The player Nacho1704 has successfully been saved
+[01Dec2024 22:36:01.647] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombiePlayer['Nacho1704'/82855, l='ServerLevel[world]', x=62.68, y=10.00, z=323.70] died: Zombie Player was slain by Nacho1704
+[01Dec2024 22:37:12.481] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombiePlayer['Nacho1704'/87915, l='ServerLevel[world]', x=66.47, y=10.00, z=343.40] died: Zombie Player was slain by Nacho1704
+[01Dec2024 22:40:37.771] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nacho1704 was blown up with gas and poison by a Carrier Form.
+[01Dec2024 22:40:37.796] [Server thread/INFO] [tombstone/]: The player Nacho1704 has successfully been saved
+[01Dec2024 22:41:11.333] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nacho1704 tried to swim in lava
+[01Dec2024 22:41:11.341] [Server thread/INFO] [tombstone/]: The player Nacho1704 has successfully been saved
+[01Dec2024 22:41:27.278] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nacho1704 was blown up with gas and poison by a Carrier Form.
+[01Dec2024 22:41:27.305] [Server thread/INFO] [tombstone/]: The player Nacho1704 has successfully been saved
+[01Dec2024 22:42:55.338] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nacho1704 has reached the goal [Easy Opening]
+[01Dec2024 22:43:29.974] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PlayerFormEntity['Shiarir'/96143, l='ServerLevel[world]', x=101.89, y=28.00, z=235.67] died: Shiarir was slain by Zombie
+[01Dec2024 22:43:51.277] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PlayerFormEntity['MR138'/97291, l='ServerLevel[world]', x=46.12, y=-7.00, z=128.60] died: MR138 was shot by Skeleton
+[01Dec2024 22:44:42.921] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PlayerFormEntity['ASEStefan'/97260, l='ServerLevel[world]', x=108.87, y=-15.00, z=119.82] died: ASEStefan tried to swim in lava
