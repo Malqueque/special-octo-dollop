@@ -3458,3 +3458,34 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [01Dec2024 16:36:41.462] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PlayerFormEntity['purple skittle'/29495, l='ServerLevel[world]', x=322.52, y=-17.00, z=282.94] died: purple skittle was shot by Skeleton
 [01Dec2024 16:37:12.915] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [01Dec2024 16:37:12.926] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Dec2024 16:37:24.791] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PlayerFormEntity['ShadowWolf'/31381, l='ServerLevel[world]', x=572.02, y=34.00, z=475.02] died: ShadowWolf suffocated in a wall
+[01Dec2024 16:37:44.131] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PlayerFormEntity['Vee'/32943, l='ServerLevel[world]', x=351.02, y=5.00, z=336.80] died: Vee was blown up by Creeper
+[01Dec2024 16:38:54.357] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PlayerFormEntity['ShadowWolf'/32666, l='ServerLevel[world]', x=460.79, y=48.00, z=389.53] died: ShadowWolf was slain by Zombie
+[01Dec2024 16:40:37.261] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nacho1704> tienes cama arriba?
+[01Dec2024 16:40:41.363] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <vicentula> si
+[01Dec2024 16:40:43.177] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nacho1704> para explorar un poco la zona
+[01Dec2024 16:42:12.738] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Dec2024 16:42:12.746] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Dec2024 16:43:05.572] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=590, y=-4, z=859}
+[01Dec2024 16:43:57.962] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PlayerFormEntity['ItsPizzaTIM'/44249, l='ServerLevel[world]', x=800.10, y=-1.59, z=656.64] died: ItsPizzaTIM was slain by Looter
+[01Dec2024 16:45:02.820] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <vicentula> zz
+[01Dec2024 16:45:17.882] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nacho1704> aaaaa
+[01Dec2024 16:45:31.106] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nacho1704 was slain by Enderman Form
+[01Dec2024 16:45:31.108] [Server thread/DEBUG] [tombstone/]: A new grave of the player Nacho1704 was created at position [x:636, y:63, z:570, dim:minecraft:overworld]
+[01Dec2024 16:45:31.130] [Server thread/INFO] [tombstone/]: The player Nacho1704 has successfully been saved
+[01Dec2024 16:45:40.566] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <vicentula> jajajaaj
+[01Dec2024 16:46:08.055] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: vicentula was slain by Enderman Form
+[01Dec2024 16:46:08.057] [Server thread/DEBUG] [tombstone/]: A new grave of the player vicentula was created at position [x:612, y:65, z:548, dim:minecraft:overworld]
+[01Dec2024 16:46:08.085] [Server thread/INFO] [tombstone/]: The player vicentula has successfully been saved
+[01Dec2024 16:46:16.795] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nacho1704 was consumed by Pillager Form.
+[01Dec2024 16:46:16.798] [Server thread/DEBUG] [tombstone/]: A new grave of the player Nacho1704 was created at position [x:678, y:66, z:588, dim:minecraft:overworld]
+[01Dec2024 16:46:16.818] [Server thread/INFO] [tombstone/]: The player Nacho1704 has successfully been saved
+[01Dec2024 16:46:47.863] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: vicentula lost connection: Disconnected
+[01Dec2024 16:46:47.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: vicentula left the game
+[01Dec2024 16:46:47.918] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[01Dec2024 16:46:48.162] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nacho1704 couldn't dodge that one.
+[01Dec2024 16:46:48.163] [Server thread/DEBUG] [tombstone/]: A new grave of the player Nacho1704 was created at position [x:667, y:63, z:589, dim:minecraft:overworld]
+[01Dec2024 16:46:48.165] [Server thread/INFO] [tombstone/]: The player Nacho1704 has successfully been saved
+[01Dec2024 16:47:12.746] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Dec2024 16:47:12.754] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Dec2024 16:47:21.500] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PlayerFormEntity['AzPure'/50448, l='ServerLevel[world]', x=598.30, y=22.45, z=607.02] died: AzPure was slain by Zombie

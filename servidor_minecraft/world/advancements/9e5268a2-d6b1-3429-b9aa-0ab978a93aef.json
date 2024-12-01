@@ -19,6 +19,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:taiga": "2024-12-01 16:38:55 +0000",
       "minecraft:frozen_river": "2024-12-01 04:46:58 +0000",
       "minecraft:beach": "2024-12-01 04:21:39 +0000",
       "minecraft:river": "2024-12-01 05:10:57 +0000",
@@ -27,6 +28,7 @@
       "minecraft:snowy_taiga": "2024-12-01 04:46:56 +0000",
       "minecraft:cold_ocean": "2024-12-01 05:49:29 +0000",
       "minecraft:forest": "2024-12-01 03:49:28 +0000",
+      "minecraft:old_growth_spruce_taiga": "2024-12-01 16:40:48 +0000",
       "minecraft:plains": "2024-12-01 03:55:51 +0000"
     },
     "done": false
@@ -685,7 +687,10 @@
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
+      "highland": "2024-12-01 16:38:27 +0000",
+      "maple_woods": "2024-12-01 16:38:35 +0000",
       "aspen_glade": "2024-12-01 03:58:06 +0000",
+      "pumpkin_patch": "2024-12-01 16:37:22 +0000",
       "tundra": "2024-12-01 04:13:13 +0000",
       "gravel_beach": "2024-12-01 04:44:04 +0000"
     },
@@ -2262,6 +2267,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/pumpkin_seeds": {
+    "criteria": {
+      "has_pumpkin": "2024-12-01 16:37:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-12-01 16:40:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/voluntary_exile": {
     "criteria": {
       "voluntary_exile": "2024-12-01 16:27:51 +0000"
@@ -2292,6 +2309,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-12-01 16:40:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/spruce_slab": {
     "criteria": {
       "has_planks": "2024-12-01 16:25:40 +0000"
@@ -2301,6 +2324,18 @@
   "tombstone:adventure/create_magic_tablet": {
     "criteria": {
       "has_magic_tablet": "2024-12-01 16:30:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/pumpkin_pie": {
+    "criteria": {
+      "has_pumpkin": "2024-12-01 16:37:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-12-01 16:40:47 +0000"
     },
     "done": true
   },
@@ -2334,6 +2369,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-12-01 16:40:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dark_oak_wood": {
     "criteria": {
       "has_log": "2024-12-01 16:30:32 +0000"
@@ -2364,9 +2405,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-12-01 16:40:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/gray_banner": {
     "criteria": {
       "has_gray_wool": "2024-12-01 16:37:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-12-01 16:40:47 +0000"
     },
     "done": true
   },
