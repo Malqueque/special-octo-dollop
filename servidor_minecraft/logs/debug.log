@@ -3447,3 +3447,17 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [01Dec2024 22:02:23.810] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [01Dec2024 22:03:43.923] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PlayerFormEntity['TeamAbyssal'/61221, l='ServerLevel[world]', x=16.05, y=31.54, z=321.93] died: TeamAbyssal was slain by Zombie
 [01Dec2024 22:03:49.826] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PlayerFormEntity['entiral'/61052, l='ServerLevel[world]', x=82.85, y=-13.00, z=339.84] died: entiral died because of Zombie
+[01Dec2024 22:07:23.802] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Dec2024 22:07:23.810] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Dec2024 22:07:39.863] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nacho1704 moved too quickly! -10.076565831903196,-2.0,-0.4461573159547356
+[01Dec2024 22:07:49.573] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nacho1704 moved too quickly! 0.08647024207731846,0.0,10.057123136949542
+[01Dec2024 22:09:33.630] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PlayerFormEntity['Beta'/64536, l='ServerLevel[world]', x=-11.93, y=-43.00, z=468.53] died: Beta was slain by Looter
+[01Dec2024 22:10:41.885] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PlayerFormEntity['Allan Marceau'/65893, l='ServerLevel[world]', x=95.28, y=14.00, z=354.65] died: Allan Marceau was shot by Skeleton
+[01Dec2024 22:11:07.075] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nacho1704 was blown up with gas and poison by a Carrier Form.
+[01Dec2024 22:11:07.077] [Server thread/DEBUG] [tombstone/]: A new grave of the player Nacho1704 was created at position [x:68, y:-39, z:432, dim:minecraft:overworld]
+[01Dec2024 22:11:07.089] [Server thread/INFO] [tombstone/]: The player Nacho1704 has successfully been saved
+[01Dec2024 22:11:36.522] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PlayerFormEntity['Finton'/68660, l='ServerLevel[world]', x=48.05, y=-17.00, z=405.56] died: Finton was slain by Looter
+[01Dec2024 22:12:02.877] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PlayerFormEntity['Nightfox'/68249, l='ServerLevel[world]', x=49.02, y=-2.00, z=358.00] died: Nightfox was slain by Zombie
+[01Dec2024 22:12:23.813] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Dec2024 22:12:23.820] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Dec2024 22:15:12.641] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nacho1704 has made the advancement [Tunnel Treasures]
