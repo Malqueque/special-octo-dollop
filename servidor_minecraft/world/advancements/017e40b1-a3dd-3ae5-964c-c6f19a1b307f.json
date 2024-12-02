@@ -1376,7 +1376,9 @@
       "minecraft:pillager": "2024-12-02 21:35:14 +0000",
       "minecraft:skeleton": "2024-12-01 04:24:31 +0000",
       "minecraft:creeper": "2024-12-01 05:23:26 +0000",
-      "minecraft:zombie": "2024-12-01 04:19:31 +0000"
+      "minecraft:zombie": "2024-12-01 04:19:31 +0000",
+      "minecraft:drowned": "2024-12-02 22:17:06 +0000",
+      "minecraft:zombie_villager": "2024-12-02 22:22:07 +0000"
     },
     "done": false
   },
@@ -2296,9 +2298,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_pickaxe": "2024-12-02 22:16:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_nugget": {
     "criteria": {
       "has_gold_ingot": "2024-12-02 21:52:45 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/find_grave_dust": {
+    "criteria": {
+      "from_undead": "2024-12-02 22:20:49 +0000"
     },
     "done": true
   },
@@ -2329,6 +2343,12 @@
   "sophisticatedbackpacks:recipes/misc/diamond_backpack": {
     "criteria": {
       "has_gold_backpack": "2024-12-02 21:52:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_pickaxe": "2024-12-02 22:16:33 +0000"
     },
     "done": true
   },
@@ -2449,6 +2469,12 @@
   "tombstone:adventure/ambush": {
     "criteria": {
       "coded_trigger": "2024-12-02 21:35:14 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/bone_crusher": {
+    "criteria": {
+      "coded_trigger": "2024-12-02 22:20:49 +0000"
     },
     "done": true
   },

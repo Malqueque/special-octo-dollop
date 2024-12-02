@@ -3612,3 +3612,90 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [02Dec2024 22:05:12.728] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jajaja joined the game
 [02Dec2024 22:05:12.836] [Server thread/INFO] [Jade/]: Syncing config to jajaja (60531054-5ff8-313e-b861-2a8b0e2dc9e3)
 [02Dec2024 22:05:54.888] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PlayerFormEntity['TeamAbyssal'/154640, l='ServerLevel[world]', x=611.35, y=36.14, z=488.41] died: TeamAbyssal was slain by Looter
+[02Dec2024 22:06:31.318] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Dec2024 22:06:31.327] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Dec2024 22:07:55.947] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PlayerFormEntity['ASEStefan'/158945, l='ServerLevel[world]', x=105.05, y=-11.00, z=303.34] died: ASEStefan was slain by Enderman
+[02Dec2024 22:09:58.418] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PlayerFormEntity['Allan Marceau'/166619, l='ServerLevel[world]', x=169.61, y=3.00, z=402.11] died: Allan Marceau was slain by Looter
+[02Dec2024 22:10:14.954] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jajaja has reached the goal [Bone Crusher]
+[02Dec2024 22:10:18.047] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PlayerFormEntity['Reno'/165706, l='ServerLevel[world]', x=717.43, y=11.69, z=522.56] died: Reno was shot by Skeleton
+[02Dec2024 22:11:30.943] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Dec2024 22:11:30.951] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Dec2024 22:12:56.512] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PlayerFormEntity['ASEStefan'/173323, l='ServerLevel[world]', x=126.28, y=19.00, z=310.60] died: ASEStefan was slain by Zombie
+[02Dec2024 22:14:20.709] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jajaja has made the advancement [Tunnel Treasures]
+[02Dec2024 22:14:20.711] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jajaja has made the advancement [Disme A Dozen]
+[02Dec2024 22:15:37.146] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PlayerFormEntity['Finton'/179616, l='ServerLevel[world]', x=654.71, y=18.00, z=495.01] died: Finton was slain by Zombie
+[02Dec2024 22:15:53.552] [Server thread/INFO] [hordes/]: [net.smileycorp.hordes.hordeevent.capability.HordeEvent@1fa08848]Trying to start horde event on day 20 with nextDay 20 and time 18000
+[02Dec2024 22:15:53.556] [Server thread/INFO] [hordes/]: Applying script hordes:default for event net.smileycorp.hordes.common.event.HordeBuildSpawnDataEvent@4d3adca0
+[02Dec2024 22:15:53.559] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 0
+[02Dec2024 22:15:53.559] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_villager,weight=1,minDay=0,maxDay=20] to hordespawn on day 0
+[02Dec2024 22:15:53.560] [Server thread/INFO] [hordes/]: [net.smileycorp.hordes.hordeevent.capability.HordeEvent@5f360a4f]Trying to start horde event on day 10 with nextDay 10 and time 18000
+[02Dec2024 22:15:53.560] [Server thread/INFO] [hordes/]: Applying script hordes:default for event net.smileycorp.hordes.common.event.HordeBuildSpawnDataEvent@6357c80a
+[02Dec2024 22:15:53.560] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 0
+[02Dec2024 22:15:53.560] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_villager,weight=1,minDay=0,maxDay=20] to hordespawn on day 0
+[02Dec2024 22:15:53.605] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 20
+[02Dec2024 22:15:53.605] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_villager,weight=1,minDay=0,maxDay=20] to hordespawn on day 20
+[02Dec2024 22:15:53.605] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_horse,weight=3,minDay=20,maxDay=40] to hordespawn on day 20
+[02Dec2024 22:15:53.605] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.husk,weight=40,minDay=20,maxDay=40] to hordespawn on day 20
+[02Dec2024 22:15:53.628] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 10
+[02Dec2024 22:15:53.629] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_villager,weight=1,minDay=0,maxDay=20] to hordespawn on day 10
+[02Dec2024 22:16:18.844] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PlayerFormEntity['Allan Marceau'/179024, l='ServerLevel[world]', x=92.25, y=63.77, z=74.07] died: Allan Marceau was slain by Zombie
+[02Dec2024 22:16:30.954] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Dec2024 22:16:30.961] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Dec2024 22:16:43.602] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 20
+[02Dec2024 22:16:43.603] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_villager,weight=1,minDay=0,maxDay=20] to hordespawn on day 20
+[02Dec2024 22:16:43.604] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_horse,weight=3,minDay=20,maxDay=40] to hordespawn on day 20
+[02Dec2024 22:16:43.604] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.husk,weight=40,minDay=20,maxDay=40] to hordespawn on day 20
+[02Dec2024 22:16:43.610] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 10
+[02Dec2024 22:16:43.610] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_villager,weight=1,minDay=0,maxDay=20] to hordespawn on day 10
+[02Dec2024 22:17:33.600] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 20
+[02Dec2024 22:17:33.601] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_villager,weight=1,minDay=0,maxDay=20] to hordespawn on day 20
+[02Dec2024 22:17:33.601] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_horse,weight=3,minDay=20,maxDay=40] to hordespawn on day 20
+[02Dec2024 22:17:33.601] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.husk,weight=40,minDay=20,maxDay=40] to hordespawn on day 20
+[02Dec2024 22:17:33.608] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 10
+[02Dec2024 22:17:33.609] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_villager,weight=1,minDay=0,maxDay=20] to hordespawn on day 10
+[02Dec2024 22:17:54.956] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PlayerFormEntity['ShadowSwordz'/183225, l='ServerLevel[world]', x=684.40, y=68.10, z=605.03] died: ShadowSwordz was slain by Drowned
+[02Dec2024 22:18:23.601] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 20
+[02Dec2024 22:18:23.601] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_villager,weight=1,minDay=0,maxDay=20] to hordespawn on day 20
+[02Dec2024 22:18:23.602] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_horse,weight=3,minDay=20,maxDay=40] to hordespawn on day 20
+[02Dec2024 22:18:23.602] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.husk,weight=40,minDay=20,maxDay=40] to hordespawn on day 20
+[02Dec2024 22:18:23.607] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 10
+[02Dec2024 22:18:23.608] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_villager,weight=1,minDay=0,maxDay=20] to hordespawn on day 10
+[02Dec2024 22:19:14.509] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 20
+[02Dec2024 22:19:14.510] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_villager,weight=1,minDay=0,maxDay=20] to hordespawn on day 20
+[02Dec2024 22:19:14.510] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_horse,weight=3,minDay=20,maxDay=40] to hordespawn on day 20
+[02Dec2024 22:19:14.510] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.husk,weight=40,minDay=20,maxDay=40] to hordespawn on day 20
+[02Dec2024 22:19:14.516] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 10
+[02Dec2024 22:19:14.517] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_villager,weight=1,minDay=0,maxDay=20] to hordespawn on day 10
+[02Dec2024 22:20:04.766] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PlayerFormEntity['okshn'/186689, l='ServerLevel[world]', x=83.40, y=-16.00, z=116.78] died: okshn was slain by Zombie
+[02Dec2024 22:20:05.118] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 20
+[02Dec2024 22:20:05.119] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_villager,weight=1,minDay=0,maxDay=20] to hordespawn on day 20
+[02Dec2024 22:20:05.119] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_horse,weight=3,minDay=20,maxDay=40] to hordespawn on day 20
+[02Dec2024 22:20:05.119] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.husk,weight=40,minDay=20,maxDay=40] to hordespawn on day 20
+[02Dec2024 22:20:05.125] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 10
+[02Dec2024 22:20:05.125] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_villager,weight=1,minDay=0,maxDay=20] to hordespawn on day 10
+[02Dec2024 22:20:12.568] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[02Dec2024 22:20:31.021] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[02Dec2024 22:20:49.758] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ollop78 has reached the goal [Bone Crusher]
+[02Dec2024 22:20:49.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ollop78 has made the advancement [A Strange Grave Dust]
+[02Dec2024 22:20:50.732] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2015ms or 40 ticks behind
+[02Dec2024 22:21:18.417] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[02Dec2024 22:21:39.128] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Dec2024 22:21:39.135] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Dec2024 22:22:01.948] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PlayerFormEntity['Beta'/190034, l='ServerLevel[world]', x=549.72, y=24.00, z=620.12] died: Beta was slain by Zombie
+[02Dec2024 22:22:12.046] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PlayerFormEntity['Reno'/190044, l='ServerLevel[world]', x=659.60, y=61.99, z=542.40] died: Reno was slain by Drowned
+[02Dec2024 22:22:39.238] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BenjaChilenoxD fell from a high place
+[02Dec2024 22:22:39.239] [Server thread/WARN] [tombstone/]: The drop event of the player BenjaChilenoxD was canceled by another mod
+[02Dec2024 22:22:39.241] [Server thread/INFO] [tombstone/]: The player BenjaChilenoxD has successfully been saved
+[02Dec2024 22:23:22.464] [Worker-Main-3/DEBUG] [mixin/]: Mixing BeardifierMixin from yungsapi.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[02Dec2024 22:23:22.475] [Worker-Main-3/DEBUG] [mixin/]: Mixing accessor.BeardifierAccessor from yungsapi.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[02Dec2024 22:23:53.339] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombiePlayer['BenjaChilenoxD'/192279, l='ServerLevel[world]', x=608.22, y=66.00, z=544.55] died: Zombie Player was infinitely tormented by Human Form.
+[02Dec2024 22:24:19.659] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BenjaChilenoxD was lethally executed by Human Form.
+[02Dec2024 22:24:19.661] [Server thread/DEBUG] [tombstone/]: A new grave of the player BenjaChilenoxD was created at position [x:607, y:66, z:544, dim:minecraft:overworld]
+[02Dec2024 22:24:19.674] [Server thread/INFO] [tombstone/]: The player BenjaChilenoxD has successfully been saved
+[02Dec2024 22:24:40.749] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BenjaChilenoxD was perforated by the flood.
+[02Dec2024 22:24:40.751] [Server thread/DEBUG] [tombstone/]: A new grave of the player BenjaChilenoxD was created at position [x:611, y:65, z:552, dim:minecraft:overworld]
+[02Dec2024 22:24:40.755] [Server thread/INFO] [tombstone/]: The player BenjaChilenoxD has successfully been saved
+[02Dec2024 22:25:34.819] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PlayerFormEntity['Beta'/199156, l='ServerLevel[world]', x=633.19, y=65.00, z=577.36] died: Beta was shot by BenjaChilenoxD
+[02Dec2024 22:25:35.301] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BenjaChilenoxD has made the advancement [Suit Up]
+[02Dec2024 22:26:39.078] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Dec2024 22:26:39.087] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
