@@ -667,3 +667,17 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [02Dec2024 21:53:41.902] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PlayerFormEntity['ASEStefan'/122233, l='ServerLevel[world]', x=173.19, y=-25.00, z=219.12] died: ASEStefan was slain by Looter
 [02Dec2024 21:55:24.977] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PlayerFormEntity['purple skittle'/126728, l='ServerLevel[world]', x=637.23, y=32.30, z=459.95] died: purple skittle was slain by Zombie
 [02Dec2024 21:55:41.780] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PlayerFormEntity['ShadowWolf'/127815, l='ServerLevel[world]', x=703.60, y=17.90, z=538.40] died: ShadowWolf suffocated in a wall
+[02Dec2024 21:58:40.887] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PlayerFormEntity['boodahbob'/133418, l='ServerLevel[world]', x=535.53, y=2.00, z=546.33] died: boodahbob was slain by Zombie
+[02Dec2024 21:59:58.937] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PlayerFormEntity['Reno'/134889, l='ServerLevel[world]', x=528.23, y=0.05, z=547.63] died: Reno was slain by Looter
+[02Dec2024 22:01:00.343] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PlayerFormEntity['Finton'/135183, l='ServerLevel[world]', x=622.01, y=21.00, z=610.59] died: Finton was slain by Zombie
+[02Dec2024 22:01:17.391] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PlayerFormEntity['entiral'/136197, l='ServerLevel[world]', x=46.60, y=68.90, z=176.60] died: entiral suffocated in a wall
+[02Dec2024 22:01:43.330] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PlayerFormEntity['ShadowWolf'/137688, l='ServerLevel[world]', x=620.19, y=40.00, z=625.35] died: ShadowWolf was slain by Zombie
+[02Dec2024 22:01:54.025] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BenjaChilenoxD was exploded with gas by a Pod Infector.
+[02Dec2024 22:01:54.049] [Server thread/INFO] [tombstone/]: The player BenjaChilenoxD has successfully been saved
+[02Dec2024 22:02:05.050] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PlayerFormEntity['BenjaChilenoxD'/138687, l='ServerLevel[world]', x=603.60, y=68.53, z=526.19] died: BenjaChilenoxD was shot by BenjaChilenoxD
+[02Dec2024 22:03:17.737] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PlayerFormEntity['Kronoz'/144969, l='ServerLevel[world]', x=695.60, y=13.90, z=613.60] died: Kronoz suffocated in a wall
+[02Dec2024 22:04:29.793] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PlayerFormEntity['Reno'/149866, l='ServerLevel[world]', x=120.60, y=-15.10, z=283.60] died: Reno suffocated in a wall
+[02Dec2024 22:05:12.721] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: jajaja[/127.159.230.212:44789] logged in with entity id 154673 at (586.9574344151627, 7.0, 549.3241717007778)
+[02Dec2024 22:05:12.728] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jajaja joined the game
+[02Dec2024 22:05:12.836] [Server thread/INFO] [Jade/]: Syncing config to jajaja (60531054-5ff8-313e-b861-2a8b0e2dc9e3)
+[02Dec2024 22:05:54.888] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PlayerFormEntity['TeamAbyssal'/154640, l='ServerLevel[world]', x=611.35, y=36.14, z=488.41] died: TeamAbyssal was slain by Looter
