@@ -1376,6 +1376,8 @@
       "minecraft:pillager": "2024-12-02 21:35:14 +0000",
       "minecraft:skeleton": "2024-12-01 04:24:31 +0000",
       "minecraft:creeper": "2024-12-01 05:23:26 +0000",
+      "minecraft:husk": "2024-12-02 22:29:10 +0000",
+      "minecraft:stray": "2024-12-02 22:29:17 +0000",
       "minecraft:zombie": "2024-12-01 04:19:31 +0000",
       "minecraft:drowned": "2024-12-02 22:17:06 +0000",
       "minecraft:zombie_villager": "2024-12-02 22:22:07 +0000"
@@ -2274,6 +2276,12 @@
     },
     "done": true
   },
+  "majruszsdifficulty:undead_army_treasure_bag": {
+    "criteria": {
+      "bag_opened": "2024-12-02 22:33:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dark_oak_fence_gate": {
     "criteria": {
       "has_planks": "2024-12-02 21:33:25 +0000"
@@ -2301,6 +2309,12 @@
   "minecraft:recipes/misc/gold_nugget_from_smelting": {
     "criteria": {
       "has_golden_pickaxe": "2024-12-02 22:16:33 +0000"
+    },
+    "done": true
+  },
+  "majruszsdifficulty:undead_army": {
+    "criteria": {
+      "army_defeated": "2024-12-02 22:31:04 +0000"
     },
     "done": true
   },
@@ -2472,6 +2486,12 @@
     },
     "done": true
   },
+  "majruszsdifficulty:recipes/misc/tattered_armor": {
+    "criteria": {
+      "has_cloth": "2024-12-02 22:33:11 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/bone_crusher": {
     "criteria": {
       "coded_trigger": "2024-12-02 22:20:49 +0000"
@@ -2487,6 +2507,12 @@
   "tombstone:adventure/choose_grave_type": {
     "criteria": {
       "coded_trigger": "2024-12-02 21:18:01 +0000"
+    },
+    "done": true
+  },
+  "majruszsdifficulty:recipes/misc/string_from_cloth": {
+    "criteria": {
+      "has_cloth": "2024-12-02 22:33:11 +0000"
     },
     "done": true
   },
@@ -2526,6 +2552,12 @@
     },
     "done": true
   },
+  "majruszsdifficulty:recipes/misc/bandage_golden": {
+    "criteria": {
+      "has_bandage": "2024-12-02 22:33:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_hoe": {
     "criteria": {
       "has_gold_ingot": "2024-12-02 21:52:45 +0000"
@@ -2559,6 +2591,12 @@
   "minecraft:recipes/misc/iron_ingot_from_nuggets": {
     "criteria": {
       "has_iron_nugget": "2024-12-02 21:43:28 +0000"
+    },
+    "done": true
+  },
+  "majruszsdifficulty:recipes/misc/undead_army_battle_standard": {
+    "criteria": {
+      "has_cloth": "2024-12-02 22:33:11 +0000"
     },
     "done": true
   },

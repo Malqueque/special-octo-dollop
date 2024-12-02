@@ -754,3 +754,24 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [02Dec2024 22:24:40.755] [Server thread/INFO] [tombstone/]: The player BenjaChilenoxD has successfully been saved
 [02Dec2024 22:25:34.819] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PlayerFormEntity['Beta'/199156, l='ServerLevel[world]', x=633.19, y=65.00, z=577.36] died: Beta was shot by BenjaChilenoxD
 [02Dec2024 22:25:35.301] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BenjaChilenoxD has made the advancement [Suit Up]
+[02Dec2024 22:27:20.277] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PlayerFormEntity['ItsPizzaTIM'/203064, l='ServerLevel[world]', x=87.86, y=63.00, z=131.08] died: ItsPizzaTIM was slain by Husk
+[02Dec2024 22:27:57.637] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PlayerFormEntity['Kronoz'/203904, l='ServerLevel[world]', x=190.56, y=62.63, z=159.01] died: Kronoz was slaughtered by Vindicator Form.
+[02Dec2024 22:29:21.892] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jajaja was shot by BenjaChilenoxD
+[02Dec2024 22:29:21.894] [Server thread/WARN] [tombstone/]: The drop event of the player jajaja was canceled by another mod
+[02Dec2024 22:29:21.897] [Server thread/INFO] [tombstone/]: The player jajaja has successfully been saved
+[02Dec2024 22:29:28.545] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombiePlayer['jajaja'/213562, l='ServerLevel[world]', x=605.46, y=87.00, z=546.46] died: Zombie Player was shot by BenjaChilenoxD
+[02Dec2024 22:30:15.331] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PlayerFormEntity['Allan Marceau'/214188, l='ServerLevel[world]', x=574.76, y=63.00, z=622.60] died: Allan Marceau was slain by Looter
+[02Dec2024 22:31:04.810] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ollop78 has made the advancement [Spooky Scary Army]
+[02Dec2024 22:31:27.854] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PlayerFormEntity['MR138'/215657, l='ServerLevel[world]', x=550.24, y=22.44, z=499.40] died: MR138 was slain by Zombie
+[02Dec2024 22:31:44.759] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PlayerFormEntity['ASEStefan'/218845, l='ServerLevel[world]', x=121.40, y=30.00, z=83.00] died: ASEStefan was shot by Skeleton
+[02Dec2024 22:32:06.563] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BenjaChilenoxD lost connection: Disconnected
+[02Dec2024 22:32:06.564] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BenjaChilenoxD left the game
+[02Dec2024 22:32:06.616] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[02Dec2024 22:32:17.200] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PlayerFormEntity['TeamAbyssal'/221130, l='ServerLevel[world]', x=695.60, y=40.90, z=596.12] died: TeamAbyssal was slain by Zombie
+[02Dec2024 22:33:11.213] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ollop78 has made the advancement [Boneyard]
+[02Dec2024 22:33:50.150] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PlayerFormEntity['Reno'/221999, l='ServerLevel[world]', x=601.38, y=64.00, z=667.31] died: Reno was slain by Zombie
+[02Dec2024 22:34:23.333] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PlayerFormEntity['ShadowSwordz'/221274, l='ServerLevel[world]', x=137.87, y=26.00, z=66.52] died: ShadowSwordz was slain by Walker
+[02Dec2024 22:34:34.839] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PlayerFormEntity['Allan Marceau'/221247, l='ServerLevel[world]', x=637.90, y=16.00, z=480.11] died: Allan Marceau was slain by Zombie
+[02Dec2024 22:35:15.501] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PlayerFormEntity['Nightfox'/221062, l='ServerLevel[world]', x=81.21, y=-14.00, z=96.41] died: Nightfox was slain by Looter
+[02Dec2024 22:36:08.947] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PlayerFormEntity['okshn'/225438, l='ServerLevel[world]', x=61.60, y=63.23, z=75.50] died: okshn was slain by Zombie
+[02Dec2024 22:36:41.278] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PlayerFormEntity['MR138'/225136, l='ServerLevel[world]', x=27.40, y=-9.10, z=154.60] died: MR138 suffocated in a wall
