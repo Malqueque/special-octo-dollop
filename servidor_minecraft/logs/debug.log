@@ -4650,3 +4650,10 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [02Dec2024 00:17:25.801] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [02Dec2024 00:17:25.809] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [02Dec2024 00:18:40.282] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PlayerFormEntity['Finton'/194496, l='ServerLevel[world]', x=462.95, y=-44.00, z=408.90] died: Finton died because of Zombie
+[02Dec2024 00:19:56.834] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: vicentula has made the advancement [Diamonds!]
+[02Dec2024 00:22:25.804] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Dec2024 00:22:25.811] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Dec2024 00:24:44.732] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PlayerFormEntity['Beta'/199905, l='ServerLevel[world]', x=685.12, y=13.00, z=574.39] died: Beta was slain by Enderman
+[02Dec2024 00:26:39.496] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PlayerFormEntity['Reno'/201960, l='ServerLevel[world]', x=703.90, y=14.00, z=552.94] died: Reno was slain by Zombie
+[02Dec2024 00:27:25.803] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Dec2024 00:27:25.811] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
