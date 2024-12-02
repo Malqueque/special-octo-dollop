@@ -2217,5 +2217,11 @@
     },
     "done": true
   },
+  "tombstone:adventure/bone_crusher": {
+    "criteria": {
+      "coded_trigger": "2024-12-02 21:16:33 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

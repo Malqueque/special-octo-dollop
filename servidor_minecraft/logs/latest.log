@@ -620,3 +620,17 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [02Dec2024 21:13:53.452] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ollop78: Set own game mode to Creative Mode]
 [02Dec2024 21:14:05.455] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ollop78: Set own game mode to Survival Mode]
 [02Dec2024 21:14:59.531] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PlayerFormEntity['Finton'/10809, l='ServerLevel[world]', x=121.40, y=-44.23, z=116.38] died: Finton was slain by Runner
+[02Dec2024 21:15:52.546] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BenjaChilenoxD was killed
+[02Dec2024 21:15:52.549] [Server thread/WARN] [tombstone/]: The drop event of the player BenjaChilenoxD was canceled by another mod
+[02Dec2024 21:15:52.550] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ollop78: Killed BenjaChilenoxD]
+[02Dec2024 21:15:52.601] [Server thread/INFO] [tombstone/]: The player BenjaChilenoxD has successfully been saved
+[02Dec2024 21:16:33.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BenjaChilenoxD has reached the goal [Bone Crusher]
+[02Dec2024 21:16:33.794] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombiePlayer['BenjaChilenoxD'/14109, l='ServerLevel[world]', x=605.39, y=87.00, z=546.39] died: Zombie Player was slain by BenjaChilenoxD
+[02Dec2024 21:18:01.982] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ollop78 has reached the goal [Die Classy]
+[02Dec2024 21:18:15.636] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BenjaChilenoxD was slain by Enderman Form
+[02Dec2024 21:18:15.662] [Server thread/INFO] [tombstone/]: The player BenjaChilenoxD has successfully been saved
+[02Dec2024 21:22:00.676] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PlayerFormEntity['Beta'/33583, l='ServerLevel[world]', x=617.24, y=17.86, z=603.60] died: Beta was slain by Zombie
+[02Dec2024 21:22:22.132] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PlayerFormEntity['Allan Marceau'/33297, l='ServerLevel[world]', x=534.60, y=8.90, z=538.40] died: Allan Marceau suffocated in a wall
+[02Dec2024 21:23:53.036] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PlayerFormEntity['entiral'/36402, l='ServerLevel[world]', x=499.68, y=10.00, z=571.84] died: entiral was slain by Zombie
+[02Dec2024 21:24:35.388] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PlayerFormEntity['okshn'/38581, l='ServerLevel[world]', x=619.43, y=13.31, z=478.60] died: okshn was shot by Skeleton
+[02Dec2024 21:25:11.636] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PlayerFormEntity['Nightfox'/38287, l='ServerLevel[world]', x=87.52, y=-15.00, z=117.58] died: Nightfox was blown up by Creeper
