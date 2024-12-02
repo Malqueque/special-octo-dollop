@@ -1757,6 +1757,7 @@
   },
   "lootr:social": {
     "criteria": {
+      "opened_barrel": "2024-12-02 01:39:45 +0000",
       "opened_chest": "2024-12-01 05:25:46 +0000"
     },
     "done": false
@@ -1989,6 +1990,30 @@
   "tombstone:adventure/ambush": {
     "criteria": {
       "coded_trigger": "2024-12-02 01:11:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2024-12-02 01:39:34 +0000"
+    },
+    "done": true
+  },
+  "lootr:1barrel": {
+    "criteria": {
+      "opened_barrel": "2024-12-02 01:39:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2024-12-02 01:39:34 +0000"
+    },
+    "done": true
+  },
+  "artifacts:amateur_archaeologist": {
+    "criteria": {
+      "find_artifact": "2024-12-02 01:39:35 +0000"
     },
     "done": true
   },
