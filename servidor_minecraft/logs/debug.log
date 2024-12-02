@@ -3382,3 +3382,18 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [02Dec2024 21:23:53.036] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PlayerFormEntity['entiral'/36402, l='ServerLevel[world]', x=499.68, y=10.00, z=571.84] died: entiral was slain by Zombie
 [02Dec2024 21:24:35.388] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PlayerFormEntity['okshn'/38581, l='ServerLevel[world]', x=619.43, y=13.31, z=478.60] died: okshn was shot by Skeleton
 [02Dec2024 21:25:11.636] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PlayerFormEntity['Nightfox'/38287, l='ServerLevel[world]', x=87.52, y=-15.00, z=117.58] died: Nightfox was blown up by Creeper
+[02Dec2024 21:26:30.927] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Dec2024 21:26:30.934] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Dec2024 21:26:35.091] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PlayerFormEntity['Finton'/39894, l='ServerLevel[world]', x=147.88, y=-6.32, z=84.85] died: Finton was slain by Zombie
+[02Dec2024 21:27:05.478] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PlayerFormEntity['okshn'/39012, l='ServerLevel[world]', x=672.33, y=16.59, z=586.59] died: okshn was slain by Looter
+[02Dec2024 21:27:49.596] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BenjaChilenoxD> z
+[02Dec2024 21:29:29.434] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PlayerFormEntity['okshn'/46640, l='ServerLevel[world]', x=672.06, y=23.00, z=595.34] died: okshn was slain by Zombie
+[02Dec2024 21:29:57.076] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PlayerFormEntity['ShadowWolf'/46386, l='ServerLevel[world]', x=563.40, y=-5.10, z=498.60] died: ShadowWolf suffocated in a wall
+[02Dec2024 21:31:30.925] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Dec2024 21:31:30.933] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Dec2024 21:32:01.191] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PlayerFormEntity['Kronoz'/51646, l='ServerLevel[world]', x=182.36, y=-28.00, z=216.70] died: Kronoz was slain by Zombie
+[02Dec2024 21:33:49.091] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PlayerFormEntity['TeamAbyssal'/51880, l='ServerLevel[world]', x=49.96, y=68.00, z=162.68] died: TeamAbyssal was slain by Zombie
+[02Dec2024 21:34:15.098] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PlayerFormEntity['MR138'/56528, l='ServerLevel[world]', x=82.10, y=-14.10, z=89.40] died: MR138 suffocated in a wall
+[02Dec2024 21:34:37.990] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PlayerFormEntity['ShadowSwordz'/60450, l='ServerLevel[world]', x=213.98, y=-8.00, z=127.05] died: ShadowSwordz was shot by Skeleton
+[02Dec2024 21:35:14.550] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ollop78 has made the advancement [Ambush]
+[02Dec2024 21:35:33.884] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PlayerFormEntity['AzPure'/62450, l='ServerLevel[world]', x=53.60, y=68.90, z=163.01] died: AzPure suffocated in a wall
