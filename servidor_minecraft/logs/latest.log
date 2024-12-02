@@ -765,3 +765,55 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [02Dec2024 02:07:26.966] [Server thread/INFO] [tombstone/]: The player vicentula has successfully been saved
 [02Dec2024 02:07:55.221] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
 [02Dec2024 02:08:23.503] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jajaja has made the advancement [Knowledge raises the soul]
+[02Dec2024 02:08:36.878] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PlayerFormEntity['TeamAbyssal'/21578, l='ServerLevel[world]', x=-48.64, y=1.00, z=433.67] died: TeamAbyssal was slain by Looter
+[02Dec2024 02:08:42.176] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BenjaChilenoxD was blown up by Creeper
+[02Dec2024 02:08:42.218] [Server thread/INFO] [tombstone/]: The player BenjaChilenoxD has successfully been saved
+[02Dec2024 02:08:53.068] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[02Dec2024 02:08:57.911] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: vicentula was infinitely tormented by Human Form.
+[02Dec2024 02:08:57.947] [Server thread/INFO] [tombstone/]: The player vicentula has successfully been saved
+[02Dec2024 02:09:15.023] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <vicentula> encontre la edcite
+[02Dec2024 02:09:16.115] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[02Dec2024 02:09:20.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: vicentula tried to swim in lava
+[02Dec2024 02:09:20.793] [Server thread/INFO] [tombstone/]: The player vicentula has successfully been saved
+[02Dec2024 02:09:38.789] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7675ms or 153 ticks behind
+[02Dec2024 02:09:46.053] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PlayerFormEntity['ItsPizzaTIM'/31801, l='ServerLevel[world]', x=34.68, y=38.00, z=-7.22] died: ItsPizzaTIM was slain by Zombie
+[02Dec2024 02:09:57.427] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3663ms or 73 ticks behind
+[02Dec2024 02:09:59.950] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=67, y=74, z=660} BlockPos{x=68, y=73, z=660}
+[02Dec2024 02:10:00.039] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=67, y=74, z=660} BlockPos{x=68, y=73, z=660}
+[02Dec2024 02:10:00.040] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=67, y=74, z=660} BlockPos{x=68, y=73, z=660}
+[02Dec2024 02:10:00.181] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=68, y=75, z=660} BlockPos{x=70, y=73, z=658}
+[02Dec2024 02:10:00.184] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=68, y=75, z=660} BlockPos{x=70, y=73, z=658}
+[02Dec2024 02:10:00.242] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=68, y=75, z=660} BlockPos{x=70, y=73, z=658}
+[02Dec2024 02:10:00.326] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=68, y=75, z=660} BlockPos{x=70, y=73, z=658}
+[02Dec2024 02:10:01.153] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=73, y=76, z=657} BlockPos{x=73, y=74, z=657}
+[02Dec2024 02:10:01.155] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=73, y=76, z=657} BlockPos{x=73, y=74, z=657}
+[02Dec2024 02:10:01.241] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=73, y=76, z=657} BlockPos{x=73, y=74, z=657}
+[02Dec2024 02:10:18.640] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6226ms or 124 ticks behind
+[02Dec2024 02:10:36.760] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3146ms or 62 ticks behind
+[02Dec2024 02:10:42.745] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: BulletProjectileEntity['entity.dotf.bullet_projectile'/36998, l='ServerLevel[world]', x=394.60, y=10.33, z=364.42]
+[02Dec2024 02:10:42.746] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: BulletProjectileEntity['entity.dotf.bullet_projectile'/37000, l='ServerLevel[world]', x=396.85, y=264.95, z=367.20]
+[02Dec2024 02:10:42.746] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: BulletProjectileEntity['entity.dotf.bullet_projectile'/37001, l='ServerLevel[world]', x=397.36, y=-29.58, z=366.92]
+[02Dec2024 02:10:49.498] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: BulletProjectileEntity['entity.dotf.bullet_projectile'/37549, l='ServerLevel[world]', x=373.43, y=20.90, z=359.75]
+[02Dec2024 02:10:49.498] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: BulletProjectileEntity['entity.dotf.bullet_projectile'/37567, l='ServerLevel[world]', x=378.57, y=363.13, z=366.14]
+[02Dec2024 02:10:49.499] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: BulletProjectileEntity['entity.dotf.bullet_projectile'/37581, l='ServerLevel[world]', x=380.51, y=-68.58, z=366.47]
+[02Dec2024 02:10:49.499] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: BulletProjectileEntity['entity.dotf.bullet_projectile'/37584, l='ServerLevel[world]', x=373.20, y=-41.55, z=360.64]
+[02Dec2024 02:10:49.499] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: BulletProjectileEntity['entity.dotf.bullet_projectile'/37585, l='ServerLevel[world]', x=380.61, y=-37.60, z=365.10]
+[02Dec2024 02:10:49.499] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: BulletProjectileEntity['entity.dotf.bullet_projectile'/37589, l='ServerLevel[world]', x=377.30, y=-1.62, z=366.49]
+[02Dec2024 02:10:49.500] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: BulletProjectileEntity['entity.dotf.bullet_projectile'/37590, l='ServerLevel[world]', x=380.36, y=-9.89, z=366.25]
+[02Dec2024 02:10:49.500] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: BulletProjectileEntity['entity.dotf.bullet_projectile'/37591, l='ServerLevel[world]', x=376.95, y=21.09, z=378.71]
+[02Dec2024 02:10:49.501] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Military02Entity['Military'/37724, l='ServerLevel[world]', x=359.61, y=-12.00, z=397.40]
+[02Dec2024 02:10:54.955] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3241ms or 64 ticks behind
+[02Dec2024 02:11:00.555] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: BulletProjectileEntity['entity.dotf.bullet_projectile'/38664, l='ServerLevel[world]', x=326.01, y=51.26, z=361.32]
+[02Dec2024 02:11:00.556] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: BulletProjectileEntity['entity.dotf.bullet_projectile'/38665, l='ServerLevel[world]', x=325.69, y=51.26, z=361.32]
+[02Dec2024 02:11:14.817] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[02Dec2024 02:11:33.388] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PlayerFormEntity['ShadowWolf'/38758, l='ServerLevel[world]', x=-33.66, y=14.00, z=438.95] died: ShadowWolf was slain by Looter
+[02Dec2024 02:11:42.898] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PlayerFormEntity['ASEStefan'/40347, l='ServerLevel[world]', x=50.34, y=-16.00, z=463.99] died: ASEStefan was shot by Skeleton
+[02Dec2024 02:12:58.818] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[02Dec2024 02:13:16.328] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PlayerFormEntity['boodahbob'/44080, l='ServerLevel[world]', x=632.83, y=17.13, z=553.49] died: boodahbob was slain by Looter
+[02Dec2024 02:13:17.228] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3414ms or 68 ticks behind
+[02Dec2024 02:13:37.985] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5771ms or 115 ticks behind
+[02Dec2024 02:13:46.996] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PlayerFormEntity['Finton'/46476, l='ServerLevel[world]', x=387.60, y=-27.10, z=225.60] died: Finton suffocated in a wall
+[02Dec2024 02:13:57.132] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4168ms or 83 ticks behind
+[02Dec2024 02:14:15.410] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3296ms or 65 ticks behind
+[02Dec2024 02:15:02.044] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PlayerFormEntity['ShadowWolf'/46680, l='ServerLevel[world]', x=323.40, y=-38.00, z=251.86] died: ShadowWolf was slain by Looter
+[02Dec2024 02:18:09.842] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PlayerFormEntity['Finton'/54804, l='ServerLevel[world]', x=283.88, y=4.00, z=213.14] died: Finton was slain by Looter
