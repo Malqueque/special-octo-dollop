@@ -825,3 +825,6 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [02Dec2024 16:51:02.465] [Server thread/INFO] [tombstone/]: The player BenjaChilenoxD has successfully been saved
 [02Dec2024 16:51:38.646] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BenjaChilenoxD lost connection: Disconnected
 [02Dec2024 16:51:38.647] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BenjaChilenoxD left the game
+[02Dec2024 16:56:28.538] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PlayerFormEntity['ShadowSwordz'/125517, l='ServerLevel[world]', x=712.60, y=41.90, z=614.60] died: ShadowSwordz suffocated in a wall
+[02Dec2024 17:00:43.598] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: vicentula lost connection: Disconnected
+[02Dec2024 17:00:43.599] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: vicentula left the game
