@@ -2009,13 +2009,13 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/white_dye": {
+  "minecraft:recipes/misc/bowl": {
     "criteria": {
-      "has_bone_meal": "2024-12-01 07:44:29 +0000"
+      "has_brown_mushroom": "2024-12-01 07:15:24 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/bowl": {
+  "minecraft:recipes/food/mushroom_stew": {
     "criteria": {
       "has_brown_mushroom": "2024-12-01 07:15:24 +0000"
     },
@@ -2051,21 +2051,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-12-01 07:21:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/cauldron": {
     "criteria": {
       "has_water_bucket": "2024-12-01 07:28:38 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/food/mushroom_stew": {
+  "minecraft:recipes/misc/white_dye": {
     "criteria": {
-      "has_brown_mushroom": "2024-12-01 07:15:24 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
-    "criteria": {
-      "has_mossy_cobblestone": "2024-12-01 07:21:31 +0000"
+      "has_bone_meal": "2024-12-01 07:44:29 +0000"
     },
     "done": true
   },

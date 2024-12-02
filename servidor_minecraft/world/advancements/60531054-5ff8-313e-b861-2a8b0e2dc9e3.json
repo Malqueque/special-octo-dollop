@@ -1010,6 +1010,7 @@
       "minecraft:skeleton": "2024-12-01 04:13:55 +0000",
       "minecraft:spider": "2024-12-01 05:14:54 +0000",
       "minecraft:creeper": "2024-12-01 05:24:26 +0000",
+      "minecraft:witch": "2024-12-02 01:11:23 +0000",
       "minecraft:zombie": "2024-12-01 04:07:33 +0000"
     },
     "done": false
@@ -1920,18 +1921,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/emerald_block": {
-    "criteria": {
-      "has_emerald": "2024-12-02 01:04:50 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
-    "criteria": {
-      "has_mossy_cobblestone": "2024-12-02 01:00:23 +0000"
-    },
-    "done": true
-  },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
       "highland": "2024-12-02 01:04:43 +0000",
@@ -1940,9 +1929,15 @@
     },
     "done": false
   },
-  "minecraft:recipes/misc/red_dye_from_poppy": {
+  "biomesoplenty:biomesoplenty/root": {
     "criteria": {
-      "has_poppy": "2024-12-02 01:06:09 +0000"
+      "coniferous_forest": "2024-12-02 00:59:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-12-02 01:00:23 +0000"
     },
     "done": true
   },
@@ -1964,12 +1959,6 @@
     },
     "done": true
   },
-  "biomesoplenty:biomesoplenty/root": {
-    "criteria": {
-      "coniferous_forest": "2024-12-02 00:59:43 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
     "criteria": {
       "has_mossy_cobblestone": "2024-12-02 01:00:23 +0000"
@@ -1979,6 +1968,24 @@
   "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
     "criteria": {
       "has_mossy_cobblestone": "2024-12-02 01:00:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2024-12-02 01:04:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2024-12-02 01:06:09 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/ambush": {
+    "criteria": {
+      "coded_trigger": "2024-12-02 01:11:23 +0000"
     },
     "done": true
   },
