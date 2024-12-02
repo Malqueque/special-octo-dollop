@@ -68,3 +68,54 @@
 [02Dec2024 00:59:34.281] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/244208, l='ServerLevel[world]', x=17.50, y=100.00, z=426.50] died, message: 'Unemployed was blown up with gas and poison by a Carrier Form.'
 [02Dec2024 00:59:34.285] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Leatherworker'/244600, l='ServerLevel[world]', x=18.50, y=100.00, z=433.50] died, message: 'Leatherworker was blown up with gas and poison by a Carrier Form.'
 [02Dec2024 00:59:34.286] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/244714, l='ServerLevel[world]', x=19.50, y=96.00, z=435.50] died, message: 'Farmer was blown up with gas and poison by a Carrier Form.'
+[02Dec2024 00:59:50.230] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PlayerFormEntity['Reno'/258087, l='ServerLevel[world]', x=-80.11, y=85.00, z=291.02] died: Reno was slain by Enderman
+[02Dec2024 01:00:19.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: vicentula has made the advancement [Tunnel Treasures]
+[02Dec2024 01:00:27.821] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PlayerFormEntity['Kronoz'/258962, l='ServerLevel[world]', x=22.91, y=96.00, z=422.01] died: Kronoz was slain by Iron Golem
+[02Dec2024 01:01:36.372] [Server thread/INFO] [hordes/]: [net.smileycorp.hordes.hordeevent.capability.HordeEvent@5aa987f4]Trying to start horde event on day 20 with nextDay 20 and time 18000
+[02Dec2024 01:01:36.377] [Server thread/INFO] [hordes/]: Applying script hordes:default for event net.smileycorp.hordes.common.event.HordeBuildSpawnDataEvent@5bfb4e28
+[02Dec2024 01:01:36.379] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 10
+[02Dec2024 01:01:36.380] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_villager,weight=1,minDay=0,maxDay=20] to hordespawn on day 10
+[02Dec2024 01:01:36.431] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 20
+[02Dec2024 01:01:36.431] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_villager,weight=1,minDay=0,maxDay=20] to hordespawn on day 20
+[02Dec2024 01:01:36.432] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_horse,weight=3,minDay=20,maxDay=40] to hordespawn on day 20
+[02Dec2024 01:01:36.432] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.husk,weight=40,minDay=20,maxDay=40] to hordespawn on day 20
+[02Dec2024 01:02:26.403] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 20
+[02Dec2024 01:02:26.404] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_villager,weight=1,minDay=0,maxDay=20] to hordespawn on day 20
+[02Dec2024 01:02:26.404] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_horse,weight=3,minDay=20,maxDay=40] to hordespawn on day 20
+[02Dec2024 01:02:26.404] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.husk,weight=40,minDay=20,maxDay=40] to hordespawn on day 20
+[02Dec2024 01:02:44.972] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PlayerFormEntity['entiral'/262509, l='ServerLevel[world]', x=37.09, y=95.94, z=439.89] died: entiral was slain by Iron Golem
+[02Dec2024 01:03:03.734] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/244026, l='ServerLevel[world]', x=57.30, y=91.00, z=414.30] died, message: 'Nitwit was murdered by Human Form.'
+[02Dec2024 01:03:08.099] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/244025, l='ServerLevel[world]', x=61.70, y=91.00, z=414.30] died, message: 'Unemployed became one with the flood.'
+[02Dec2024 01:03:16.404] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 20
+[02Dec2024 01:03:16.405] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_villager,weight=1,minDay=0,maxDay=20] to hordespawn on day 20
+[02Dec2024 01:03:16.405] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_horse,weight=3,minDay=20,maxDay=40] to hordespawn on day 20
+[02Dec2024 01:03:16.405] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.husk,weight=40,minDay=20,maxDay=40] to hordespawn on day 20
+[02Dec2024 01:03:17.580] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PlayerFormEntity['purple skittle'/262306, l='ServerLevel[world]', x=3.12, y=-5.00, z=477.40] died: purple skittle was slain by vicentula
+[02Dec2024 01:04:03.704] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PlayerFormEntity['Finton'/264093, l='ServerLevel[world]', x=104.88, y=86.00, z=374.67] died: Finton was slain by Enderman
+[02Dec2024 01:04:06.438] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 20
+[02Dec2024 01:04:06.438] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_villager,weight=1,minDay=0,maxDay=20] to hordespawn on day 20
+[02Dec2024 01:04:06.438] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_horse,weight=3,minDay=20,maxDay=40] to hordespawn on day 20
+[02Dec2024 01:04:06.439] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.husk,weight=40,minDay=20,maxDay=40] to hordespawn on day 20
+[02Dec2024 01:04:06.902] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PlayerFormEntity['purple skittle'/264092, l='ServerLevel[world]', x=3.04, y=-5.00, z=477.40] died: purple skittle was slain by Nacho1704
+[02Dec2024 01:04:56.400] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 20
+[02Dec2024 01:04:56.401] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_villager,weight=1,minDay=0,maxDay=20] to hordespawn on day 20
+[02Dec2024 01:04:56.401] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_horse,weight=3,minDay=20,maxDay=40] to hordespawn on day 20
+[02Dec2024 01:04:56.401] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.husk,weight=40,minDay=20,maxDay=40] to hordespawn on day 20
+[02Dec2024 01:04:56.401] [Server thread/INFO] [hordes/]: [net.smileycorp.hordes.hordeevent.capability.HordeEvent@5aa987f4]Can't spawn wave because max cap has been reached
+[02Dec2024 01:05:11.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: vicentula has made the advancement [Barrel Booty]
+[02Dec2024 01:05:16.347] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PlayerFormEntity['Nightfox'/263271, l='ServerLevel[world]', x=72.05, y=95.70, z=421.79] died: Nightfox was slain by jajaja
+[02Dec2024 01:05:40.891] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jajaja was made into target practice.
+[02Dec2024 01:05:40.922] [Server thread/INFO] [tombstone/]: The player jajaja has successfully been saved
+[02Dec2024 01:05:46.405] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 20
+[02Dec2024 01:05:46.405] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_villager,weight=1,minDay=0,maxDay=20] to hordespawn on day 20
+[02Dec2024 01:05:46.405] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_horse,weight=3,minDay=20,maxDay=40] to hordespawn on day 20
+[02Dec2024 01:05:46.406] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.husk,weight=40,minDay=20,maxDay=40] to hordespawn on day 20
+[02Dec2024 01:05:46.406] [Server thread/INFO] [hordes/]: [net.smileycorp.hordes.hordeevent.capability.HordeEvent@5aa987f4]Can't spawn wave because max cap has been reached
+[02Dec2024 01:05:50.638] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PlayerFormEntity['Shiarir'/265261, l='ServerLevel[world]', x=-41.86, y=-41.25, z=361.00] died: Shiarir was slain by Looter
+[02Dec2024 01:06:25.744] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombiePlayer['Nacho1704'/240954, l='ServerLevel[world]', x=80.58, y=15.00, z=357.38] died: Zombie Player was slaughtered by Vindicator Form.
+[02Dec2024 01:07:01.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: vicentula has made the advancement [Disme A Dozen]
+[02Dec2024 01:07:10.489] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/243825, l='ServerLevel[world]', x=41.71, y=90.10, z=401.47] died, message: 'Nitwit was murdered by AzPure.'
+[02Dec2024 01:07:15.046] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Mason'/244602, l='ServerLevel[world]', x=78.00, y=93.00, z=405.00] died, message: 'Mason was shot by Pillager Form'
+[02Dec2024 01:07:17.374] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nacho1704 has made the advancement [Penteconter]
+[02Dec2024 01:07:37.370] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/244046, l='ServerLevel[world]', x=69.65, y=92.94, z=396.36] died, message: 'Farmer bled to death'
+[02Dec2024 01:07:56.670] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Leatherworker'/244599, l='ServerLevel[world]', x=74.02, y=93.00, z=438.47] died, message: 'Leatherworker bled to death'
