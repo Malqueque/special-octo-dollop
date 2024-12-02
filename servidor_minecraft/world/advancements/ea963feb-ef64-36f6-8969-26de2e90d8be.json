@@ -2405,5 +2405,11 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/gold_backpack": {
+    "criteria": {
+      "has_iron_backpack": "2024-12-02 02:22:55 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

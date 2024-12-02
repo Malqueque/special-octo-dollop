@@ -817,3 +817,19 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [02Dec2024 02:14:15.410] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3296ms or 65 ticks behind
 [02Dec2024 02:15:02.044] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PlayerFormEntity['ShadowWolf'/46680, l='ServerLevel[world]', x=323.40, y=-38.00, z=251.86] died: ShadowWolf was slain by Looter
 [02Dec2024 02:18:09.842] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PlayerFormEntity['Finton'/54804, l='ServerLevel[world]', x=283.88, y=4.00, z=213.14] died: Finton was slain by Looter
+[02Dec2024 02:19:55.489] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PlayerFormEntity['Finton'/56682, l='ServerLevel[world]', x=392.83, y=25.00, z=214.77] died: Finton was slain by Zombie
+[02Dec2024 02:20:40.686] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PlayerFormEntity['MR138'/57361, l='ServerLevel[world]', x=641.60, y=33.90, z=466.60] died: MR138 suffocated in a wall
+[02Dec2024 02:21:26.477] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BenjaChilenoxD was exploded with gas by a Pod Infector.
+[02Dec2024 02:21:26.522] [Server thread/INFO] [tombstone/]: The player BenjaChilenoxD has successfully been saved
+[02Dec2024 02:22:37.111] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PlayerFormEntity['ASEStefan'/60668, l='ServerLevel[world]', x=382.86, y=68.00, z=249.22] died: ASEStefan was shot by BenjaChilenoxD
+[02Dec2024 02:22:46.246] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BenjaChilenoxD was slain by Enderman Form
+[02Dec2024 02:22:46.293] [Server thread/INFO] [tombstone/]: The player BenjaChilenoxD has successfully been saved
+[02Dec2024 02:24:43.435] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PlayerFormEntity['Kronoz'/64290, l='ServerLevel[world]', x=545.26, y=44.00, z=334.16] died: Kronoz was slain by Looter
+[02Dec2024 02:24:58.218] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BenjaChilenoxD couldn't dodge that one.
+[02Dec2024 02:24:58.272] [Server thread/INFO] [tombstone/]: The player BenjaChilenoxD has successfully been saved
+[02Dec2024 02:26:06.936] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BenjaChilenoxD was exploded with gas by a Pod Infector.
+[02Dec2024 02:26:06.989] [Server thread/INFO] [tombstone/]: The player BenjaChilenoxD has successfully been saved
+[02Dec2024 02:27:45.026] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BenjaChilenoxD was blown up by Creeper
+[02Dec2024 02:27:45.074] [Server thread/INFO] [tombstone/]: The player BenjaChilenoxD has successfully been saved
+[02Dec2024 02:28:00.230] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PlayerFormEntity['AzPure'/68810, l='ServerLevel[world]', x=713.00, y=13.69, z=527.78] died: AzPure was slain by Zombie
+[02Dec2024 02:28:25.592] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PlayerFormEntity['okshn'/69912, l='ServerLevel[world]', x=590.72, y=37.54, z=546.72] died: okshn was blown up by Creeper
