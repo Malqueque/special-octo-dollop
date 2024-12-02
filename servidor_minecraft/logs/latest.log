@@ -14,3 +14,20 @@
 [02Dec2024 00:19:56.834] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: vicentula has made the advancement [Diamonds!]
 [02Dec2024 00:24:44.732] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PlayerFormEntity['Beta'/199905, l='ServerLevel[world]', x=685.12, y=13.00, z=574.39] died: Beta was slain by Enderman
 [02Dec2024 00:26:39.496] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PlayerFormEntity['Reno'/201960, l='ServerLevel[world]', x=703.90, y=14.00, z=552.94] died: Reno was slain by Zombie
+[02Dec2024 00:29:48.526] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PlayerFormEntity['AzPure'/204179, l='ServerLevel[world]', x=709.36, y=16.42, z=541.94] died: AzPure was slain by Zombie
+[02Dec2024 00:30:55.290] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PlayerFormEntity['Shiarir'/204725, l='ServerLevel[world]', x=647.40, y=20.90, z=559.60] died: Shiarir suffocated in a wall
+[02Dec2024 00:32:02.396] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Nacho1704[/127.23.204.30:41315] logged in with entity id 205476 at (108.59301881542417, 63.0, 169.362426034796)
+[02Dec2024 00:32:02.401] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nacho1704 joined the game
+[02Dec2024 00:32:02.424] [Server thread/INFO] [Jade/]: Syncing config to Nacho1704 (9e5268a2-d6b1-3429-b9aa-0ab978a93aef)
+[02Dec2024 00:32:33.913] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PlayerFormEntity['ItsPizzaTIM'/206421, l='ServerLevel[world]', x=226.90, y=63.00, z=157.31] died: ItsPizzaTIM was shot by Pillager
+[02Dec2024 00:33:00.561] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <vicentula> pene
+[02Dec2024 00:33:04.991] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <vicentula> q fai mi chanchito
+[02Dec2024 00:33:09.464] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nacho1704> ds
+[02Dec2024 00:33:42.400] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PlayerFormEntity['boodahbob'/202488, l='ServerLevel[world]', x=628.36, y=15.00, z=536.06] died: boodahbob was slain by Looter
+[02Dec2024 00:34:08.760] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <vicentula> zz
+[02Dec2024 00:34:17.751] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PlayerFormEntity['ShadowSwordz'/207593, l='ServerLevel[world]', x=64.14, y=-16.00, z=97.13] died: ShadowSwordz was slain by Looter
+[02Dec2024 00:34:45.322] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PlayerFormEntity['Nightfox'/204982, l='ServerLevel[world]', x=595.89, y=-3.98, z=553.68] died: Nightfox tried to swim in lava
+[02Dec2024 00:35:12.594] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nacho1704 was outgunned by the flood.
+[02Dec2024 00:35:12.599] [Server thread/INFO] [tombstone/]: The player Nacho1704 has successfully been saved
+[02Dec2024 00:35:34.294] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PlayerFormEntity['AzPure'/211283, l='ServerLevel[world]', x=611.48, y=63.00, z=630.61] died: AzPure was slain by Zombie
+[02Dec2024 00:35:38.351] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <vicentula> Nacho1704
