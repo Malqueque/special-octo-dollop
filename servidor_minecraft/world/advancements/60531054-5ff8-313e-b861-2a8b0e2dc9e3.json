@@ -992,8 +992,11 @@
     "criteria": {
       "cooked_porkchop": "2024-12-01 05:14:47 +0000",
       "cooked_beef": "2024-12-01 05:04:45 +0000",
+      "apple": "2024-12-02 22:54:47 +0000",
       "bread": "2024-12-02 01:33:59 +0000",
-      "rotten_flesh": "2024-12-01 04:06:33 +0000"
+      "rotten_flesh": "2024-12-01 04:06:33 +0000",
+      "glow_berries": "2024-12-02 22:59:03 +0000",
+      "carrot": "2024-12-02 22:56:38 +0000"
     },
     "done": false
   },
@@ -2385,6 +2388,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/spyglass": {
+    "criteria": {
+      "has_amethyst_shard": "2024-12-02 22:48:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/activator_rail": {
     "criteria": {
       "has_rail": "2024-12-02 22:12:18 +0000"
@@ -2394,6 +2403,18 @@
   "minecraft:recipes/transportation/detector_rail": {
     "criteria": {
       "has_rail": "2024-12-02 22:12:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/calibrated_sculk_sensor": {
+    "criteria": {
+      "has_amethyst_shard": "2024-12-02 22:48:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tinted_glass": {
+    "criteria": {
+      "has_amethyst_shard": "2024-12-02 22:48:35 +0000"
     },
     "done": true
   },
@@ -2415,15 +2436,45 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/copper_backpack": {
+    "criteria": {
+      "has_backpack": "2024-12-02 22:45:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dripstone_block": {
     "criteria": {
       "has_pointed_dripstone": "2024-12-02 22:11:35 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/amethyst_block": {
+    "criteria": {
+      "has_amethyst_shard": "2024-12-02 22:48:35 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_magic_scroll": {
+    "criteria": {
+      "has_magic_scroll": "2024-12-02 22:47:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/powered_rail": {
     "criteria": {
       "has_rail": "2024-12-02 22:12:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/mojang_banner_pattern": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2024-12-02 22:45:49 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/iron_backpack": {
+    "criteria": {
+      "has_backpack": "2024-12-02 22:45:50 +0000"
     },
     "done": true
   },
