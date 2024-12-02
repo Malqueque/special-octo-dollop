@@ -804,3 +804,24 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [02Dec2024 16:42:07.271] [Server thread/INFO] [tombstone/]: The player BenjaChilenoxD has successfully been saved
 [02Dec2024 16:42:07.895] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PlayerFormEntity['Nightfox'/105164, l='ServerLevel[world]', x=53.60, y=1.90, z=353.40] died: Nightfox suffocated in a wall
 [02Dec2024 16:42:23.515] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PlayerFormEntity['BenjaChilenoxD'/99841, l='ServerLevel[world]', x=618.10, y=64.00, z=531.11] died: BenjaChilenoxD was shot by BenjaChilenoxD
+[02Dec2024 16:44:44.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nacho1704 tried to swim in lava
+[02Dec2024 16:44:44.637] [Server thread/WARN] [tombstone/]: The drop event of the player Nacho1704 was canceled by another mod
+[02Dec2024 16:44:44.638] [Server thread/INFO] [tombstone/]: The player Nacho1704 has successfully been saved
+[02Dec2024 16:45:43.498] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombiePlayer['Nacho1704'/111176, l='ServerLevel[world]', x=105.70, y=-58.00, z=355.29] died: Zombie Player tried to swim in lava
+[02Dec2024 16:46:45.899] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PlayerFormEntity['Finton'/114328, l='ServerLevel[world]', x=17.60, y=33.90, z=346.60] died: Finton suffocated in a wall
+[02Dec2024 16:46:53.706] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nacho1704 burned to death
+[02Dec2024 16:46:53.709] [Server thread/INFO] [tombstone/]: The player Nacho1704 has successfully been saved
+[02Dec2024 16:47:13.406] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PlayerFormEntity['Shiarir'/116179, l='ServerLevel[world]', x=171.22, y=22.77, z=275.54] died: Shiarir was slain by Looter
+[02Dec2024 16:47:59.113] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PlayerFormEntity['ShadowSwordz'/117448, l='ServerLevel[world]', x=557.24, y=14.00, z=485.79] died: ShadowSwordz was slain by Zombie
+[02Dec2024 16:48:02.659] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PlayerFormEntity['MR138'/117049, l='ServerLevel[world]', x=679.60, y=-24.10, z=542.60] died: MR138 suffocated in a wall whilst fighting Skeleton
+[02Dec2024 16:48:25.506] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PlayerFormEntity['Reno'/117235, l='ServerLevel[world]', x=95.52, y=-15.00, z=287.79] died: Reno was slain by Enderman
+[02Dec2024 16:48:59.520] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nacho1704 tried to swim in lava
+[02Dec2024 16:48:59.526] [Server thread/INFO] [tombstone/]: The player Nacho1704 has successfully been saved
+[02Dec2024 16:49:02.315] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nacho1704 lost connection: Disconnected
+[02Dec2024 16:49:02.316] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nacho1704 left the game
+[02Dec2024 16:49:21.342] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PlayerFormEntity['TeamAbyssal'/119061, l='ServerLevel[world]', x=596.97, y=64.00, z=658.85] died: TeamAbyssal died because of Zombie
+[02Dec2024 16:50:49.602] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PlayerFormEntity['BenjaChilenoxD'/120385, l='ServerLevel[world]', x=611.69, y=65.00, z=536.78] died: BenjaChilenoxD was shot by BenjaChilenoxD
+[02Dec2024 16:51:02.451] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BenjaChilenoxD was infinitely tormented by Human Form.
+[02Dec2024 16:51:02.465] [Server thread/INFO] [tombstone/]: The player BenjaChilenoxD has successfully been saved
+[02Dec2024 16:51:38.646] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BenjaChilenoxD lost connection: Disconnected
+[02Dec2024 16:51:38.647] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BenjaChilenoxD left the game
