@@ -896,3 +896,33 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [02Dec2024 02:46:32.235] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PlayerFormEntity['Reno'/114138, l='ServerLevel[world]', x=621.00, y=39.00, z=594.95] died: Reno was shot by jajaja
 [02Dec2024 02:47:32.436] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PlayerFormEntity['ASEStefan'/104753, l='ServerLevel[world]', x=632.40, y=47.90, z=585.60] died: ASEStefan was slain by jajaja
 [02Dec2024 02:47:40.941] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PlayerFormEntity['MR138'/115137, l='ServerLevel[world]', x=648.44, y=-24.46, z=532.42] died: MR138 was slain by Zombie
+[02Dec2024 02:49:56.529] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PlayerFormEntity['ShadowWolf'/117937, l='ServerLevel[world]', x=627.89, y=5.00, z=664.02] died: ShadowWolf was slain by Enderman
+[02Dec2024 02:50:00.841] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PlayerFormEntity['ShadowWolf'/117938, l='ServerLevel[world]', x=622.69, y=5.80, z=663.11] died: ShadowWolf was slain by Enderman
+[02Dec2024 02:51:34.080] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jajaja was exploded with gas by a Pod Infector.
+[02Dec2024 02:51:34.090] [Server thread/INFO] [tombstone/]: The player jajaja has successfully been saved
+[02Dec2024 02:52:02.286] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PlayerFormEntity['jajaja'/119639, l='ServerLevel[world]', x=627.30, y=41.00, z=592.41] died: jajaja was slain by jajaja
+[02Dec2024 02:52:52.831] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PlayerFormEntity['purple skittle'/120564, l='ServerLevel[world]', x=622.46, y=41.00, z=588.62] died: purple skittle was shot by jajaja
+[02Dec2024 02:54:19.333] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PlayerFormEntity['purple skittle'/121695, l='ServerLevel[world]', x=622.24, y=15.00, z=544.39] died: purple skittle was slain by Zombie
+[02Dec2024 02:55:24.288] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PlayerFormEntity['boodahbob'/123518, l='ServerLevel[world]', x=600.02, y=38.00, z=586.76] died: boodahbob was slain by jajaja
+[02Dec2024 02:55:28.583] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jajaja was made into target practice.
+[02Dec2024 02:55:28.588] [Server thread/INFO] [tombstone/]: The player jajaja has successfully been saved
+[02Dec2024 02:55:35.529] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: vicentula was infinitely tormented by Sangheili Form.
+[02Dec2024 02:55:35.813] [Server thread/INFO] [tombstone/]: The player vicentula has successfully been saved
+[02Dec2024 02:55:46.430] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: vicentula was lethally executed by Sangheili Form.
+[02Dec2024 02:55:46.452] [Server thread/INFO] [tombstone/]: The player vicentula has successfully been saved
+[02Dec2024 02:55:46.890] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PlayerFormEntity['Reno'/123508, l='ServerLevel[world]', x=611.14, y=40.00, z=610.09] died: Reno was shot by jajaja
+[02Dec2024 02:56:27.477] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: vicentula was exploded with gas by a Pod Infector.
+[02Dec2024 02:56:27.763] [Server thread/INFO] [tombstone/]: The player vicentula has successfully been saved
+[02Dec2024 02:56:44.130] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jajaja was brought to extermination by Human Form.
+[02Dec2024 02:56:44.148] [Server thread/INFO] [tombstone/]: The player jajaja has successfully been saved
+[02Dec2024 02:57:02.444] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PlayerFormEntity['vicentula'/126898, l='ServerLevel[world]', x=594.01, y=35.00, z=565.03] died: vicentula was slain by vicentula
+[02Dec2024 02:58:09.007] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BenjaChilenoxD has made the advancement [A Strange Grave Dust]
+[02Dec2024 02:59:12.986] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BenjaChilenoxD fell from a high place
+[02Dec2024 02:59:12.988] [Server thread/WARN] [tombstone/]: The drop event of the player BenjaChilenoxD was canceled by another mod
+[02Dec2024 02:59:12.989] [Server thread/INFO] [tombstone/]: The player BenjaChilenoxD has successfully been saved
+[02Dec2024 02:59:19.831] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombiePlayer['BenjaChilenoxD'/132851, l='ServerLevel[world]', x=620.09, y=64.00, z=528.79] died: Zombie Player was exploded with gas by a Pod Infector.
+[02Dec2024 02:59:30.373] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PlayerFormEntity['purple skittle'/133488, l='ServerLevel[world]', x=560.26, y=63.00, z=469.39] died: purple skittle was slain by Zombie
+[02Dec2024 02:59:31.486] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity HumanFormEntity['BenjaChilenoxD'/133316, l='ServerLevel[world]', x=607.92, y=66.00, z=548.91] died: BenjaChilenoxD was shot by BenjaChilenoxD
+[02Dec2024 02:59:37.034] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PlayerFormEntity['Finton'/132295, l='ServerLevel[world]', x=609.32, y=65.00, z=546.91] died: Finton was shot by BenjaChilenoxD
+[02Dec2024 02:59:40.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BenjaChilenoxD was exploded with gas by a Pod Infector.
+[02Dec2024 02:59:40.843] [Server thread/INFO] [tombstone/]: The player BenjaChilenoxD has successfully been saved
