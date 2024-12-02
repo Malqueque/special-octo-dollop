@@ -4293,3 +4293,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [02Dec2024 16:58:45.471] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [02Dec2024 17:00:43.598] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: vicentula lost connection: Disconnected
 [02Dec2024 17:00:43.599] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: vicentula left the game
+[02Dec2024 17:03:45.447] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Dec2024 17:03:45.461] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Dec2024 17:08:45.436] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Dec2024 17:08:45.443] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
