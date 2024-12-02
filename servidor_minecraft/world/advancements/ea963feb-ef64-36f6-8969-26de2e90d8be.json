@@ -669,9 +669,11 @@
     "criteria": {
       "minecraft:pillager": "2024-12-01 06:14:28 +0000",
       "minecraft:skeleton": "2024-12-01 04:13:42 +0000",
+      "minecraft:spider": "2024-12-02 02:57:21 +0000",
       "minecraft:creeper": "2024-12-01 04:07:16 +0000",
       "minecraft:cave_spider": "2024-12-02 01:09:55 +0000",
-      "minecraft:zombie": "2024-12-01 04:07:10 +0000"
+      "minecraft:zombie": "2024-12-01 04:07:10 +0000",
+      "minecraft:drowned": "2024-12-02 03:05:10 +0000"
     },
     "done": false
   },
@@ -2600,6 +2602,12 @@
   "minecraft:recipes/building_blocks/dye_blue_carpet": {
     "criteria": {
       "has_needed_dye": "2024-12-02 02:52:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2024-12-02 02:57:34 +0000"
     },
     "done": true
   },
