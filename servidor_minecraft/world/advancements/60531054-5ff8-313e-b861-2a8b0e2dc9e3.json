@@ -1016,7 +1016,8 @@
       "minecraft:creeper": "2024-12-01 05:24:26 +0000",
       "minecraft:witch": "2024-12-02 01:11:23 +0000",
       "minecraft:enderman": "2024-12-02 01:33:47 +0000",
-      "minecraft:zombie": "2024-12-01 04:07:33 +0000"
+      "minecraft:zombie": "2024-12-01 04:07:33 +0000",
+      "minecraft:drowned": "2024-12-02 03:06:59 +0000"
     },
     "done": false
   },
@@ -2307,6 +2308,18 @@
   "tombstone:adventure/teleport_to_grave": {
     "criteria": {
       "coded_trigger": "2024-12-02 02:43:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_wood": {
+    "criteria": {
+      "has_log": "2024-12-02 16:03:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_logs": "2024-12-02 16:03:32 +0000"
     },
     "done": true
   },

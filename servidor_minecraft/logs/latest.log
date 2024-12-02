@@ -1,57 +1,57 @@
-[02Dec2024 01:58:31.262] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412]
-[02Dec2024 01:58:31.265] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 21.0.4 by Microsoft; OS Linux arch amd64 version 6.5.0-1025-azure
-[02Dec2024 01:58:32.277] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
-[02Dec2024 01:58:32.336] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/special-octo-dollop/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
-[02Dec2024 01:58:32.654] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/special-octo-dollop/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
-[02Dec2024 01:58:32.655] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/special-octo-dollop/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[02Dec2024 01:58:32.657] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/special-octo-dollop/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[02Dec2024 01:58:32.659] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/special-octo-dollop/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[02Dec2024 01:58:32.962] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select two dependency jars from JarJar which have the same identification: Mod File:  and Mod File: . Using Mod File: 
-[02Dec2024 01:58:32.963] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select a dependency jar for JarJar which was passed in as source: architectury. Using Mod File: /workspaces/special-octo-dollop/servidor_minecraft/mods/architectury-9.2.14-forge.jar
-[02Dec2024 01:58:32.963] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 8 dependencies adding them to mods collection
-[02Dec2024 01:58:34.846] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
-[02Dec2024 01:58:35.032] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [com.sonicether.soundphysics.MixinConnector]
-[02Dec2024 01:58:35.033] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments []
-[02Dec2024 01:58:35.054] [main/WARN] [mixin/]: Reference map 'aaa_particles-forge-refmap.json' for aaa_particles.mixins.json could not be read. If this is a development environment you can ignore this message
-[02Dec2024 01:58:35.155] [main/INFO] [Embeddium/]: Loaded configuration file for Embeddium: 95 options available, 0 override(s) found
-[02Dec2024 01:58:35.174] [main/WARN] [mixin/]: Reference map 'coroutil.refmap.json' for coroutil.mixins.json could not be read. If this is a development environment you can ignore this message
-[02Dec2024 01:58:35.180] [main/WARN] [mixin/]: Reference map 'justhammers-common-refmap.json' for justhammers-common.mixins.json could not be read. If this is a development environment you can ignore this message
-[02Dec2024 01:58:36.966] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.3.6).
-[02Dec2024 01:58:43.733] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
-[02Dec2024 01:58:43.734] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id aaa_particles:main/2b101225a0983c178c43c737d76def52
-[02Dec2024 01:58:43.737] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id aaa_particles:main/878ba3ad853235668eff51eb0a40c900
-[02Dec2024 01:58:43.743] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id aaa_particles:main/878ba3ad853235668eff51eb0a40c900
-[02Dec2024 01:58:43.746] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id aaa_particles:main/9b5bc39f00d53db2acf81d859b596583
-[02Dec2024 01:58:43.839] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/42a7ad70b1cc371599a0eff744096b8a
-[02Dec2024 01:58:43.846] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/74a5e841822a3a87854ae896a33430d6
-[02Dec2024 01:58:43.852] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/eb3d1e2748533430848cadf0f37c7e9c
-[02Dec2024 01:58:43.840] [modloading-worker-0/INFO] [coroutil/]: forge loader environment detected
-[02Dec2024 01:58:43.854] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/91c8520f19f93b3e8b6a727568e194ab
-[02Dec2024 01:58:43.855] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/8c2784d778293fd482ed84b8aa5fedb9
-[02Dec2024 01:58:43.857] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/ea038224ea783d40b2863f52239e2604
-[02Dec2024 01:58:43.859] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/97ad64b7ecaf33209991c4f031501a58
-[02Dec2024 01:58:43.971] [modloading-worker-0/INFO] [hordes/]: Trying to load common config
-[02Dec2024 01:58:43.977] [modloading-worker-0/INFO] [hordes/]: Trying to load client config
-[02Dec2024 01:58:43.984] [modloading-worker-0/INFO] [hordes/]: Config files are up to date, skipping data/asset generation
-[02Dec2024 01:58:44.094] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
-[02Dec2024 01:58:44.094] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
-[02Dec2024 01:58:44.645] [modloading-worker-0/INFO] [be.florens.expandability.ExpandAbility/]: ExpandAbility here, who dis?
-[02Dec2024 01:58:47.054] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [majruszsdifficulty] Starting version check at https://raw.githubusercontent.com/Majrusz/MinecraftCommon/main/ProgressiveDifficulty/update.json
-[02Dec2024 01:58:47.058] [modloading-worker-0/INFO] [lostcities/]: Creating standard profiles into 'config/lostcities/profiles'
-[02Dec2024 01:58:47.182] [modloading-worker-0/INFO] [lostcities/]: Reading existing profiles from 'config/lostcities/profiles'
-[02Dec2024 01:58:47.302] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [majruszsdifficulty] Found status: UP_TO_DATE Current: 1.9.10 Target: null
-[02Dec2024 01:58:47.302] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Starting version check at https://forge.curseupdate.com/32274/journeymap
-[02Dec2024 01:58:47.409] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Found status: UP_TO_DATE Current: 5.10.3 Target: null
-[02Dec2024 01:58:47.410] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [configured] Starting version check at https://mrcrayfish.com/modupdatejson?id=configured
-[02Dec2024 01:58:47.900] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [configured] Found status: BETA Current: 2.2.3 Target: 2.2.3
-[02Dec2024 01:58:47.901] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [hordes] Starting version check at https://raw.githubusercontent.com/SmileycorpMC/The-Hordes/1.20/update.json
-[02Dec2024 01:58:47.914] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [hordes] Found status: UP_TO_DATE Current: 1.5.4 Target: null
-[02Dec2024 01:58:47.915] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [sound_physics_remastered] Starting version check at https://update.maxhenkel.de/forge/sound_physics_remastered
-[02Dec2024 01:58:48.433] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [sound_physics_remastered] Found status: AHEAD Current: 1.20.1-1.4.5 Target: null
-[02Dec2024 01:58:48.433] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[02Dec2024 01:58:48.575] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.3.12
-[02Dec2024 01:58:48.576] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [advancementplaques] Starting version check at https://mc-update-check.anthonyhilyard.com/499826
-[02Dec2024 01:58:48.749] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
+[02Dec2024 15:52:11.034] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412]
+[02Dec2024 15:52:11.037] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 21.0.4 by Microsoft; OS Linux arch amd64 version 6.5.0-1025-azure
+[02Dec2024 15:52:14.543] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
+[02Dec2024 15:52:14.699] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/special-octo-dollop/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
+[02Dec2024 15:52:15.140] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/special-octo-dollop/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
+[02Dec2024 15:52:15.143] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/special-octo-dollop/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[02Dec2024 15:52:15.145] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/special-octo-dollop/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[02Dec2024 15:52:15.146] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/special-octo-dollop/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[02Dec2024 15:52:15.814] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select two dependency jars from JarJar which have the same identification: Mod File:  and Mod File: . Using Mod File: 
+[02Dec2024 15:52:15.816] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select a dependency jar for JarJar which was passed in as source: architectury. Using Mod File: /workspaces/special-octo-dollop/servidor_minecraft/mods/architectury-9.2.14-forge.jar
+[02Dec2024 15:52:15.816] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 8 dependencies adding them to mods collection
+[02Dec2024 15:52:18.460] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[02Dec2024 15:52:18.635] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [com.sonicether.soundphysics.MixinConnector]
+[02Dec2024 15:52:18.637] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments []
+[02Dec2024 15:52:18.742] [main/WARN] [mixin/]: Reference map 'aaa_particles-forge-refmap.json' for aaa_particles.mixins.json could not be read. If this is a development environment you can ignore this message
+[02Dec2024 15:52:18.876] [main/INFO] [Embeddium/]: Loaded configuration file for Embeddium: 95 options available, 0 override(s) found
+[02Dec2024 15:52:18.896] [main/WARN] [mixin/]: Reference map 'coroutil.refmap.json' for coroutil.mixins.json could not be read. If this is a development environment you can ignore this message
+[02Dec2024 15:52:18.900] [main/WARN] [mixin/]: Reference map 'justhammers-common-refmap.json' for justhammers-common.mixins.json could not be read. If this is a development environment you can ignore this message
+[02Dec2024 15:52:20.967] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.3.6).
+[02Dec2024 15:52:29.947] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
+[02Dec2024 15:52:29.954] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id aaa_particles:main/2b101225a0983c178c43c737d76def52
+[02Dec2024 15:52:30.006] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id aaa_particles:main/878ba3ad853235668eff51eb0a40c900
+[02Dec2024 15:52:30.012] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id aaa_particles:main/878ba3ad853235668eff51eb0a40c900
+[02Dec2024 15:52:30.015] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id aaa_particles:main/9b5bc39f00d53db2acf81d859b596583
+[02Dec2024 15:52:30.020] [modloading-worker-0/INFO] [coroutil/]: forge loader environment detected
+[02Dec2024 15:52:30.137] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/42a7ad70b1cc371599a0eff744096b8a
+[02Dec2024 15:52:30.138] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/74a5e841822a3a87854ae896a33430d6
+[02Dec2024 15:52:30.157] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/eb3d1e2748533430848cadf0f37c7e9c
+[02Dec2024 15:52:30.160] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/91c8520f19f93b3e8b6a727568e194ab
+[02Dec2024 15:52:30.166] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/8c2784d778293fd482ed84b8aa5fedb9
+[02Dec2024 15:52:30.167] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/ea038224ea783d40b2863f52239e2604
+[02Dec2024 15:52:30.168] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/97ad64b7ecaf33209991c4f031501a58
+[02Dec2024 15:52:30.190] [modloading-worker-0/INFO] [hordes/]: Trying to load common config
+[02Dec2024 15:52:30.195] [modloading-worker-0/INFO] [hordes/]: Trying to load client config
+[02Dec2024 15:52:30.202] [modloading-worker-0/INFO] [hordes/]: Config files are up to date, skipping data/asset generation
+[02Dec2024 15:52:30.360] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
+[02Dec2024 15:52:30.363] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
+[02Dec2024 15:52:31.241] [modloading-worker-0/INFO] [be.florens.expandability.ExpandAbility/]: ExpandAbility here, who dis?
+[02Dec2024 15:52:34.504] [modloading-worker-0/INFO] [lostcities/]: Creating standard profiles into 'config/lostcities/profiles'
+[02Dec2024 15:52:34.600] [modloading-worker-0/INFO] [lostcities/]: Reading existing profiles from 'config/lostcities/profiles'
+[02Dec2024 15:52:34.619] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [majruszsdifficulty] Starting version check at https://raw.githubusercontent.com/Majrusz/MinecraftCommon/main/ProgressiveDifficulty/update.json
+[02Dec2024 15:52:34.860] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [majruszsdifficulty] Found status: UP_TO_DATE Current: 1.9.10 Target: null
+[02Dec2024 15:52:34.860] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Starting version check at https://forge.curseupdate.com/32274/journeymap
+[02Dec2024 15:52:35.028] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Found status: UP_TO_DATE Current: 5.10.3 Target: null
+[02Dec2024 15:52:35.029] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [configured] Starting version check at https://mrcrayfish.com/modupdatejson?id=configured
+[02Dec2024 15:52:35.534] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [configured] Found status: BETA Current: 2.2.3 Target: 2.2.3
+[02Dec2024 15:52:35.534] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [hordes] Starting version check at https://raw.githubusercontent.com/SmileycorpMC/The-Hordes/1.20/update.json
+[02Dec2024 15:52:35.544] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [hordes] Found status: UP_TO_DATE Current: 1.5.4 Target: null
+[02Dec2024 15:52:35.544] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [sound_physics_remastered] Starting version check at https://update.maxhenkel.de/forge/sound_physics_remastered
+[02Dec2024 15:52:36.048] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [sound_physics_remastered] Found status: AHEAD Current: 1.20.1-1.4.5 Target: null
+[02Dec2024 15:52:36.048] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[02Dec2024 15:52:36.263] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.3.12
+[02Dec2024 15:52:36.263] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [advancementplaques] Starting version check at https://mc-update-check.anthonyhilyard.com/499826
+[02Dec2024 15:52:36.526] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
 com.google.gson.JsonSyntaxException: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING at line 1 column 1 path $
 	at com.google.gson.Gson.fromJson(Gson.java:1226) ~[gson-2.10.jar%2372!/:?]
 	at com.google.gson.Gson.fromJson(Gson.java:1124) ~[gson-2.10.jar%2372!/:?]
@@ -66,8 +66,8 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:144) ~[gson-2.10.jar%2372!/:?]
 	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2372!/:?]
 	... 6 more
-[02Dec2024 01:58:48.750] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [iceberg] Starting version check at https://mc-update-check.anthonyhilyard.com/520110
-[02Dec2024 01:58:48.775] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
+[02Dec2024 15:52:36.529] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [iceberg] Starting version check at https://mc-update-check.anthonyhilyard.com/520110
+[02Dec2024 15:52:36.558] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
 com.google.gson.JsonSyntaxException: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING at line 1 column 1 path $
 	at com.google.gson.Gson.fromJson(Gson.java:1226) ~[gson-2.10.jar%2372!/:?]
 	at com.google.gson.Gson.fromJson(Gson.java:1124) ~[gson-2.10.jar%2372!/:?]
@@ -82,38 +82,38 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:144) ~[gson-2.10.jar%2372!/:?]
 	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2372!/:?]
 	... 6 more
-[02Dec2024 01:58:48.776] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Starting version check at https://raw.githubusercontent.com/Corail31/tombstone_lite/master/update.json
-[02Dec2024 01:58:48.788] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Found status: UP_TO_DATE Current: 8.8.6 Target: null
-[02Dec2024 01:58:48.788] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [atlaslib] Starting version check at https://raw.githubusercontent.com/SmileycorpMC/Atlas-Lib/1.20/update.json
-[02Dec2024 01:58:48.801] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [atlaslib] Found status: UP_TO_DATE Current: 1.1.12 Target: null
-[02Dec2024 01:58:48.801] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [majruszlibrary] Starting version check at https://raw.githubusercontent.com/Majrusz/MinecraftCommon/main/Library/update.json
-[02Dec2024 01:58:48.812] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [majruszlibrary] Found status: AHEAD Current: 7.0.8 Target: null
-[02Dec2024 01:58:51.505] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:shoot_cool_down for minecraft:living_entity
-[02Dec2024 01:58:51.505] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:melee_cool_down for minecraft:living_entity
-[02Dec2024 01:58:51.506] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:reload_state for minecraft:living_entity
-[02Dec2024 01:58:51.506] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:aiming_progress for minecraft:living_entity
-[02Dec2024 01:58:51.506] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:draw_cool_down for minecraft:living_entity
-[02Dec2024 01:58:51.506] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:is_aiming for minecraft:living_entity
-[02Dec2024 01:58:51.506] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:sprint_time for minecraft:living_entity
-[02Dec2024 01:58:51.507] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:bolt_cool_down for minecraft:living_entity
-[02Dec2024 01:58:51.507] [main/INFO] [journeymap/]: Initializing Packet Registries
-[02Dec2024 01:58:51.538] [main/INFO] [terrablender/]: Registered region minecraft:overworld to index 0 for type OVERWORLD
-[02Dec2024 01:58:51.538] [main/INFO] [terrablender/]: Registered region minecraft:nether to index 0 for type NETHER
-[02Dec2024 01:58:51.539] [main/INFO] [terrablender/]: Registered region biomesoplenty:overworld_primary to index 1 for type OVERWORLD
-[02Dec2024 01:58:51.539] [main/INFO] [terrablender/]: Registered region biomesoplenty:overworld_secondary to index 2 for type OVERWORLD
-[02Dec2024 01:58:51.539] [main/INFO] [terrablender/]: Registered region biomesoplenty:overworld_rare to index 3 for type OVERWORLD
-[02Dec2024 01:58:51.539] [main/INFO] [terrablender/]: Registered region biomesoplenty:nether_common to index 1 for type NETHER
-[02Dec2024 01:58:51.539] [main/INFO] [terrablender/]: Registered region biomesoplenty:nether_rare to index 2 for type NETHER
-[02Dec2024 01:58:51.631] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.vanilla.VanillaPlugin
-[02Dec2024 01:58:51.653] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.universal.UniversalPlugin
-[02Dec2024 01:58:51.657] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.core.CorePlugin
-[02Dec2024 01:58:51.659] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at ovh.corail.tombstone.compatibility.IntegrationJade
-[02Dec2024 01:58:53.759] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[02Dec2024 01:58:54.603] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/special-octo-dollop/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23191!/assets/.mcassetsroot' uses unexpected schema
-[02Dec2024 01:58:54.603] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/special-octo-dollop/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23191!/data/.mcassetsroot' uses unexpected schema
-[02Dec2024 01:58:56.270] [Worker-Main-1/WARN] [artifacts.Artifacts/]: Tag entries for curios:tags/items/magic_book.json cleared by tombstone-1.20.1-8.8.6.jar
-[02Dec2024 01:58:56.298] [Worker-Main-1/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag apocalypsenow:armor/cloth as it is missing following references: apocalypsenow:nurse_helmet (from apocalypsenow-3.0.3-forge-1.20.1.jar)
-[02Dec2024 01:58:56.661] [Worker-Main-3/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:minecraft:chests/villagetaigahouse
+[02Dec2024 15:52:36.560] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Starting version check at https://raw.githubusercontent.com/Corail31/tombstone_lite/master/update.json
+[02Dec2024 15:52:36.576] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Found status: UP_TO_DATE Current: 8.8.6 Target: null
+[02Dec2024 15:52:36.576] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [atlaslib] Starting version check at https://raw.githubusercontent.com/SmileycorpMC/Atlas-Lib/1.20/update.json
+[02Dec2024 15:52:36.588] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [atlaslib] Found status: UP_TO_DATE Current: 1.1.12 Target: null
+[02Dec2024 15:52:36.588] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [majruszlibrary] Starting version check at https://raw.githubusercontent.com/Majrusz/MinecraftCommon/main/Library/update.json
+[02Dec2024 15:52:36.611] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [majruszlibrary] Found status: AHEAD Current: 7.0.8 Target: null
+[02Dec2024 15:52:44.970] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:shoot_cool_down for minecraft:living_entity
+[02Dec2024 15:52:44.971] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:melee_cool_down for minecraft:living_entity
+[02Dec2024 15:52:44.971] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:reload_state for minecraft:living_entity
+[02Dec2024 15:52:44.971] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:aiming_progress for minecraft:living_entity
+[02Dec2024 15:52:44.972] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:draw_cool_down for minecraft:living_entity
+[02Dec2024 15:52:44.972] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:is_aiming for minecraft:living_entity
+[02Dec2024 15:52:44.972] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:sprint_time for minecraft:living_entity
+[02Dec2024 15:52:44.972] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:bolt_cool_down for minecraft:living_entity
+[02Dec2024 15:52:44.973] [main/INFO] [journeymap/]: Initializing Packet Registries
+[02Dec2024 15:52:45.040] [main/INFO] [terrablender/]: Registered region minecraft:overworld to index 0 for type OVERWORLD
+[02Dec2024 15:52:45.040] [main/INFO] [terrablender/]: Registered region minecraft:nether to index 0 for type NETHER
+[02Dec2024 15:52:45.040] [main/INFO] [terrablender/]: Registered region biomesoplenty:overworld_primary to index 1 for type OVERWORLD
+[02Dec2024 15:52:45.040] [main/INFO] [terrablender/]: Registered region biomesoplenty:overworld_secondary to index 2 for type OVERWORLD
+[02Dec2024 15:52:45.041] [main/INFO] [terrablender/]: Registered region biomesoplenty:overworld_rare to index 3 for type OVERWORLD
+[02Dec2024 15:52:45.041] [main/INFO] [terrablender/]: Registered region biomesoplenty:nether_common to index 1 for type NETHER
+[02Dec2024 15:52:45.041] [main/INFO] [terrablender/]: Registered region biomesoplenty:nether_rare to index 2 for type NETHER
+[02Dec2024 15:52:45.183] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.vanilla.VanillaPlugin
+[02Dec2024 15:52:45.206] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.universal.UniversalPlugin
+[02Dec2024 15:52:45.211] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.core.CorePlugin
+[02Dec2024 15:52:45.213] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at ovh.corail.tombstone.compatibility.IntegrationJade
+[02Dec2024 15:52:47.540] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[02Dec2024 15:52:48.864] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/special-octo-dollop/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23191!/assets/.mcassetsroot' uses unexpected schema
+[02Dec2024 15:52:48.864] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/special-octo-dollop/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23191!/data/.mcassetsroot' uses unexpected schema
+[02Dec2024 15:52:50.710] [Worker-Main-3/WARN] [artifacts.Artifacts/]: Tag entries for curios:tags/items/magic_book.json cleared by tombstone-1.20.1-8.8.6.jar
+[02Dec2024 15:52:50.747] [Worker-Main-3/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag apocalypsenow:armor/cloth as it is missing following references: apocalypsenow:nurse_helmet (from apocalypsenow-3.0.3-forge-1.20.1.jar)
+[02Dec2024 15:52:51.367] [Worker-Main-1/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:minecraft:chests/villagetaigahouse
 com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown string 'apocalypsenow:officer_chestplate'
 	at net.minecraft.util.GsonHelper.m_13866_(GsonHelper.java:145) ~[server-1.20.1-20230612.114412-srg.jar%23191!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -165,7 +165,7 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1843) ~[?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1808) ~[?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:188) ~[?:?]
-[02Dec2024 01:58:56.838] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe apocalypsenow:eletricalclub
+[02Dec2024 15:52:51.605] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe apocalypsenow:eletricalclub
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecraft:smithing'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23191!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -192,7 +192,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[02Dec2024 01:58:56.841] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe apocalypsenow:eletricalmachete
+[02Dec2024 15:52:51.610] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe apocalypsenow:eletricalmachete
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecraft:smithing'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23191!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -219,7 +219,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[02Dec2024 01:58:56.845] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe apocalypsenow:firemodulecombataxe
+[02Dec2024 15:52:51.620] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe apocalypsenow:firemodulecombataxe
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecraft:smithing'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23191!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -246,7 +246,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[02Dec2024 01:58:56.847] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe apocalypsenow:combataxe
+[02Dec2024 15:52:51.632] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe apocalypsenow:combataxe
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecraft:smithing'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23191!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -273,7 +273,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[02Dec2024 01:58:56.857] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe apocalypsenow:rockeyhelmetrecipe
+[02Dec2024 15:52:51.654] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe apocalypsenow:rockeyhelmetrecipe
 com.google.gson.JsonSyntaxException: Unknown item 'apocalypsenow:officer_chestplate'
 	at net.minecraftforge.common.crafting.CraftingHelper.getItem(CraftingHelper.java:160) ~[forge-1.20.1-47.3.7-universal.jar%23196!/:?]
 	at net.minecraftforge.common.crafting.CraftingHelper.getItemStack(CraftingHelper.java:186) ~[forge-1.20.1-47.3.7-universal.jar%23196!/:?]
@@ -304,7 +304,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'apocalypsenow:officer_chestpl
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[02Dec2024 01:58:56.861] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe apocalypsenow:firemodulekatana
+[02Dec2024 15:52:51.670] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe apocalypsenow:firemodulekatana
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecraft:smithing'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23191!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -331,7 +331,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[02Dec2024 01:58:56.869] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe apocalypsenow:eletricalkatana
+[02Dec2024 15:52:51.687] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe apocalypsenow:eletricalkatana
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecraft:smithing'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23191!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -358,7 +358,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[02Dec2024 01:58:56.874] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe apocalypsenow:firemodulemachete
+[02Dec2024 15:52:51.694] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe apocalypsenow:firemodulemachete
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecraft:smithing'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23191!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -385,7 +385,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[02Dec2024 01:58:56.880] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe apocalypsenow:eletricaltaticalmace
+[02Dec2024 15:52:51.705] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe apocalypsenow:eletricaltaticalmace
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecraft:smithing'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23191!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -412,7 +412,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[02Dec2024 01:58:56.881] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe apocalypsenow:eletricalbaseballbat
+[02Dec2024 15:52:51.707] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe apocalypsenow:eletricalbaseballbat
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecraft:smithing'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23191!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -439,7 +439,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[02Dec2024 01:58:56.883] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe apocalypsenow:firemoduleironbat
+[02Dec2024 15:52:51.711] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe apocalypsenow:firemoduleironbat
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecraft:smithing'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23191!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -466,549 +466,199 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[02Dec2024 01:58:56.901] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 8 recipes
-[02Dec2024 01:58:57.040] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 1955 advancements
-[02Dec2024 01:58:57.089] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 14 curio slots
-[02Dec2024 01:58:57.097] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 10 curio entities
-[02Dec2024 01:58:57.103] [main/INFO] [hordes/]: Loaded entity minecraft:zombie as entity.minecraft.zombie with weight 35, min day 0 and max day 20
-[02Dec2024 01:58:57.103] [main/INFO] [hordes/]: Loaded entity minecraft:zombie_villager as entity.minecraft.zombie_villager with weight 1, min day 0 and max day 20
-[02Dec2024 01:58:57.103] [main/INFO] [hordes/]: Loaded entity minecraft:zombie_horse as entity.minecraft.zombie_horse with weight 3, min day 20 and max day 40
-[02Dec2024 01:58:57.104] [main/INFO] [hordes/]: Loaded entity minecraft:husk as entity.minecraft.husk with weight 40, min day 20 and max day 40
-[02Dec2024 01:58:57.105] [main/INFO] [hordes/]: Loaded entity minecraft:drowned as entity.minecraft.drowned with weight 3, min day 30 and max day 40
-[02Dec2024 01:58:57.106] [main/INFO] [hordes/]: Loaded entity minecraft:zoglin as entity.minecraft.zoglin with weight 3, min day 40 and max day 40
-[02Dec2024 01:58:57.107] [main/INFO] [hordes/]: Loaded entity minecraft:zombified_piglin as entity.minecraft.zombified_piglin with weight 10, min day 40 and max day 0
-[02Dec2024 01:58:57.108] [main/INFO] [hordes/]: Loaded entity minecraft:husk as entity.minecraft.husk with weight 25, min day 50 and max day 0
-[02Dec2024 01:58:57.109] [main/INFO] [hordes/]: Loaded entity minecraft:zoglin as entity.minecraft.zoglin with weight 3, min day 50 and max day 0
-[02Dec2024 01:58:57.111] [main/INFO] [hordes/]: Loaded entity minecraft:zombie_horse as entity.minecraft.zombie_horse with weight 3, min day 50 and max day 0
-[02Dec2024 01:58:57.112] [main/INFO] [hordes/]: loaded horde table hordes:default
-[02Dec2024 01:58:57.113] [main/INFO] [hordes/]: Loaded entity minecraft:drowned as entity.minecraft.drowned with weight 40, min day 0 and max day 20
-[02Dec2024 01:58:57.114] [main/INFO] [hordes/]: Loaded entity minecraft:drowned as entity.minecraft.drowned with weight 3, min day 30 and max day 40
-[02Dec2024 01:58:57.115] [main/INFO] [hordes/]: loaded horde table hordes:drowned
-[02Dec2024 01:58:57.116] [main/INFO] [hordes/]: Loaded entity minecraft:zombie as entity.minecraft.zombie with weight 20, min day 0 and max day 20
-[02Dec2024 01:58:57.117] [main/INFO] [hordes/]: Loaded entity minecraft:skeleton as entity.minecraft.skeleton with weight 10, min day 20 and max day 30
-[02Dec2024 01:58:57.118] [main/INFO] [hordes/]: Loaded entity minecraft:spider as entity.minecraft.spider with weight 15, min day 20 and max day 30
-[02Dec2024 01:58:57.119] [main/INFO] [hordes/]: Loaded entity minecraft:creeper as entity.minecraft.creeper with weight 5, min day 30 and max day 30
-[02Dec2024 01:58:57.120] [main/INFO] [hordes/]: Loaded entity minecraft:husk as entity.minecraft.husk with weight 20, min day 30 and max day 50
-[02Dec2024 01:58:57.121] [main/INFO] [hordes/]: Loaded entity minecraft:stray as entity.minecraft.stray with weight 10, min day 40 and max day 50
-[02Dec2024 01:58:57.122] [main/INFO] [hordes/]: Loaded entity minecraft:cave_spider as entity.minecraft.cave_spider with weight 10, min day 40 and max day 50
-[02Dec2024 01:58:57.122] [main/INFO] [hordes/]: Loaded entity minecraft:witch as entity.minecraft.witch with weight 5, min day 40 and max day 50
-[02Dec2024 01:58:57.123] [main/INFO] [hordes/]: Loaded entity minecraft:pillager as entity.minecraft.pillager with weight 10, min day 40 and max day 50
-[02Dec2024 01:58:57.124] [main/INFO] [hordes/]: Loaded entity minecraft:zombified_piglin as entity.minecraft.zombified_piglin with weight 10, min day 40 and max day 50
-[02Dec2024 01:58:57.125] [main/INFO] [hordes/]: Loaded entity minecraft:zombie_horse as entity.minecraft.zombie_horse with weight 3, min day 40 and max day 50
-[02Dec2024 01:58:57.126] [main/INFO] [hordes/]: Loaded entity minecraft:wither_skeleton as entity.minecraft.wither_skeleton with weight 10, min day 50 and max day 0
-[02Dec2024 01:58:57.127] [main/INFO] [hordes/]: Loaded entity minecraft:phantom as entity.minecraft.phantom with weight 5, min day 50 and max day 50
-[02Dec2024 01:58:57.128] [main/INFO] [hordes/]: Loaded entity minecraft:vindicator as entity.minecraft.vindicator with weight 10, min day 50 and max day 50
-[02Dec2024 01:58:57.129] [main/INFO] [hordes/]: Loaded entity minecraft:zoglin as entity.minecraft.zoglin with weight 5, min day 40 and max day 40
-[02Dec2024 01:58:57.130] [main/INFO] [hordes/]: Loaded entity minecraft:ravager as entity.minecraft.ravager with weight 5, min day 50 and max day 50
-[02Dec2024 01:58:57.131] [main/INFO] [hordes/]: Loaded entity minecraft:evoker as entity.minecraft.evoker with weight 5, min day 50 and max day 50
-[02Dec2024 01:58:57.132] [main/INFO] [hordes/]: Loaded entity minecraft:piglin_brute as entity.minecraft.piglin_brute with weight 10, min day 60 and max day 0
-[02Dec2024 01:58:57.133] [main/INFO] [hordes/]: Loaded entity minecraft:cave_spider as entity.minecraft.cave_spider with weight 15, min day 60 and max day 0
-[02Dec2024 01:58:57.134] [main/INFO] [hordes/]: Loaded entity minecraft:zombie_horse as entity.minecraft.zombie_horse with weight 5, min day 60 and max day 0
-[02Dec2024 01:58:57.135] [main/INFO] [hordes/]: Loaded entity minecraft:ravager as entity.minecraft.ravager with weight 3, min day 60 and max day 0
-[02Dec2024 01:58:57.135] [main/INFO] [hordes/]: Loaded entity minecraft:phantom as entity.minecraft.phantom with weight 3, min day 60 and max day 0
-[02Dec2024 01:58:57.136] [main/INFO] [hordes/]: loaded horde table hordes:mixed_mobs
-[02Dec2024 01:58:57.137] [main/INFO] [hordes/]: Loaded entity minecraft:pillager as entity.minecraft.pillager with weight 15, min day 0 and max day 0
-[02Dec2024 01:58:57.139] [main/INFO] [hordes/]: Loaded entity minecraft:vindicator as entity.minecraft.vindicator with weight 10, min day 0 and max day 0
-[02Dec2024 01:58:57.140] [main/INFO] [hordes/]: Loaded entity minecraft:witch as entity.minecraft.witch with weight 5, min day 20 and max day 0
-[02Dec2024 01:58:57.141] [main/INFO] [hordes/]: Loaded entity minecraft:ravager as entity.minecraft.ravager with weight 5, min day 30 and max day 40
-[02Dec2024 01:58:57.142] [main/INFO] [hordes/]: Loaded entity minecraft:evoker as entity.minecraft.evoker with weight 3, min day 40 and max day 40
-[02Dec2024 01:58:57.143] [main/INFO] [hordes/]: Loaded entity minecraft:illusioner as entity.minecraft.illusioner with weight 5, min day 50 and max day 0
-[02Dec2024 01:58:57.144] [main/INFO] [hordes/]: Loaded entity minecraft:ravager as entity.minecraft.ravager with weight 3, min day 50 and max day 0
-[02Dec2024 01:58:57.145] [main/INFO] [hordes/]: Loaded entity minecraft:ravager as entity.minecraft.ravager with weight 5, min day 50 and max day 0
-[02Dec2024 01:58:57.146] [main/INFO] [hordes/]: loaded horde table hordes:illagers
-[02Dec2024 01:58:57.147] [main/INFO] [hordes/]: Loaded entity minecraft:skeleton as entity.minecraft.skeleton with weight 10, min day 0 and max day 20
-[02Dec2024 01:58:57.147] [main/INFO] [hordes/]: Loaded entity minecraft:skeleton as entity.minecraft.skeleton with weight 20, min day 0 and max day 30
-[02Dec2024 01:58:57.148] [main/INFO] [hordes/]: Loaded entity minecraft:skeleton_horse as entity.minecraft.skeleton_horse with weight 5, min day 20 and max day 50
-[02Dec2024 01:58:57.149] [main/INFO] [hordes/]: Loaded entity minecraft:stray as entity.minecraft.stray with weight 10, min day 20 and max day 0
-[02Dec2024 01:58:57.150] [main/INFO] [hordes/]: Loaded entity minecraft:wither_skeleton as entity.minecraft.wither_skeleton with weight 10, min day 40 and max day 0
-[02Dec2024 01:58:57.151] [main/INFO] [hordes/]: Loaded entity minecraft:skeleton_horse as entity.minecraft.skeleton_horse with weight 5, min day 40 and max day 0
-[02Dec2024 01:58:57.152] [main/INFO] [hordes/]: loaded horde table hordes:skeletons
-[02Dec2024 01:58:57.152] [main/INFO] [hordes/]: Loaded entity minecraft:zombie as entity.minecraft.zombie with weight 30, min day 0 and max day 0
-[02Dec2024 01:58:57.152] [main/INFO] [hordes/]: loaded horde table hordes:fallback
-[02Dec2024 01:58:57.160] [main/INFO] [hordes/]: loaded horde script hordes:default
-[02Dec2024 01:58:57.160] [main/INFO] [hordes/]: Loading conversion tables
-[02Dec2024 01:58:57.161] [main/INFO] [hordes/]: Loading conversion table hordes:infection_conversions
-[02Dec2024 01:58:57.163] [main/INFO] [hordes/]: Loaded conversion entity.minecraft.horse to entity.minecraft.zombie_horse with chance of 0.65
-[02Dec2024 01:58:57.164] [main/INFO] [hordes/]: Loaded conversion entity.minecraft.piglin to entity.minecraft.zombified_piglin with chance of 0.75
-[02Dec2024 01:58:57.165] [main/INFO] [hordes/]: Loaded conversion entity.minecraft.piglin_brute to entity.minecraft.zombified_piglin{Attributes:[{Base:50.0f,Name:"generic.max_health"}],chat_name:"entity.hordes.ZombifiedPiglinBrute.name",texture:"hordes:textures/entity/zombified_piglin_brute.png"} with chance of 0.35
-[02Dec2024 01:58:57.165] [main/INFO] [hordes/]: Loaded conversion entity.minecraft.hoglin to entity.minecraft.zoglin with chance of 0.15
-[02Dec2024 01:58:57.166] [main/INFO] [hordes/]: Loaded conversion entity.minecraft.wandering_trader to entity.minecraft.zombie_villager{VillagerData:{type:"none"},chat_name:"entity.hordes.ZombieWanderingTrader.name",texture:"hordes:textures/entity/zombie_wandering_trader.png"} with chance of 0.75
-[02Dec2024 01:58:57.166] [main/INFO] [hordes/]: Loaded conversion entity.minecraft.pillager to entity.minecraft.zombie_villager{Attributes:[{Base:24.0f,Name:"generic.max_health"}],VillagerData:{type:"none"},chat_name:"entity.hordes.ZombiePillager.name",texture:"hordes:textures/entity/zombie_pillager.png"} with chance of 0.75
-[02Dec2024 01:58:57.166] [main/INFO] [hordes/]: Loaded conversion entity.minecraft.vindicator to entity.minecraft.zombie_villager{Attributes:[{Base:24.0f,Name:"generic.max_health"}],VillagerData:{type:"none"},chat_name:"entity.hordes.ZombieVindicator.name",texture:"hordes:textures/entity/zombie_vindicator.png"} with chance of 0.35
-[02Dec2024 01:58:57.167] [main/INFO] [hordes/]: Loaded conversion entity.minecraft.evoker to entity.minecraft.zombie_villager{Attributes:[{Base:24.0f,Name:"generic.max_health"}],VillagerData:{type:"none"},chat_name:"entity.hordes.ZombieEvoker.name",texture:"hordes:textures/entity/zombie_evoker.png"} with chance of 0.5
-[02Dec2024 01:58:57.169] [main/INFO] [hordes/]: Loaded conversion entity.minecraft.illusioner to entity.minecraft.zombie_villager{Attributes:[{Base:32.0f,Name:"generic.max_health"}],VillagerData:{type:"none"},chat_name:"entity.hordes.ZombieIllusioner.name",texture:"hordes:textures/entity/zombie_illusioner.png"} with chance of 0.15
-[02Dec2024 01:58:57.169] [main/INFO] [hordes/]: Loaded conversion entity.minecraft.witch to entity.minecraft.zombie_villager{Attributes:[{Base:26.0f,Name:"generic.max_health"}],VillagerData:{type:"none"},chat_name:"entity.hordes.ZombieWitch.name",texture:"hordes:textures/entity/zombie_witch.png"} with chance of 0.25
-[02Dec2024 01:58:57.170] [main/INFO] [hordes/]: Loading immunity item list
-[02Dec2024 01:58:57.170] [main/INFO] [hordes/]: Loading immunity item list hordes:immunity_items
-[02Dec2024 01:58:57.171] [main/INFO] [hordes/]: Loaded immunity item minecraft:enchanted_golden_apple with duration 150
-[02Dec2024 01:58:57.171] [main/INFO] [hordes/]: Loading wearables protection list
-[02Dec2024 01:58:57.171] [main/INFO] [hordes/]: Loading wearables protection list hordes:immune_wearables
-[02Dec2024 01:58:57.172] [main/INFO] [hordes/]: Loaded wearable protection minecraft:leather_boots with modifier 0.95
-[02Dec2024 01:58:57.172] [main/INFO] [hordes/]: Loaded wearable protection minecraft:leather_leggings with modifier 0.95
-[02Dec2024 01:58:57.172] [main/INFO] [hordes/]: Loaded wearable protection minecraft:leather_chestplate with modifier 0.95
-[02Dec2024 01:58:57.173] [main/INFO] [hordes/]: Loaded wearable protection minecraft:leather_helmet with modifier 0.95
-[02Dec2024 01:58:57.173] [main/INFO] [hordes/]: Loaded wearable protection minecraft:chainmail_boots with modifier 0.95
-[02Dec2024 01:58:57.173] [main/INFO] [hordes/]: Loaded wearable protection minecraft:chainmail_leggings with modifier 0.95
-[02Dec2024 01:58:57.173] [main/INFO] [hordes/]: Loaded wearable protection minecraft:chainmail_chestplate with modifier 0.95
-[02Dec2024 01:58:57.174] [main/INFO] [hordes/]: Loaded wearable protection minecraft:chainmail_helmet with modifier 0.95
-[02Dec2024 01:58:57.174] [main/INFO] [hordes/]: Loaded wearable protection minecraft:iron_boots with modifier 0.9
-[02Dec2024 01:58:57.174] [main/INFO] [hordes/]: Loaded wearable protection minecraft:iron_leggings with modifier 0.9
-[02Dec2024 01:58:57.174] [main/INFO] [hordes/]: Loaded wearable protection minecraft:iron_chestplate with modifier 0.9
-[02Dec2024 01:58:57.174] [main/INFO] [hordes/]: Loaded wearable protection minecraft:iron_helmet with modifier 0.9
-[02Dec2024 01:58:57.174] [main/INFO] [hordes/]: Loaded wearable protection minecraft:golden_boots with modifier 0.9
-[02Dec2024 01:58:57.175] [main/INFO] [hordes/]: Loaded wearable protection minecraft:golden_leggings with modifier 0.9
-[02Dec2024 01:58:57.175] [main/INFO] [hordes/]: Loaded wearable protection minecraft:golden_chestplate with modifier 0.9
-[02Dec2024 01:58:57.175] [main/INFO] [hordes/]: Loaded wearable protection minecraft:golden_helmet with modifier 0.9
-[02Dec2024 01:58:57.176] [main/INFO] [hordes/]: Loaded wearable protection minecraft:diamond_boots with modifier 0.86
-[02Dec2024 01:58:57.176] [main/INFO] [hordes/]: Loaded wearable protection minecraft:diamond_leggings with modifier 0.86
-[02Dec2024 01:58:57.177] [main/INFO] [hordes/]: Loaded wearable protection minecraft:diamond_chestplate with modifier 0.86
-[02Dec2024 01:58:57.177] [main/INFO] [hordes/]: Loaded wearable protection minecraft:diamond_helmet with modifier 0.86
-[02Dec2024 01:58:57.178] [main/INFO] [hordes/]: Loaded wearable protection minecraft:netherite_boots with modifier 0.82
-[02Dec2024 01:58:57.178] [main/INFO] [hordes/]: Loaded wearable protection minecraft:netherite_leggings with modifier 0.82
-[02Dec2024 01:58:57.178] [main/INFO] [hordes/]: Loaded wearable protection minecraft:netherite_chestplate with modifier 0.82
-[02Dec2024 01:58:57.179] [main/INFO] [hordes/]: Loaded wearable protection minecraft:netherite_helmet with modifier 0.82
-[02Dec2024 01:58:57.180] [main/INFO] [hordes/]: Loaded wearable protection minecraft:turtle_helmet with modifier 0.75
-[02Dec2024 01:58:57.902] [main/INFO] [majruszlibrary/]: [majruszsdifficulty.json] Reloading configuration file took 9 milliseconds
-[02Dec2024 01:58:57.904] [main/INFO] [majruszlibrary/]: [majruszlibrary.json] Reloading configuration file took 1 milliseconds
-[02Dec2024 01:58:57.908] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
-[02Dec2024 01:58:57.909] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
-[02Dec2024 01:58:57.909] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
-[02Dec2024 01:58:57.909] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[02Dec2024 01:58:57.986] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
-[02Dec2024 01:58:58.047] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
-[02Dec2024 01:58:58.124] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[02Dec2024 01:58:58.124] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
-[02Dec2024 01:58:58.124] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[02Dec2024 01:58:58.125] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
-[02Dec2024 01:58:58.145] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
-[02Dec2024 01:58:58.364] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:the_nether
-[02Dec2024 01:58:58.933] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:overworld
-[02Dec2024 01:58:58.934] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
-[02Dec2024 01:59:11.016] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[02Dec2024 01:59:14.015] [Netty Epoll Server IO #1/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
-[02Dec2024 01:59:14.107] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[02Dec2024 01:59:14.145] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[02Dec2024 01:59:14.160] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[02Dec2024 01:59:14.219] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[02Dec2024 01:59:14.264] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[02Dec2024 01:59:14.280] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[02Dec2024 01:59:14.296] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[02Dec2024 01:59:14.551] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[02Dec2024 01:59:15.011] [Netty Epoll Server IO #2/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
-[02Dec2024 01:59:15.020] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[02Dec2024 01:59:15.519] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[02Dec2024 01:59:16.019] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 32%
-[02Dec2024 01:59:16.446] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 5428 ms
-[02Dec2024 01:59:16.447] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (18.311s)! For help, type "help"
-[02Dec2024 01:59:16.480] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
-[02Dec2024 01:59:24.741] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: BenjaChilenoxD[/127.240.0.116:43231] logged in with entity id 815 at (667.9184777659555, 60.71096477094394, 547.6376397721841)
-[02Dec2024 01:59:24.780] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BenjaChilenoxD joined the game
-[02Dec2024 01:59:24.852] [Server thread/INFO] [Jade/]: Syncing config to BenjaChilenoxD (de1c2c78-0f42-3085-9ab2-360620ae213c)
-[02Dec2024 01:59:26.831] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2017ms or 40 ticks behind
-[02Dec2024 01:59:28.791] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: jajaja[/127.159.230.212:51455] logged in with entity id 1193 at (-18.462259811274638, 27.592027354812448, 574.0778778408408)
-[02Dec2024 01:59:28.800] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jajaja joined the game
-[02Dec2024 01:59:28.818] [Server thread/INFO] [Jade/]: Syncing config to jajaja (60531054-5ff8-313e-b861-2a8b0e2dc9e3)
-[02Dec2024 01:59:54.616] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PlayerFormEntity['entiral'/1358, l='ServerLevel[world]', x=16.60, y=-13.10, z=575.69] died: entiral suffocated in a wall
-[02Dec2024 01:59:55.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BenjaChilenoxD drowned
-[02Dec2024 01:59:55.128] [Server thread/INFO] [tombstone/]: The player BenjaChilenoxD has successfully been saved
-[02Dec2024 02:00:00.071] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: BulletProjectileEntity['entity.dotf.bullet_projectile'/2316, l='ServerLevel[world]', x=-33.70, y=84.04, z=739.26]
-[02Dec2024 02:00:00.072] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: BulletProjectileEntity['entity.dotf.bullet_projectile'/2317, l='ServerLevel[world]', x=-32.62, y=84.04, z=739.26]
-[02Dec2024 02:00:00.072] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: BulletProjectileEntity['entity.dotf.bullet_projectile'/2318, l='ServerLevel[world]', x=-44.13, y=84.64, z=737.59]
-[02Dec2024 02:00:00.077] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: BulletProjectileEntity['entity.dotf.bullet_projectile'/2319, l='ServerLevel[world]', x=-43.04, y=84.64, z=737.59]
-[02Dec2024 02:00:00.078] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: BulletProjectileEntity['entity.dotf.bullet_projectile'/2349, l='ServerLevel[world]', x=-50.60, y=84.62, z=736.02]
-[02Dec2024 02:00:00.079] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: BulletProjectileEntity['entity.dotf.bullet_projectile'/2350, l='ServerLevel[world]', x=-50.91, y=84.62, z=736.02]
-[02Dec2024 02:00:04.082] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: vicentula[/127.189.253.42:56013] logged in with entity id 2807 at (11.925000011920929, -8.0, 491.87790225072683)
-[02Dec2024 02:00:04.090] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: vicentula joined the game
-[02Dec2024 02:00:04.184] [Server thread/INFO] [Jade/]: Syncing config to vicentula (ea963feb-ef64-36f6-8969-26de2e90d8be)
-[02Dec2024 02:00:05.453] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: BulletProjectileEntity['entity.dotf.bullet_projectile'/2874, l='ServerLevel[world]', x=206.34, y=6.90, z=318.02]
-[02Dec2024 02:00:05.454] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: BulletProjectileEntity['entity.dotf.bullet_projectile'/2878, l='ServerLevel[world]', x=193.59, y=38.57, z=319.49]
-[02Dec2024 02:00:05.454] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: BulletProjectileEntity['entity.dotf.bullet_projectile'/2879, l='ServerLevel[world]', x=198.14, y=51.55, z=317.66]
-[02Dec2024 02:00:05.454] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: BulletProjectileEntity['entity.dotf.bullet_projectile'/2883, l='ServerLevel[world]', x=205.93, y=90.81, z=315.07]
-[02Dec2024 02:00:05.455] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: BulletProjectileEntity['entity.dotf.bullet_projectile'/2884, l='ServerLevel[world]', x=205.34, y=90.81, z=315.07]
-[02Dec2024 02:00:05.455] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: BulletProjectileEntity['entity.dotf.bullet_projectile'/2885, l='ServerLevel[world]', x=205.37, y=90.81, z=315.07]
-[02Dec2024 02:00:05.455] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: BulletProjectileEntity['entity.dotf.bullet_projectile'/2888, l='ServerLevel[world]', x=194.48, y=-103.61, z=319.01]
-[02Dec2024 02:00:05.455] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: BulletProjectileEntity['entity.dotf.bullet_projectile'/2889, l='ServerLevel[world]', x=193.94, y=-104.08, z=316.80]
-[02Dec2024 02:00:05.456] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: BulletProjectileEntity['entity.dotf.bullet_projectile'/2890, l='ServerLevel[world]', x=193.83, y=-104.08, z=316.80]
-[02Dec2024 02:00:05.456] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: BulletProjectileEntity['entity.dotf.bullet_projectile'/2891, l='ServerLevel[world]', x=193.36, y=-104.32, z=316.59]
-[02Dec2024 02:00:05.456] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: BulletProjectileEntity['entity.dotf.bullet_projectile'/2892, l='ServerLevel[world]', x=193.83, y=-104.32, z=316.59]
-[02Dec2024 02:00:20.583] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: vicentula was shot by Skeleton
-[02Dec2024 02:00:20.594] [Server thread/INFO] [tombstone/]: The player vicentula has successfully been saved
-[02Dec2024 02:00:48.582] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: BulletProjectileEntity['entity.dotf.bullet_projectile'/3609, l='ServerLevel[world]', x=-160.12, y=467.66, z=324.95]
-[02Dec2024 02:00:48.583] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: BulletProjectileEntity['entity.dotf.bullet_projectile'/3610, l='ServerLevel[world]', x=-160.41, y=467.66, z=324.95]
-[02Dec2024 02:00:49.693] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jajaja was exploded with gas by a Pod Infector.
-[02Dec2024 02:00:49.755] [Server thread/INFO] [tombstone/]: The player jajaja has successfully been saved
-[02Dec2024 02:01:23.805] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PlayerFormEntity['Shiarir'/5474, l='ServerLevel[world]', x=582.62, y=67.00, z=569.64] died: Shiarir was slain by Zombie
-[02Dec2024 02:01:42.020] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: BulletProjectileEntity['entity.dotf.bullet_projectile'/7371, l='ServerLevel[world]', x=838.69, y=12.61, z=379.14]
-[02Dec2024 02:01:42.020] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: BulletProjectileEntity['entity.dotf.bullet_projectile'/7372, l='ServerLevel[world]', x=835.63, y=21.70, z=372.65]
-[02Dec2024 02:01:42.021] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: BulletProjectileEntity['entity.dotf.bullet_projectile'/7373, l='ServerLevel[world]', x=835.78, y=20.49, z=372.11]
-[02Dec2024 02:01:42.021] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: BulletProjectileEntity['entity.dotf.bullet_projectile'/7374, l='ServerLevel[world]', x=836.15, y=18.73, z=371.57]
-[02Dec2024 02:01:42.021] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: BulletProjectileEntity['entity.dotf.bullet_projectile'/7376, l='ServerLevel[world]', x=839.06, y=76.65, z=377.33]
-[02Dec2024 02:01:42.022] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: BulletProjectileEntity['entity.dotf.bullet_projectile'/7377, l='ServerLevel[world]', x=835.22, y=64.80, z=374.07]
-[02Dec2024 02:01:42.022] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: BulletProjectileEntity['entity.dotf.bullet_projectile'/7378, l='ServerLevel[world]', x=835.53, y=86.00, z=376.76]
-[02Dec2024 02:01:42.022] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: BulletProjectileEntity['entity.dotf.bullet_projectile'/7387, l='ServerLevel[world]', x=832.48, y=301.33, z=379.47]
-[02Dec2024 02:01:42.022] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: BulletProjectileEntity['entity.dotf.bullet_projectile'/7393, l='ServerLevel[world]', x=839.78, y=-49.81, z=380.61]
-[02Dec2024 02:01:42.080] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: BulletProjectileEntity['entity.dotf.bullet_projectile'/7404, l='ServerLevel[world]', x=832.44, y=93.73, z=354.53]
-[02Dec2024 02:01:42.080] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: BulletProjectileEntity['entity.dotf.bullet_projectile'/7407, l='ServerLevel[world]', x=832.37, y=115.88, z=357.78]
-[02Dec2024 02:01:42.081] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: BulletProjectileEntity['entity.dotf.bullet_projectile'/7409, l='ServerLevel[world]', x=835.23, y=128.75, z=363.03]
-[02Dec2024 02:01:42.081] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: BulletProjectileEntity['entity.dotf.bullet_projectile'/7410, l='ServerLevel[world]', x=834.41, y=168.85, z=357.37]
-[02Dec2024 02:01:42.081] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: BulletProjectileEntity['entity.dotf.bullet_projectile'/7411, l='ServerLevel[world]', x=832.84, y=177.47, z=359.97]
-[02Dec2024 02:01:42.081] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: BulletProjectileEntity['entity.dotf.bullet_projectile'/7412, l='ServerLevel[world]', x=835.36, y=179.49, z=359.97]
-[02Dec2024 02:01:42.082] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: BulletProjectileEntity['entity.dotf.bullet_projectile'/7413, l='ServerLevel[world]', x=835.31, y=179.49, z=359.97]
-[02Dec2024 02:01:42.082] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: BulletProjectileEntity['entity.dotf.bullet_projectile'/7414, l='ServerLevel[world]', x=835.57, y=179.49, z=359.97]
-[02Dec2024 02:01:42.082] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: BulletProjectileEntity['entity.dotf.bullet_projectile'/7415, l='ServerLevel[world]', x=835.31, y=179.49, z=359.97]
-[02Dec2024 02:01:42.082] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: BulletProjectileEntity['entity.dotf.bullet_projectile'/7420, l='ServerLevel[world]', x=833.18, y=252.15, z=361.28]
-[02Dec2024 02:01:42.083] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: BulletProjectileEntity['entity.dotf.bullet_projectile'/7421, l='ServerLevel[world]', x=835.66, y=261.32, z=363.30]
-[02Dec2024 02:01:42.083] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: BulletProjectileEntity['entity.dotf.bullet_projectile'/7422, l='ServerLevel[world]', x=832.78, y=262.62, z=358.76]
-[02Dec2024 02:01:42.083] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: BulletProjectileEntity['entity.dotf.bullet_projectile'/7423, l='ServerLevel[world]', x=835.49, y=272.47, z=360.68]
-[02Dec2024 02:01:42.083] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: BulletProjectileEntity['entity.dotf.bullet_projectile'/7424, l='ServerLevel[world]', x=834.50, y=272.47, z=359.91]
-[02Dec2024 02:01:42.083] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: BulletProjectileEntity['entity.dotf.bullet_projectile'/7425, l='ServerLevel[world]', x=835.18, y=274.16, z=359.33]
-[02Dec2024 02:01:42.084] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: BulletProjectileEntity['entity.dotf.bullet_projectile'/7426, l='ServerLevel[world]', x=835.63, y=274.16, z=358.75]
-[02Dec2024 02:01:42.084] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: BulletProjectileEntity['entity.dotf.bullet_projectile'/7427, l='ServerLevel[world]', x=835.77, y=274.16, z=358.18]
-[02Dec2024 02:01:42.084] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: BulletProjectileEntity['entity.dotf.bullet_projectile'/7428, l='ServerLevel[world]', x=832.75, y=323.19, z=361.82]
-[02Dec2024 02:01:42.085] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: BulletProjectileEntity['entity.dotf.bullet_projectile'/7466, l='ServerLevel[world]', x=834.20, y=-99.32, z=363.38]
-[02Dec2024 02:01:42.085] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: BulletProjectileEntity['entity.dotf.bullet_projectile'/7467, l='ServerLevel[world]', x=835.49, y=-99.19, z=362.21]
-[02Dec2024 02:01:42.085] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: BulletProjectileEntity['entity.dotf.bullet_projectile'/7495, l='ServerLevel[world]', x=836.17, y=-81.75, z=360.57]
-[02Dec2024 02:01:42.086] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: BulletProjectileEntity['entity.dotf.bullet_projectile'/7511, l='ServerLevel[world]', x=838.83, y=-73.90, z=363.47]
-[02Dec2024 02:01:42.086] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: BulletProjectileEntity['entity.dotf.bullet_projectile'/7531, l='ServerLevel[world]', x=836.69, y=-62.42, z=354.45]
-[02Dec2024 02:01:42.087] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: BulletProjectileEntity['entity.dotf.bullet_projectile'/7555, l='ServerLevel[world]', x=833.14, y=-14.12, z=366.95]
-[02Dec2024 02:01:42.087] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: BulletProjectileEntity['entity.dotf.bullet_projectile'/7556, l='ServerLevel[world]', x=833.28, y=-14.12, z=366.95]
-[02Dec2024 02:02:45.605] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: BulletProjectileEntity['entity.dotf.bullet_projectile'/10174, l='ServerLevel[world]', x=652.42, y=26.44, z=342.23]
-[02Dec2024 02:02:45.698] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: BulletProjectileEntity['entity.dotf.bullet_projectile'/10187, l='ServerLevel[world]', x=663.03, y=95.68, z=344.18]
-[02Dec2024 02:02:45.804] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: BulletProjectileEntity['entity.dotf.bullet_projectile'/10208, l='ServerLevel[world]', x=627.08, y=26.10, z=338.96]
-[02Dec2024 02:02:45.804] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: BulletProjectileEntity['entity.dotf.bullet_projectile'/10209, l='ServerLevel[world]', x=625.13, y=25.73, z=338.33]
-[02Dec2024 02:02:46.569] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: BulletProjectileEntity['entity.dotf.bullet_projectile'/10261, l='ServerLevel[world]', x=786.39, y=30.19, z=345.92]
-[02Dec2024 02:02:46.570] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: BulletProjectileEntity['entity.dotf.bullet_projectile'/10262, l='ServerLevel[world]', x=786.08, y=31.29, z=349.92]
-[02Dec2024 02:02:46.570] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: BulletProjectileEntity['entity.dotf.bullet_projectile'/10313, l='ServerLevel[world]', x=797.22, y=-29.79, z=350.41]
-[02Dec2024 02:02:46.571] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: BulletProjectileEntity['entity.dotf.bullet_projectile'/10314, l='ServerLevel[world]', x=791.96, y=-28.52, z=346.56]
-[02Dec2024 02:02:46.571] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: BulletProjectileEntity['entity.dotf.bullet_projectile'/10315, l='ServerLevel[world]', x=790.94, y=-28.79, z=344.75]
-[02Dec2024 02:02:46.571] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: BulletProjectileEntity['entity.dotf.bullet_projectile'/10327, l='ServerLevel[world]', x=798.22, y=-4.31, z=345.03]
-[02Dec2024 02:02:46.718] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: BulletProjectileEntity['entity.dotf.bullet_projectile'/10358, l='ServerLevel[world]', x=617.61, y=-18.31, z=339.87]
-[02Dec2024 02:02:46.718] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: BulletProjectileEntity['entity.dotf.bullet_projectile'/10359, l='ServerLevel[world]', x=617.08, y=-18.31, z=339.87]
-[02Dec2024 02:02:46.719] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: BulletProjectileEntity['entity.dotf.bullet_projectile'/10360, l='ServerLevel[world]', x=617.49, y=-18.31, z=339.87]
-[02Dec2024 02:02:46.719] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: BulletProjectileEntity['entity.dotf.bullet_projectile'/10361, l='ServerLevel[world]', x=617.03, y=-18.31, z=339.87]
-[02Dec2024 02:02:46.719] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: BulletProjectileEntity['entity.dotf.bullet_projectile'/10362, l='ServerLevel[world]', x=617.26, y=-18.31, z=339.87]
-[02Dec2024 02:02:53.495] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2081ms or 41 ticks behind
-[02Dec2024 02:03:03.951] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PlayerFormEntity['ShadowSwordz'/8503, l='ServerLevel[world]', x=647.36, y=23.00, z=541.46] died: ShadowSwordz was slain by Looter
-[02Dec2024 02:03:05.763] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: BulletProjectileEntity['entity.dotf.bullet_projectile'/11442, l='ServerLevel[world]', x=195.58, y=132.53, z=738.50]
-[02Dec2024 02:03:10.517] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: BulletProjectileEntity['entity.dotf.bullet_projectile'/11597, l='ServerLevel[world]', x=208.73, y=45.05, z=705.45]
-[02Dec2024 02:03:10.518] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: BulletProjectileEntity['entity.dotf.bullet_projectile'/11613, l='ServerLevel[world]', x=208.87, y=-84.01, z=706.98]
-[02Dec2024 02:03:10.518] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: BulletProjectileEntity['entity.dotf.bullet_projectile'/11614, l='ServerLevel[world]', x=222.08, y=-73.46, z=711.37]
-[02Dec2024 02:03:10.518] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: BulletProjectileEntity['entity.dotf.bullet_projectile'/11615, l='ServerLevel[world]', x=222.23, y=-73.46, z=711.37]
-[02Dec2024 02:03:10.518] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: BulletProjectileEntity['entity.dotf.bullet_projectile'/11616, l='ServerLevel[world]', x=221.95, y=-73.46, z=711.37]
-[02Dec2024 02:03:10.518] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: BulletProjectileEntity['entity.dotf.bullet_projectile'/11617, l='ServerLevel[world]', x=208.15, y=-73.46, z=711.37]
-[02Dec2024 02:03:10.519] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: BulletProjectileEntity['entity.dotf.bullet_projectile'/11618, l='ServerLevel[world]', x=208.52, y=-73.46, z=711.37]
-[02Dec2024 02:03:12.984] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4520ms or 90 ticks behind
-[02Dec2024 02:03:18.169] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: BulletProjectileEntity['entity.dotf.bullet_projectile'/11837, l='ServerLevel[world]', x=224.35, y=19.14, z=723.95]
-[02Dec2024 02:03:18.169] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: BulletProjectileEntity['entity.dotf.bullet_projectile'/11838, l='ServerLevel[world]', x=229.53, y=18.79, z=720.15]
-[02Dec2024 02:03:18.170] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: BulletProjectileEntity['entity.dotf.bullet_projectile'/11839, l='ServerLevel[world]', x=229.79, y=18.65, z=720.40]
-[02Dec2024 02:03:18.170] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: BulletProjectileEntity['entity.dotf.bullet_projectile'/11840, l='ServerLevel[world]', x=230.31, y=19.56, z=720.59]
-[02Dec2024 02:03:18.170] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: BulletProjectileEntity['entity.dotf.bullet_projectile'/11841, l='ServerLevel[world]', x=230.35, y=23.22, z=720.62]
-[02Dec2024 02:03:18.170] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: BulletProjectileEntity['entity.dotf.bullet_projectile'/11842, l='ServerLevel[world]', x=233.75, y=18.41, z=734.94]
-[02Dec2024 02:03:18.170] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: BulletProjectileEntity['entity.dotf.bullet_projectile'/11843, l='ServerLevel[world]', x=239.88, y=18.19, z=730.42]
-[02Dec2024 02:03:18.171] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: BulletProjectileEntity['entity.dotf.bullet_projectile'/11844, l='ServerLevel[world]', x=239.79, y=18.06, z=730.68]
-[02Dec2024 02:03:18.171] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: BulletProjectileEntity['entity.dotf.bullet_projectile'/11849, l='ServerLevel[world]', x=231.87, y=144.48, z=725.23]
-[02Dec2024 02:03:30.498] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2534ms or 50 ticks behind
-[02Dec2024 02:03:31.100] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=61, y=73, z=667} BlockPos{x=61, y=71, z=667}
-[02Dec2024 02:03:31.103] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=61, y=73, z=667} BlockPos{x=61, y=71, z=667}
-[02Dec2024 02:03:32.267] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: BulletProjectileEntity['entity.dotf.bullet_projectile'/12362, l='ServerLevel[world]', x=243.67, y=24.65, z=722.97]
-[02Dec2024 02:03:32.267] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: BulletProjectileEntity['entity.dotf.bullet_projectile'/12363, l='ServerLevel[world]', x=252.18, y=77.77, z=724.45]
-[02Dec2024 02:03:32.267] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: BulletProjectileEntity['entity.dotf.bullet_projectile'/12366, l='ServerLevel[world]', x=251.65, y=-128.83, z=722.52]
-[02Dec2024 02:03:32.268] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: BulletProjectileEntity['entity.dotf.bullet_projectile'/12367, l='ServerLevel[world]', x=250.35, y=-100.51, z=720.87]
-[02Dec2024 02:03:32.268] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: BulletProjectileEntity['entity.dotf.bullet_projectile'/12368, l='ServerLevel[world]', x=251.82, y=-102.45, z=720.21]
-[02Dec2024 02:03:32.268] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: BulletProjectileEntity['entity.dotf.bullet_projectile'/12369, l='ServerLevel[world]', x=241.40, y=-44.45, z=720.74]
-[02Dec2024 02:03:32.268] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: BulletProjectileEntity['entity.dotf.bullet_projectile'/12370, l='ServerLevel[world]', x=240.14, y=-41.99, z=721.52]
-[02Dec2024 02:03:32.269] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: BulletProjectileEntity['entity.dotf.bullet_projectile'/12372, l='ServerLevel[world]', x=249.75, y=-23.86, z=724.37]
-[02Dec2024 02:03:32.269] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: BulletProjectileEntity['entity.dotf.bullet_projectile'/12373, l='ServerLevel[world]', x=251.18, y=-10.44, z=727.46]
-[02Dec2024 02:03:35.481] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: BulletProjectileEntity['entity.dotf.bullet_projectile'/12517, l='ServerLevel[world]', x=271.91, y=73.67, z=732.56]
-[02Dec2024 02:03:35.481] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: BulletProjectileEntity['entity.dotf.bullet_projectile'/12518, l='ServerLevel[world]', x=269.88, y=110.98, z=721.70]
-[02Dec2024 02:03:35.481] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: BulletProjectileEntity['entity.dotf.bullet_projectile'/12519, l='ServerLevel[world]', x=264.81, y=131.53, z=728.85]
-[02Dec2024 02:03:35.481] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: BulletProjectileEntity['entity.dotf.bullet_projectile'/12520, l='ServerLevel[world]', x=260.98, y=156.23, z=721.13]
-[02Dec2024 02:03:35.482] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: BulletProjectileEntity['entity.dotf.bullet_projectile'/12521, l='ServerLevel[world]', x=266.51, y=201.63, z=732.32]
-[02Dec2024 02:03:35.482] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: BulletProjectileEntity['entity.dotf.bullet_projectile'/12522, l='ServerLevel[world]', x=268.60, y=224.79, z=720.57]
-[02Dec2024 02:03:35.482] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: BulletProjectileEntity['entity.dotf.bullet_projectile'/12523, l='ServerLevel[world]', x=261.31, y=-129.92, z=721.73]
-[02Dec2024 02:03:35.482] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: BulletProjectileEntity['entity.dotf.bullet_projectile'/12524, l='ServerLevel[world]', x=256.83, y=-134.17, z=724.94]
-[02Dec2024 02:03:35.483] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: BulletProjectileEntity['entity.dotf.bullet_projectile'/12525, l='ServerLevel[world]', x=257.15, y=-132.01, z=725.10]
-[02Dec2024 02:03:35.483] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: BulletProjectileEntity['entity.dotf.bullet_projectile'/12526, l='ServerLevel[world]', x=261.98, y=-131.66, z=727.42]
-[02Dec2024 02:03:35.483] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: BulletProjectileEntity['entity.dotf.bullet_projectile'/12527, l='ServerLevel[world]', x=264.44, y=-134.08, z=723.94]
-[02Dec2024 02:03:35.483] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: BulletProjectileEntity['entity.dotf.bullet_projectile'/12533, l='ServerLevel[world]', x=271.30, y=-123.19, z=720.17]
-[02Dec2024 02:03:35.484] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: BulletProjectileEntity['entity.dotf.bullet_projectile'/12534, l='ServerLevel[world]', x=270.07, y=-97.51, z=722.54]
-[02Dec2024 02:03:35.484] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: BulletProjectileEntity['entity.dotf.bullet_projectile'/12535, l='ServerLevel[world]', x=270.40, y=-94.58, z=724.29]
-[02Dec2024 02:03:35.484] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: BulletProjectileEntity['entity.dotf.bullet_projectile'/12536, l='ServerLevel[world]', x=271.05, y=-48.49, z=723.02]
-[02Dec2024 02:03:35.484] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: BulletProjectileEntity['entity.dotf.bullet_projectile'/12537, l='ServerLevel[world]', x=268.19, y=-53.92, z=728.22]
-[02Dec2024 02:03:35.484] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: BulletProjectileEntity['entity.dotf.bullet_projectile'/12538, l='ServerLevel[world]', x=267.31, y=-54.07, z=733.00]
-[02Dec2024 02:03:35.485] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: BulletProjectileEntity['entity.dotf.bullet_projectile'/12539, l='ServerLevel[world]', x=267.95, y=-45.15, z=721.36]
-[02Dec2024 02:03:50.867] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5403ms or 108 ticks behind
-[02Dec2024 02:04:06.379] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Wolf['Wolf'/13816, l='ServerLevel[world]', x=383.91, y=66.00, z=736.00]
-[02Dec2024 02:04:09.522] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3658ms or 73 ticks behind
-[02Dec2024 02:04:10.631] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: BulletProjectileEntity['entity.dotf.bullet_projectile'/13991, l='ServerLevel[world]', x=202.81, y=278.02, z=835.74]
-[02Dec2024 02:04:19.543] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jajaja was exploded with gas by a Pod Infector.
-[02Dec2024 02:04:19.631] [Server thread/INFO] [tombstone/]: The player jajaja has successfully been saved
-[02Dec2024 02:04:39.669] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
-[02Dec2024 02:04:50.666] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: BulletProjectileEntity['entity.dotf.bullet_projectile'/16078, l='ServerLevel[world]', x=408.38, y=70.53, z=433.90]
-[02Dec2024 02:04:50.667] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: BulletProjectileEntity['entity.dotf.bullet_projectile'/16084, l='ServerLevel[world]', x=413.65, y=84.39, z=456.63]
-[02Dec2024 02:04:50.668] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: BulletProjectileEntity['entity.dotf.bullet_projectile'/16239, l='ServerLevel[world]', x=498.17, y=-20.92, z=348.96]
-[02Dec2024 02:05:23.275] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: vicentula was slain by Enderman Form
-[02Dec2024 02:05:23.321] [Server thread/INFO] [tombstone/]: The player vicentula has successfully been saved
-[02Dec2024 02:05:24.969] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2055ms or 41 ticks behind
-[02Dec2024 02:05:39.094] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jajaja was slain by Enderman Form
-[02Dec2024 02:05:39.166] [Server thread/INFO] [tombstone/]: The player jajaja has successfully been saved
-[02Dec2024 02:05:44.672] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PlayerFormEntity['Nightfox'/17929, l='ServerLevel[world]', x=-15.44, y=-16.46, z=560.65] died: Nightfox was slain by Looter
-[02Dec2024 02:06:07.155] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PlayerFormEntity['Shiarir'/15913, l='ServerLevel[world]', x=600.66, y=-17.00, z=566.38] died: Shiarir was slain by Looter
-[02Dec2024 02:06:42.667] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
-[02Dec2024 02:06:54.983] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: vicentula was slain by Runner
-[02Dec2024 02:06:55.029] [Server thread/INFO] [tombstone/]: The player vicentula has successfully been saved
-[02Dec2024 02:07:00.653] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2989ms or 59 ticks behind
-[02Dec2024 02:07:21.443] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5829ms or 116 ticks behind
-[02Dec2024 02:07:23.446] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jajaja was doomed to fall by Vindicator Form
-[02Dec2024 02:07:23.452] [Server thread/INFO] [tombstone/]: The player jajaja has successfully been saved
-[02Dec2024 02:07:26.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: vicentula was blown up with gas and poison by a Carrier Form.
-[02Dec2024 02:07:26.966] [Server thread/INFO] [tombstone/]: The player vicentula has successfully been saved
-[02Dec2024 02:07:55.221] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
-[02Dec2024 02:08:23.503] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jajaja has made the advancement [Knowledge raises the soul]
-[02Dec2024 02:08:36.878] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PlayerFormEntity['TeamAbyssal'/21578, l='ServerLevel[world]', x=-48.64, y=1.00, z=433.67] died: TeamAbyssal was slain by Looter
-[02Dec2024 02:08:42.176] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BenjaChilenoxD was blown up by Creeper
-[02Dec2024 02:08:42.218] [Server thread/INFO] [tombstone/]: The player BenjaChilenoxD has successfully been saved
-[02Dec2024 02:08:53.068] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
-[02Dec2024 02:08:57.911] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: vicentula was infinitely tormented by Human Form.
-[02Dec2024 02:08:57.947] [Server thread/INFO] [tombstone/]: The player vicentula has successfully been saved
-[02Dec2024 02:09:15.023] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <vicentula> encontre la edcite
-[02Dec2024 02:09:16.115] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
-[02Dec2024 02:09:20.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: vicentula tried to swim in lava
-[02Dec2024 02:09:20.793] [Server thread/INFO] [tombstone/]: The player vicentula has successfully been saved
-[02Dec2024 02:09:38.789] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7675ms or 153 ticks behind
-[02Dec2024 02:09:46.053] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PlayerFormEntity['ItsPizzaTIM'/31801, l='ServerLevel[world]', x=34.68, y=38.00, z=-7.22] died: ItsPizzaTIM was slain by Zombie
-[02Dec2024 02:09:57.427] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3663ms or 73 ticks behind
-[02Dec2024 02:09:59.950] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=67, y=74, z=660} BlockPos{x=68, y=73, z=660}
-[02Dec2024 02:10:00.039] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=67, y=74, z=660} BlockPos{x=68, y=73, z=660}
-[02Dec2024 02:10:00.040] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=67, y=74, z=660} BlockPos{x=68, y=73, z=660}
-[02Dec2024 02:10:00.181] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=68, y=75, z=660} BlockPos{x=70, y=73, z=658}
-[02Dec2024 02:10:00.184] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=68, y=75, z=660} BlockPos{x=70, y=73, z=658}
-[02Dec2024 02:10:00.242] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=68, y=75, z=660} BlockPos{x=70, y=73, z=658}
-[02Dec2024 02:10:00.326] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=68, y=75, z=660} BlockPos{x=70, y=73, z=658}
-[02Dec2024 02:10:01.153] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=73, y=76, z=657} BlockPos{x=73, y=74, z=657}
-[02Dec2024 02:10:01.155] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=73, y=76, z=657} BlockPos{x=73, y=74, z=657}
-[02Dec2024 02:10:01.241] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=73, y=76, z=657} BlockPos{x=73, y=74, z=657}
-[02Dec2024 02:10:18.640] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6226ms or 124 ticks behind
-[02Dec2024 02:10:36.760] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3146ms or 62 ticks behind
-[02Dec2024 02:10:42.745] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: BulletProjectileEntity['entity.dotf.bullet_projectile'/36998, l='ServerLevel[world]', x=394.60, y=10.33, z=364.42]
-[02Dec2024 02:10:42.746] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: BulletProjectileEntity['entity.dotf.bullet_projectile'/37000, l='ServerLevel[world]', x=396.85, y=264.95, z=367.20]
-[02Dec2024 02:10:42.746] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: BulletProjectileEntity['entity.dotf.bullet_projectile'/37001, l='ServerLevel[world]', x=397.36, y=-29.58, z=366.92]
-[02Dec2024 02:10:49.498] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: BulletProjectileEntity['entity.dotf.bullet_projectile'/37549, l='ServerLevel[world]', x=373.43, y=20.90, z=359.75]
-[02Dec2024 02:10:49.498] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: BulletProjectileEntity['entity.dotf.bullet_projectile'/37567, l='ServerLevel[world]', x=378.57, y=363.13, z=366.14]
-[02Dec2024 02:10:49.499] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: BulletProjectileEntity['entity.dotf.bullet_projectile'/37581, l='ServerLevel[world]', x=380.51, y=-68.58, z=366.47]
-[02Dec2024 02:10:49.499] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: BulletProjectileEntity['entity.dotf.bullet_projectile'/37584, l='ServerLevel[world]', x=373.20, y=-41.55, z=360.64]
-[02Dec2024 02:10:49.499] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: BulletProjectileEntity['entity.dotf.bullet_projectile'/37585, l='ServerLevel[world]', x=380.61, y=-37.60, z=365.10]
-[02Dec2024 02:10:49.499] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: BulletProjectileEntity['entity.dotf.bullet_projectile'/37589, l='ServerLevel[world]', x=377.30, y=-1.62, z=366.49]
-[02Dec2024 02:10:49.500] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: BulletProjectileEntity['entity.dotf.bullet_projectile'/37590, l='ServerLevel[world]', x=380.36, y=-9.89, z=366.25]
-[02Dec2024 02:10:49.500] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: BulletProjectileEntity['entity.dotf.bullet_projectile'/37591, l='ServerLevel[world]', x=376.95, y=21.09, z=378.71]
-[02Dec2024 02:10:49.501] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Military02Entity['Military'/37724, l='ServerLevel[world]', x=359.61, y=-12.00, z=397.40]
-[02Dec2024 02:10:54.955] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3241ms or 64 ticks behind
-[02Dec2024 02:11:00.555] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: BulletProjectileEntity['entity.dotf.bullet_projectile'/38664, l='ServerLevel[world]', x=326.01, y=51.26, z=361.32]
-[02Dec2024 02:11:00.556] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: BulletProjectileEntity['entity.dotf.bullet_projectile'/38665, l='ServerLevel[world]', x=325.69, y=51.26, z=361.32]
-[02Dec2024 02:11:14.817] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
-[02Dec2024 02:11:33.388] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PlayerFormEntity['ShadowWolf'/38758, l='ServerLevel[world]', x=-33.66, y=14.00, z=438.95] died: ShadowWolf was slain by Looter
-[02Dec2024 02:11:42.898] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PlayerFormEntity['ASEStefan'/40347, l='ServerLevel[world]', x=50.34, y=-16.00, z=463.99] died: ASEStefan was shot by Skeleton
-[02Dec2024 02:12:58.818] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
-[02Dec2024 02:13:16.328] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PlayerFormEntity['boodahbob'/44080, l='ServerLevel[world]', x=632.83, y=17.13, z=553.49] died: boodahbob was slain by Looter
-[02Dec2024 02:13:17.228] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3414ms or 68 ticks behind
-[02Dec2024 02:13:37.985] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5771ms or 115 ticks behind
-[02Dec2024 02:13:46.996] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PlayerFormEntity['Finton'/46476, l='ServerLevel[world]', x=387.60, y=-27.10, z=225.60] died: Finton suffocated in a wall
-[02Dec2024 02:13:57.132] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4168ms or 83 ticks behind
-[02Dec2024 02:14:15.410] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3296ms or 65 ticks behind
-[02Dec2024 02:15:02.044] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PlayerFormEntity['ShadowWolf'/46680, l='ServerLevel[world]', x=323.40, y=-38.00, z=251.86] died: ShadowWolf was slain by Looter
-[02Dec2024 02:18:09.842] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PlayerFormEntity['Finton'/54804, l='ServerLevel[world]', x=283.88, y=4.00, z=213.14] died: Finton was slain by Looter
-[02Dec2024 02:19:55.489] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PlayerFormEntity['Finton'/56682, l='ServerLevel[world]', x=392.83, y=25.00, z=214.77] died: Finton was slain by Zombie
-[02Dec2024 02:20:40.686] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PlayerFormEntity['MR138'/57361, l='ServerLevel[world]', x=641.60, y=33.90, z=466.60] died: MR138 suffocated in a wall
-[02Dec2024 02:21:26.477] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BenjaChilenoxD was exploded with gas by a Pod Infector.
-[02Dec2024 02:21:26.522] [Server thread/INFO] [tombstone/]: The player BenjaChilenoxD has successfully been saved
-[02Dec2024 02:22:37.111] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PlayerFormEntity['ASEStefan'/60668, l='ServerLevel[world]', x=382.86, y=68.00, z=249.22] died: ASEStefan was shot by BenjaChilenoxD
-[02Dec2024 02:22:46.246] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BenjaChilenoxD was slain by Enderman Form
-[02Dec2024 02:22:46.293] [Server thread/INFO] [tombstone/]: The player BenjaChilenoxD has successfully been saved
-[02Dec2024 02:24:43.435] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PlayerFormEntity['Kronoz'/64290, l='ServerLevel[world]', x=545.26, y=44.00, z=334.16] died: Kronoz was slain by Looter
-[02Dec2024 02:24:58.218] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BenjaChilenoxD couldn't dodge that one.
-[02Dec2024 02:24:58.272] [Server thread/INFO] [tombstone/]: The player BenjaChilenoxD has successfully been saved
-[02Dec2024 02:26:06.936] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BenjaChilenoxD was exploded with gas by a Pod Infector.
-[02Dec2024 02:26:06.989] [Server thread/INFO] [tombstone/]: The player BenjaChilenoxD has successfully been saved
-[02Dec2024 02:27:45.026] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BenjaChilenoxD was blown up by Creeper
-[02Dec2024 02:27:45.074] [Server thread/INFO] [tombstone/]: The player BenjaChilenoxD has successfully been saved
-[02Dec2024 02:28:00.230] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PlayerFormEntity['AzPure'/68810, l='ServerLevel[world]', x=713.00, y=13.69, z=527.78] died: AzPure was slain by Zombie
-[02Dec2024 02:28:25.592] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PlayerFormEntity['okshn'/69912, l='ServerLevel[world]', x=590.72, y=37.54, z=546.72] died: okshn was blown up by Creeper
-[02Dec2024 02:29:47.275] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BenjaChilenoxD was slain by Pod Infector
-[02Dec2024 02:29:47.296] [Server thread/INFO] [tombstone/]: The player BenjaChilenoxD has successfully been saved
-[02Dec2024 02:29:59.680] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PlayerFormEntity['ShadowWolf'/63285, l='ServerLevel[world]', x=610.60, y=66.16, z=549.52] died: ShadowWolf was shot by vicentula
-[02Dec2024 02:30:16.481] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PlayerFormEntity['Shiarir'/70487, l='ServerLevel[world]', x=612.01, y=65.00, z=536.85] died: Shiarir was shot by vicentula
-[02Dec2024 02:30:34.194] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BenjaChilenoxD> vixo
-[02Dec2024 02:30:38.235] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BenjaChilenoxD> salta si escuchai
-[02Dec2024 02:30:38.434] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <vicentula> q wea concehtumare
-[02Dec2024 02:30:40.175] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: vicentula was blown up by Creeper
-[02Dec2024 02:30:40.488] [Server thread/INFO] [tombstone/]: The player vicentula has successfully been saved
-[02Dec2024 02:32:08.293] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PlayerFormEntity['Allan Marceau'/63283, l='ServerLevel[world]', x=652.60, y=63.90, z=542.40] died: Allan Marceau was shot by BenjaChilenoxD
-[02Dec2024 02:32:43.486] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: vicentula was shot by jajaja
-[02Dec2024 02:32:43.795] [Server thread/INFO] [tombstone/]: The player vicentula has successfully been saved
-[02Dec2024 02:34:04.726] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PlayerFormEntity['okshn'/80696, l='ServerLevel[world]', x=613.91, y=38.00, z=602.02] died: okshn was slain by Zombie
-[02Dec2024 02:37:06.640] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PlayerFormEntity['TeamAbyssal'/85494, l='ServerLevel[world]', x=430.60, y=29.90, z=208.40] died: TeamAbyssal was slain by Zombie
-[02Dec2024 02:38:56.260] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PlayerFormEntity['TeamAbyssal'/89338, l='ServerLevel[world]', x=195.84, y=36.00, z=-6.23] died: TeamAbyssal was slain by Zombie
-[02Dec2024 02:39:01.221] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PlayerFormEntity['Nightfox'/88041, l='ServerLevel[world]', x=314.62, y=-34.29, z=29.13] died: Nightfox was slain by Looter
-[02Dec2024 02:39:15.003] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2039ms or 40 ticks behind
-[02Dec2024 02:39:32.431] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2467ms or 49 ticks behind
-[02Dec2024 02:39:33.591] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jajaja was exploded with gas by a Pod Infector.
-[02Dec2024 02:39:34.297] [Server thread/INFO] [tombstone/]: The player jajaja has successfully been saved
-[02Dec2024 02:39:51.074] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
-[02Dec2024 02:40:06.958] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PlayerFormEntity['ShadowWolf'/93672, l='ServerLevel[world]', x=-47.91, y=-35.25, z=532.40] died: ShadowWolf was slain by Looter
-[02Dec2024 02:40:13.237] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7173ms or 143 ticks behind
-[02Dec2024 02:40:37.380] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9166ms or 183 ticks behind
-[02Dec2024 02:41:00.180] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7816ms or 156 ticks behind
-[02Dec2024 02:41:22.985] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7820ms or 156 ticks behind
-[02Dec2024 02:41:36.264] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PlayerFormEntity['Allan Marceau'/92916, l='ServerLevel[world]', x=206.29, y=25.00, z=132.95] died: Allan Marceau was slain by Zombie
-[02Dec2024 02:41:37.795] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: BulletProjectileEntity['entity.dotf.bullet_projectile'/99042, l='ServerLevel[world]', x=246.15, y=362.77, z=818.63]
-[02Dec2024 02:41:44.344] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6380ms or 127 ticks behind
-[02Dec2024 02:42:05.873] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6559ms or 131 ticks behind
-[02Dec2024 02:42:11.636] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PlayerFormEntity['ASEStefan'/100511, l='ServerLevel[world]', x=325.66, y=63.00, z=166.53] died: ASEStefan was shot by BenjaChilenoxD
-[02Dec2024 02:42:25.881] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5017ms or 100 ticks behind
-[02Dec2024 02:42:42.627] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <vicentula> zzz
-[02Dec2024 02:42:45.954] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5090ms or 101 ticks behind
-[02Dec2024 02:42:46.602] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BenjaChilenoxD couldn't dodge that one.
-[02Dec2024 02:42:46.619] [Server thread/INFO] [tombstone/]: The player BenjaChilenoxD has successfully been saved
-[02Dec2024 02:43:05.893] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <vicentula> zzz
-[02Dec2024 02:43:07.547] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <vicentula> z
-[02Dec2024 02:43:07.810] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <vicentula> z
-[02Dec2024 02:43:07.955] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <vicentula> z
-[02Dec2024 02:43:08.198] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <vicentula> zz
-[02Dec2024 02:43:08.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <vicentula> z
-[02Dec2024 02:43:08.513] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <vicentula> z
-[02Dec2024 02:43:14.822] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jajaja was slain by Pod Infector
-[02Dec2024 02:43:14.869] [Server thread/INFO] [tombstone/]: The player jajaja has successfully been saved
-[02Dec2024 02:43:17.589] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jajaja has made the advancement [The Most Useful Key]
-[02Dec2024 02:43:28.687] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jajaja has reached the goal [A Fast Comeback]
-[02Dec2024 02:43:50.825] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PlayerFormEntity['Beta'/106762, l='ServerLevel[world]', x=504.95, y=9.00, z=405.36] died: Beta was slain by Zombie
-[02Dec2024 02:44:15.043] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jajaja fell from a high place
-[02Dec2024 02:44:15.058] [Server thread/INFO] [tombstone/]: The player jajaja has successfully been saved
-[02Dec2024 02:44:19.695] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PlayerFormEntity['Finton'/108707, l='ServerLevel[world]', x=636.43, y=17.00, z=557.10] died: Finton was slain by Zombie
-[02Dec2024 02:44:20.238] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PlayerFormEntity['ShadowSwordz'/108706, l='ServerLevel[world]', x=648.60, y=23.44, z=559.40] died: ShadowSwordz suffocated in a wall
-[02Dec2024 02:44:32.220] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
-[02Dec2024 02:44:48.197] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: jajaja lost connection: Disconnected
-[02Dec2024 02:44:48.198] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jajaja left the game
-[02Dec2024 02:45:43.725] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BenjaChilenoxD died because of Skeleton
-[02Dec2024 02:45:43.730] [Server thread/INFO] [tombstone/]: The player BenjaChilenoxD has successfully been saved
-[02Dec2024 02:45:51.630] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: jajaja[/127.159.230.212:51289] logged in with entity id 112218 at (635.5721713524679, 47.0, 585.6999999880791)
-[02Dec2024 02:45:51.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jajaja joined the game
-[02Dec2024 02:45:51.711] [Server thread/INFO] [Jade/]: Syncing config to jajaja (60531054-5ff8-313e-b861-2a8b0e2dc9e3)
-[02Dec2024 02:46:32.235] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PlayerFormEntity['Reno'/114138, l='ServerLevel[world]', x=621.00, y=39.00, z=594.95] died: Reno was shot by jajaja
-[02Dec2024 02:47:32.436] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PlayerFormEntity['ASEStefan'/104753, l='ServerLevel[world]', x=632.40, y=47.90, z=585.60] died: ASEStefan was slain by jajaja
-[02Dec2024 02:47:40.941] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PlayerFormEntity['MR138'/115137, l='ServerLevel[world]', x=648.44, y=-24.46, z=532.42] died: MR138 was slain by Zombie
-[02Dec2024 02:49:56.529] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PlayerFormEntity['ShadowWolf'/117937, l='ServerLevel[world]', x=627.89, y=5.00, z=664.02] died: ShadowWolf was slain by Enderman
-[02Dec2024 02:50:00.841] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PlayerFormEntity['ShadowWolf'/117938, l='ServerLevel[world]', x=622.69, y=5.80, z=663.11] died: ShadowWolf was slain by Enderman
-[02Dec2024 02:51:34.080] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jajaja was exploded with gas by a Pod Infector.
-[02Dec2024 02:51:34.090] [Server thread/INFO] [tombstone/]: The player jajaja has successfully been saved
-[02Dec2024 02:52:02.286] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PlayerFormEntity['jajaja'/119639, l='ServerLevel[world]', x=627.30, y=41.00, z=592.41] died: jajaja was slain by jajaja
-[02Dec2024 02:52:52.831] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PlayerFormEntity['purple skittle'/120564, l='ServerLevel[world]', x=622.46, y=41.00, z=588.62] died: purple skittle was shot by jajaja
-[02Dec2024 02:54:19.333] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PlayerFormEntity['purple skittle'/121695, l='ServerLevel[world]', x=622.24, y=15.00, z=544.39] died: purple skittle was slain by Zombie
-[02Dec2024 02:55:24.288] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PlayerFormEntity['boodahbob'/123518, l='ServerLevel[world]', x=600.02, y=38.00, z=586.76] died: boodahbob was slain by jajaja
-[02Dec2024 02:55:28.583] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jajaja was made into target practice.
-[02Dec2024 02:55:28.588] [Server thread/INFO] [tombstone/]: The player jajaja has successfully been saved
-[02Dec2024 02:55:35.529] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: vicentula was infinitely tormented by Sangheili Form.
-[02Dec2024 02:55:35.813] [Server thread/INFO] [tombstone/]: The player vicentula has successfully been saved
-[02Dec2024 02:55:46.430] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: vicentula was lethally executed by Sangheili Form.
-[02Dec2024 02:55:46.452] [Server thread/INFO] [tombstone/]: The player vicentula has successfully been saved
-[02Dec2024 02:55:46.890] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PlayerFormEntity['Reno'/123508, l='ServerLevel[world]', x=611.14, y=40.00, z=610.09] died: Reno was shot by jajaja
-[02Dec2024 02:56:27.477] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: vicentula was exploded with gas by a Pod Infector.
-[02Dec2024 02:56:27.763] [Server thread/INFO] [tombstone/]: The player vicentula has successfully been saved
-[02Dec2024 02:56:44.130] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jajaja was brought to extermination by Human Form.
-[02Dec2024 02:56:44.148] [Server thread/INFO] [tombstone/]: The player jajaja has successfully been saved
-[02Dec2024 02:57:02.444] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PlayerFormEntity['vicentula'/126898, l='ServerLevel[world]', x=594.01, y=35.00, z=565.03] died: vicentula was slain by vicentula
-[02Dec2024 02:58:09.007] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BenjaChilenoxD has made the advancement [A Strange Grave Dust]
-[02Dec2024 02:59:12.986] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BenjaChilenoxD fell from a high place
-[02Dec2024 02:59:12.988] [Server thread/WARN] [tombstone/]: The drop event of the player BenjaChilenoxD was canceled by another mod
-[02Dec2024 02:59:12.989] [Server thread/INFO] [tombstone/]: The player BenjaChilenoxD has successfully been saved
-[02Dec2024 02:59:19.831] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombiePlayer['BenjaChilenoxD'/132851, l='ServerLevel[world]', x=620.09, y=64.00, z=528.79] died: Zombie Player was exploded with gas by a Pod Infector.
-[02Dec2024 02:59:30.373] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PlayerFormEntity['purple skittle'/133488, l='ServerLevel[world]', x=560.26, y=63.00, z=469.39] died: purple skittle was slain by Zombie
-[02Dec2024 02:59:31.486] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity HumanFormEntity['BenjaChilenoxD'/133316, l='ServerLevel[world]', x=607.92, y=66.00, z=548.91] died: BenjaChilenoxD was shot by BenjaChilenoxD
-[02Dec2024 02:59:37.034] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PlayerFormEntity['Finton'/132295, l='ServerLevel[world]', x=609.32, y=65.00, z=546.91] died: Finton was shot by BenjaChilenoxD
-[02Dec2024 02:59:40.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BenjaChilenoxD was exploded with gas by a Pod Infector.
-[02Dec2024 02:59:40.843] [Server thread/INFO] [tombstone/]: The player BenjaChilenoxD has successfully been saved
-[02Dec2024 03:00:00.794] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PlayerFormEntity['BenjaChilenoxD'/134552, l='ServerLevel[world]', x=617.11, y=64.00, z=535.76] died: BenjaChilenoxD was shot by BenjaChilenoxD
-[02Dec2024 03:00:02.179] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BenjaChilenoxD was brought to extermination by Sangheili Form.
-[02Dec2024 03:00:02.192] [Server thread/INFO] [tombstone/]: The player BenjaChilenoxD has successfully been saved
-[02Dec2024 03:00:44.699] [Server thread/INFO] [hordes/]: [net.smileycorp.hordes.hordeevent.capability.HordeEvent@74f603c9]Trying to start horde event on day 20 with nextDay 20 and time 18000
-[02Dec2024 03:00:44.702] [Server thread/INFO] [hordes/]: Applying script hordes:default for event net.smileycorp.hordes.common.event.HordeBuildSpawnDataEvent@5e8f060c
-[02Dec2024 03:00:44.704] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 0
-[02Dec2024 03:00:44.704] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_villager,weight=1,minDay=0,maxDay=20] to hordespawn on day 0
-[02Dec2024 03:00:44.705] [Server thread/INFO] [hordes/]: [net.smileycorp.hordes.hordeevent.capability.HordeEvent@2ee2f109]Trying to start horde event on day 10 with nextDay 10 and time 18000
-[02Dec2024 03:00:44.705] [Server thread/INFO] [hordes/]: Applying script hordes:default for event net.smileycorp.hordes.common.event.HordeBuildSpawnDataEvent@79d72d37
-[02Dec2024 03:00:44.706] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 0
-[02Dec2024 03:00:44.706] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_villager,weight=1,minDay=0,maxDay=20] to hordespawn on day 0
-[02Dec2024 03:00:44.730] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 20
-[02Dec2024 03:00:44.731] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_villager,weight=1,minDay=0,maxDay=20] to hordespawn on day 20
-[02Dec2024 03:00:44.731] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_horse,weight=3,minDay=20,maxDay=40] to hordespawn on day 20
-[02Dec2024 03:00:44.731] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.husk,weight=40,minDay=20,maxDay=40] to hordespawn on day 20
-[02Dec2024 03:00:44.740] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 10
-[02Dec2024 03:00:44.740] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_villager,weight=1,minDay=0,maxDay=20] to hordespawn on day 10
-[02Dec2024 03:01:22.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BenjaChilenoxD bled to death
-[02Dec2024 03:01:22.338] [Server thread/WARN] [tombstone/]: The drop event of the player BenjaChilenoxD was canceled by another mod
-[02Dec2024 03:01:22.340] [Server thread/INFO] [tombstone/]: The player BenjaChilenoxD has successfully been saved
-[02Dec2024 03:01:34.537] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BenjaChilenoxD has made the advancement ['Kill Yourself' Has Acquired a New Meaning]
-[02Dec2024 03:01:34.539] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BenjaChilenoxD has made the advancement [Ashes 'n Bones]
-[02Dec2024 03:01:34.540] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombiePlayer['BenjaChilenoxD'/138657, l='ServerLevel[world]', x=611.10, y=87.00, z=554.94] died: Zombie Player was shot by BenjaChilenoxD
-[02Dec2024 03:01:34.737] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 20
-[02Dec2024 03:01:34.738] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_villager,weight=1,minDay=0,maxDay=20] to hordespawn on day 20
-[02Dec2024 03:01:34.738] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_horse,weight=3,minDay=20,maxDay=40] to hordespawn on day 20
-[02Dec2024 03:01:34.738] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.husk,weight=40,minDay=20,maxDay=40] to hordespawn on day 20
-[02Dec2024 03:01:34.745] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 10
-[02Dec2024 03:01:34.745] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_villager,weight=1,minDay=0,maxDay=20] to hordespawn on day 10
-[02Dec2024 03:01:55.022] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jajaja was exploded with gas by a Pod Infector.
-[02Dec2024 03:01:55.053] [Server thread/INFO] [tombstone/]: The player jajaja has successfully been saved
-[02Dec2024 03:02:01.636] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: vicentula was slain by Pod Infector
-[02Dec2024 03:02:01.997] [Server thread/INFO] [tombstone/]: The player vicentula has successfully been saved
-[02Dec2024 03:02:02.824] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PlayerFormEntity['entiral'/139298, l='ServerLevel[world]', x=730.55, y=38.00, z=524.86] died: entiral was slain by Looter
-[02Dec2024 03:02:22.832] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PlayerFormEntity['jajaja'/139439, l='ServerLevel[world]', x=628.28, y=33.00, z=573.40] died: jajaja was slain by jajaja
-[02Dec2024 03:02:24.738] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 20
-[02Dec2024 03:02:24.739] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_villager,weight=1,minDay=0,maxDay=20] to hordespawn on day 20
-[02Dec2024 03:02:24.739] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_horse,weight=3,minDay=20,maxDay=40] to hordespawn on day 20
-[02Dec2024 03:02:24.739] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.husk,weight=40,minDay=20,maxDay=40] to hordespawn on day 20
-[02Dec2024 03:02:24.745] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 10
-[02Dec2024 03:02:24.745] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_villager,weight=1,minDay=0,maxDay=20] to hordespawn on day 10
-[02Dec2024 03:02:36.092] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PlayerFormEntity['boodahbob'/139284, l='ServerLevel[world]', x=590.07, y=63.00, z=644.57] died: boodahbob was slain by Zombie
-[02Dec2024 03:02:47.828] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: vicentula was exploded with gas by a Pod Infector.
-[02Dec2024 03:02:48.209] [Server thread/INFO] [tombstone/]: The player vicentula has successfully been saved
-[02Dec2024 03:03:09.085] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PlayerFormEntity['vicentula'/140502, l='ServerLevel[world]', x=628.13, y=20.00, z=558.40] died: vicentula was slain by jajaja
-[02Dec2024 03:03:14.733] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 20
-[02Dec2024 03:03:14.733] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_villager,weight=1,minDay=0,maxDay=20] to hordespawn on day 20
-[02Dec2024 03:03:14.733] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_horse,weight=3,minDay=20,maxDay=40] to hordespawn on day 20
-[02Dec2024 03:03:14.734] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.husk,weight=40,minDay=20,maxDay=40] to hordespawn on day 20
-[02Dec2024 03:03:14.740] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 10
-[02Dec2024 03:03:14.740] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_villager,weight=1,minDay=0,maxDay=20] to hordespawn on day 10
-[02Dec2024 03:03:48.022] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PlayerFormEntity['Nightfox'/141097, l='ServerLevel[world]', x=676.56, y=62.60, z=549.37] died: Nightfox was slain by Zombie
-[02Dec2024 03:04:04.752] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 20
-[02Dec2024 03:04:04.752] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_villager,weight=1,minDay=0,maxDay=20] to hordespawn on day 20
-[02Dec2024 03:04:04.753] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_horse,weight=3,minDay=20,maxDay=40] to hordespawn on day 20
-[02Dec2024 03:04:04.753] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.husk,weight=40,minDay=20,maxDay=40] to hordespawn on day 20
-[02Dec2024 03:04:04.760] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 10
-[02Dec2024 03:04:04.760] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_villager,weight=1,minDay=0,maxDay=20] to hordespawn on day 10
-[02Dec2024 03:04:54.745] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 20
-[02Dec2024 03:04:54.746] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_villager,weight=1,minDay=0,maxDay=20] to hordespawn on day 20
-[02Dec2024 03:04:54.746] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_horse,weight=3,minDay=20,maxDay=40] to hordespawn on day 20
-[02Dec2024 03:04:54.746] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.husk,weight=40,minDay=20,maxDay=40] to hordespawn on day 20
-[02Dec2024 03:04:54.753] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 10
-[02Dec2024 03:04:54.754] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_villager,weight=1,minDay=0,maxDay=20] to hordespawn on day 10
-[02Dec2024 03:06:40.673] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: vicentula was exploded with gas by a Pod Infector.
-[02Dec2024 03:06:40.674] [Server thread/WARN] [tombstone/]: The drop event of the player vicentula was canceled by another mod
-[02Dec2024 03:06:40.692] [Server thread/INFO] [tombstone/]: The player vicentula has successfully been saved
-[02Dec2024 03:07:06.133] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jajaja was exploded with gas by a Pod Infector.
-[02Dec2024 03:07:06.141] [Server thread/INFO] [tombstone/]: The player jajaja has successfully been saved
-[02Dec2024 03:07:19.438] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BenjaChilenoxD died
-[02Dec2024 03:07:19.439] [Server thread/WARN] [tombstone/]: The drop event of the player BenjaChilenoxD was canceled by another mod
-[02Dec2024 03:07:19.440] [Server thread/INFO] [tombstone/]: The player BenjaChilenoxD has successfully been saved
-[02Dec2024 03:07:33.271] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PlayerFormEntity['jajaja'/150699, l='ServerLevel[world]', x=640.40, y=22.45, z=524.60] died: jajaja was slain by Drowned
-[02Dec2024 03:07:57.992] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: vicentula was exploded with gas by a Pod Infector.
-[02Dec2024 03:07:58.427] [Server thread/INFO] [tombstone/]: The player vicentula has successfully been saved
-[02Dec2024 03:08:27.830] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jajaja fought valiantly but fell to the flood swarm.
-[02Dec2024 03:08:27.837] [Server thread/INFO] [tombstone/]: The player jajaja has successfully been saved
-[02Dec2024 03:08:38.881] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: vicentula fell from a high place
-[02Dec2024 03:08:38.882] [Server thread/INFO] [tombstone/]: The player vicentula has successfully been saved
-[02Dec2024 03:09:16.543] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PlayerFormEntity['vicentula'/149195, l='ServerLevel[world]', x=641.29, y=25.00, z=539.89] died: vicentula was slain by jajaja
-[02Dec2024 03:09:37.908] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: vicentula died because of Zombie Player
-[02Dec2024 03:09:37.909] [Server thread/WARN] [tombstone/]: The drop event of the player vicentula was canceled by another mod
-[02Dec2024 03:09:37.912] [Server thread/INFO] [tombstone/]: The player vicentula has successfully been saved
-[02Dec2024 03:09:42.213] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombiePlayer['BenjaChilenoxD'/152481, l='ServerLevel[world]', x=606.49, y=87.00, z=547.49] died: Zombie Player was slain by BenjaChilenoxD
-[02Dec2024 03:09:47.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: vicentula fell from a high place
-[02Dec2024 03:09:47.442] [Server thread/INFO] [tombstone/]: The player vicentula has successfully been saved
+[02Dec2024 15:52:51.731] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 8 recipes
+[02Dec2024 15:52:51.907] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 1955 advancements
+[02Dec2024 15:52:51.952] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 14 curio slots
+[02Dec2024 15:52:51.959] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 10 curio entities
+[02Dec2024 15:52:51.966] [main/INFO] [hordes/]: Loaded entity minecraft:zombie as entity.minecraft.zombie with weight 35, min day 0 and max day 20
+[02Dec2024 15:52:51.967] [main/INFO] [hordes/]: Loaded entity minecraft:zombie_villager as entity.minecraft.zombie_villager with weight 1, min day 0 and max day 20
+[02Dec2024 15:52:51.967] [main/INFO] [hordes/]: Loaded entity minecraft:zombie_horse as entity.minecraft.zombie_horse with weight 3, min day 20 and max day 40
+[02Dec2024 15:52:51.967] [main/INFO] [hordes/]: Loaded entity minecraft:husk as entity.minecraft.husk with weight 40, min day 20 and max day 40
+[02Dec2024 15:52:51.969] [main/INFO] [hordes/]: Loaded entity minecraft:drowned as entity.minecraft.drowned with weight 3, min day 30 and max day 40
+[02Dec2024 15:52:51.969] [main/INFO] [hordes/]: Loaded entity minecraft:zoglin as entity.minecraft.zoglin with weight 3, min day 40 and max day 40
+[02Dec2024 15:52:51.969] [main/INFO] [hordes/]: Loaded entity minecraft:zombified_piglin as entity.minecraft.zombified_piglin with weight 10, min day 40 and max day 0
+[02Dec2024 15:52:51.969] [main/INFO] [hordes/]: Loaded entity minecraft:husk as entity.minecraft.husk with weight 25, min day 50 and max day 0
+[02Dec2024 15:52:51.970] [main/INFO] [hordes/]: Loaded entity minecraft:zoglin as entity.minecraft.zoglin with weight 3, min day 50 and max day 0
+[02Dec2024 15:52:51.970] [main/INFO] [hordes/]: Loaded entity minecraft:zombie_horse as entity.minecraft.zombie_horse with weight 3, min day 50 and max day 0
+[02Dec2024 15:52:51.970] [main/INFO] [hordes/]: loaded horde table hordes:default
+[02Dec2024 15:52:51.970] [main/INFO] [hordes/]: Loaded entity minecraft:drowned as entity.minecraft.drowned with weight 40, min day 0 and max day 20
+[02Dec2024 15:52:51.970] [main/INFO] [hordes/]: Loaded entity minecraft:drowned as entity.minecraft.drowned with weight 3, min day 30 and max day 40
+[02Dec2024 15:52:51.971] [main/INFO] [hordes/]: loaded horde table hordes:drowned
+[02Dec2024 15:52:51.971] [main/INFO] [hordes/]: Loaded entity minecraft:zombie as entity.minecraft.zombie with weight 20, min day 0 and max day 20
+[02Dec2024 15:52:51.971] [main/INFO] [hordes/]: Loaded entity minecraft:skeleton as entity.minecraft.skeleton with weight 10, min day 20 and max day 30
+[02Dec2024 15:52:51.971] [main/INFO] [hordes/]: Loaded entity minecraft:spider as entity.minecraft.spider with weight 15, min day 20 and max day 30
+[02Dec2024 15:52:51.972] [main/INFO] [hordes/]: Loaded entity minecraft:creeper as entity.minecraft.creeper with weight 5, min day 30 and max day 30
+[02Dec2024 15:52:51.972] [main/INFO] [hordes/]: Loaded entity minecraft:husk as entity.minecraft.husk with weight 20, min day 30 and max day 50
+[02Dec2024 15:52:51.972] [main/INFO] [hordes/]: Loaded entity minecraft:stray as entity.minecraft.stray with weight 10, min day 40 and max day 50
+[02Dec2024 15:52:51.972] [main/INFO] [hordes/]: Loaded entity minecraft:cave_spider as entity.minecraft.cave_spider with weight 10, min day 40 and max day 50
+[02Dec2024 15:52:51.972] [main/INFO] [hordes/]: Loaded entity minecraft:witch as entity.minecraft.witch with weight 5, min day 40 and max day 50
+[02Dec2024 15:52:51.973] [main/INFO] [hordes/]: Loaded entity minecraft:pillager as entity.minecraft.pillager with weight 10, min day 40 and max day 50
+[02Dec2024 15:52:51.973] [main/INFO] [hordes/]: Loaded entity minecraft:zombified_piglin as entity.minecraft.zombified_piglin with weight 10, min day 40 and max day 50
+[02Dec2024 15:52:51.975] [main/INFO] [hordes/]: Loaded entity minecraft:zombie_horse as entity.minecraft.zombie_horse with weight 3, min day 40 and max day 50
+[02Dec2024 15:52:51.975] [main/INFO] [hordes/]: Loaded entity minecraft:wither_skeleton as entity.minecraft.wither_skeleton with weight 10, min day 50 and max day 0
+[02Dec2024 15:52:51.976] [main/INFO] [hordes/]: Loaded entity minecraft:phantom as entity.minecraft.phantom with weight 5, min day 50 and max day 50
+[02Dec2024 15:52:51.978] [main/INFO] [hordes/]: Loaded entity minecraft:vindicator as entity.minecraft.vindicator with weight 10, min day 50 and max day 50
+[02Dec2024 15:52:51.978] [main/INFO] [hordes/]: Loaded entity minecraft:zoglin as entity.minecraft.zoglin with weight 5, min day 40 and max day 40
+[02Dec2024 15:52:51.978] [main/INFO] [hordes/]: Loaded entity minecraft:ravager as entity.minecraft.ravager with weight 5, min day 50 and max day 50
+[02Dec2024 15:52:51.979] [main/INFO] [hordes/]: Loaded entity minecraft:evoker as entity.minecraft.evoker with weight 5, min day 50 and max day 50
+[02Dec2024 15:52:51.979] [main/INFO] [hordes/]: Loaded entity minecraft:piglin_brute as entity.minecraft.piglin_brute with weight 10, min day 60 and max day 0
+[02Dec2024 15:52:51.979] [main/INFO] [hordes/]: Loaded entity minecraft:cave_spider as entity.minecraft.cave_spider with weight 15, min day 60 and max day 0
+[02Dec2024 15:52:51.980] [main/INFO] [hordes/]: Loaded entity minecraft:zombie_horse as entity.minecraft.zombie_horse with weight 5, min day 60 and max day 0
+[02Dec2024 15:52:51.980] [main/INFO] [hordes/]: Loaded entity minecraft:ravager as entity.minecraft.ravager with weight 3, min day 60 and max day 0
+[02Dec2024 15:52:51.980] [main/INFO] [hordes/]: Loaded entity minecraft:phantom as entity.minecraft.phantom with weight 3, min day 60 and max day 0
+[02Dec2024 15:52:51.981] [main/INFO] [hordes/]: loaded horde table hordes:mixed_mobs
+[02Dec2024 15:52:51.981] [main/INFO] [hordes/]: Loaded entity minecraft:pillager as entity.minecraft.pillager with weight 15, min day 0 and max day 0
+[02Dec2024 15:52:51.981] [main/INFO] [hordes/]: Loaded entity minecraft:vindicator as entity.minecraft.vindicator with weight 10, min day 0 and max day 0
+[02Dec2024 15:52:51.982] [main/INFO] [hordes/]: Loaded entity minecraft:witch as entity.minecraft.witch with weight 5, min day 20 and max day 0
+[02Dec2024 15:52:51.982] [main/INFO] [hordes/]: Loaded entity minecraft:ravager as entity.minecraft.ravager with weight 5, min day 30 and max day 40
+[02Dec2024 15:52:51.982] [main/INFO] [hordes/]: Loaded entity minecraft:evoker as entity.minecraft.evoker with weight 3, min day 40 and max day 40
+[02Dec2024 15:52:51.982] [main/INFO] [hordes/]: Loaded entity minecraft:illusioner as entity.minecraft.illusioner with weight 5, min day 50 and max day 0
+[02Dec2024 15:52:51.983] [main/INFO] [hordes/]: Loaded entity minecraft:ravager as entity.minecraft.ravager with weight 3, min day 50 and max day 0
+[02Dec2024 15:52:51.983] [main/INFO] [hordes/]: Loaded entity minecraft:ravager as entity.minecraft.ravager with weight 5, min day 50 and max day 0
+[02Dec2024 15:52:51.984] [main/INFO] [hordes/]: loaded horde table hordes:illagers
+[02Dec2024 15:52:51.984] [main/INFO] [hordes/]: Loaded entity minecraft:skeleton as entity.minecraft.skeleton with weight 10, min day 0 and max day 20
+[02Dec2024 15:52:51.984] [main/INFO] [hordes/]: Loaded entity minecraft:skeleton as entity.minecraft.skeleton with weight 20, min day 0 and max day 30
+[02Dec2024 15:52:51.985] [main/INFO] [hordes/]: Loaded entity minecraft:skeleton_horse as entity.minecraft.skeleton_horse with weight 5, min day 20 and max day 50
+[02Dec2024 15:52:51.985] [main/INFO] [hordes/]: Loaded entity minecraft:stray as entity.minecraft.stray with weight 10, min day 20 and max day 0
+[02Dec2024 15:52:51.985] [main/INFO] [hordes/]: Loaded entity minecraft:wither_skeleton as entity.minecraft.wither_skeleton with weight 10, min day 40 and max day 0
+[02Dec2024 15:52:51.985] [main/INFO] [hordes/]: Loaded entity minecraft:skeleton_horse as entity.minecraft.skeleton_horse with weight 5, min day 40 and max day 0
+[02Dec2024 15:52:51.986] [main/INFO] [hordes/]: loaded horde table hordes:skeletons
+[02Dec2024 15:52:51.987] [main/INFO] [hordes/]: Loaded entity minecraft:zombie as entity.minecraft.zombie with weight 30, min day 0 and max day 0
+[02Dec2024 15:52:51.987] [main/INFO] [hordes/]: loaded horde table hordes:fallback
+[02Dec2024 15:52:51.994] [main/INFO] [hordes/]: loaded horde script hordes:default
+[02Dec2024 15:52:51.994] [main/INFO] [hordes/]: Loading conversion tables
+[02Dec2024 15:52:51.995] [main/INFO] [hordes/]: Loading conversion table hordes:infection_conversions
+[02Dec2024 15:52:51.997] [main/INFO] [hordes/]: Loaded conversion entity.minecraft.horse to entity.minecraft.zombie_horse with chance of 0.65
+[02Dec2024 15:52:51.998] [main/INFO] [hordes/]: Loaded conversion entity.minecraft.piglin to entity.minecraft.zombified_piglin with chance of 0.75
+[02Dec2024 15:52:52.000] [main/INFO] [hordes/]: Loaded conversion entity.minecraft.piglin_brute to entity.minecraft.zombified_piglin{Attributes:[{Base:50.0f,Name:"generic.max_health"}],chat_name:"entity.hordes.ZombifiedPiglinBrute.name",texture:"hordes:textures/entity/zombified_piglin_brute.png"} with chance of 0.35
+[02Dec2024 15:52:52.000] [main/INFO] [hordes/]: Loaded conversion entity.minecraft.hoglin to entity.minecraft.zoglin with chance of 0.15
+[02Dec2024 15:52:52.000] [main/INFO] [hordes/]: Loaded conversion entity.minecraft.wandering_trader to entity.minecraft.zombie_villager{VillagerData:{type:"none"},chat_name:"entity.hordes.ZombieWanderingTrader.name",texture:"hordes:textures/entity/zombie_wandering_trader.png"} with chance of 0.75
+[02Dec2024 15:52:52.001] [main/INFO] [hordes/]: Loaded conversion entity.minecraft.pillager to entity.minecraft.zombie_villager{Attributes:[{Base:24.0f,Name:"generic.max_health"}],VillagerData:{type:"none"},chat_name:"entity.hordes.ZombiePillager.name",texture:"hordes:textures/entity/zombie_pillager.png"} with chance of 0.75
+[02Dec2024 15:52:52.001] [main/INFO] [hordes/]: Loaded conversion entity.minecraft.vindicator to entity.minecraft.zombie_villager{Attributes:[{Base:24.0f,Name:"generic.max_health"}],VillagerData:{type:"none"},chat_name:"entity.hordes.ZombieVindicator.name",texture:"hordes:textures/entity/zombie_vindicator.png"} with chance of 0.35
+[02Dec2024 15:52:52.001] [main/INFO] [hordes/]: Loaded conversion entity.minecraft.evoker to entity.minecraft.zombie_villager{Attributes:[{Base:24.0f,Name:"generic.max_health"}],VillagerData:{type:"none"},chat_name:"entity.hordes.ZombieEvoker.name",texture:"hordes:textures/entity/zombie_evoker.png"} with chance of 0.5
+[02Dec2024 15:52:52.003] [main/INFO] [hordes/]: Loaded conversion entity.minecraft.illusioner to entity.minecraft.zombie_villager{Attributes:[{Base:32.0f,Name:"generic.max_health"}],VillagerData:{type:"none"},chat_name:"entity.hordes.ZombieIllusioner.name",texture:"hordes:textures/entity/zombie_illusioner.png"} with chance of 0.15
+[02Dec2024 15:52:52.003] [main/INFO] [hordes/]: Loaded conversion entity.minecraft.witch to entity.minecraft.zombie_villager{Attributes:[{Base:26.0f,Name:"generic.max_health"}],VillagerData:{type:"none"},chat_name:"entity.hordes.ZombieWitch.name",texture:"hordes:textures/entity/zombie_witch.png"} with chance of 0.25
+[02Dec2024 15:52:52.005] [main/INFO] [hordes/]: Loading immunity item list
+[02Dec2024 15:52:52.005] [main/INFO] [hordes/]: Loading immunity item list hordes:immunity_items
+[02Dec2024 15:52:52.006] [main/INFO] [hordes/]: Loaded immunity item minecraft:enchanted_golden_apple with duration 150
+[02Dec2024 15:52:52.006] [main/INFO] [hordes/]: Loading wearables protection list
+[02Dec2024 15:52:52.006] [main/INFO] [hordes/]: Loading wearables protection list hordes:immune_wearables
+[02Dec2024 15:52:52.007] [main/INFO] [hordes/]: Loaded wearable protection minecraft:leather_boots with modifier 0.95
+[02Dec2024 15:52:52.007] [main/INFO] [hordes/]: Loaded wearable protection minecraft:leather_leggings with modifier 0.95
+[02Dec2024 15:52:52.008] [main/INFO] [hordes/]: Loaded wearable protection minecraft:leather_chestplate with modifier 0.95
+[02Dec2024 15:52:52.008] [main/INFO] [hordes/]: Loaded wearable protection minecraft:leather_helmet with modifier 0.95
+[02Dec2024 15:52:52.008] [main/INFO] [hordes/]: Loaded wearable protection minecraft:chainmail_boots with modifier 0.95
+[02Dec2024 15:52:52.010] [main/INFO] [hordes/]: Loaded wearable protection minecraft:chainmail_leggings with modifier 0.95
+[02Dec2024 15:52:52.011] [main/INFO] [hordes/]: Loaded wearable protection minecraft:chainmail_chestplate with modifier 0.95
+[02Dec2024 15:52:52.011] [main/INFO] [hordes/]: Loaded wearable protection minecraft:chainmail_helmet with modifier 0.95
+[02Dec2024 15:52:52.011] [main/INFO] [hordes/]: Loaded wearable protection minecraft:iron_boots with modifier 0.9
+[02Dec2024 15:52:52.011] [main/INFO] [hordes/]: Loaded wearable protection minecraft:iron_leggings with modifier 0.9
+[02Dec2024 15:52:52.012] [main/INFO] [hordes/]: Loaded wearable protection minecraft:iron_chestplate with modifier 0.9
+[02Dec2024 15:52:52.012] [main/INFO] [hordes/]: Loaded wearable protection minecraft:iron_helmet with modifier 0.9
+[02Dec2024 15:52:52.012] [main/INFO] [hordes/]: Loaded wearable protection minecraft:golden_boots with modifier 0.9
+[02Dec2024 15:52:52.012] [main/INFO] [hordes/]: Loaded wearable protection minecraft:golden_leggings with modifier 0.9
+[02Dec2024 15:52:52.013] [main/INFO] [hordes/]: Loaded wearable protection minecraft:golden_chestplate with modifier 0.9
+[02Dec2024 15:52:52.015] [main/INFO] [hordes/]: Loaded wearable protection minecraft:golden_helmet with modifier 0.9
+[02Dec2024 15:52:52.016] [main/INFO] [hordes/]: Loaded wearable protection minecraft:diamond_boots with modifier 0.86
+[02Dec2024 15:52:52.017] [main/INFO] [hordes/]: Loaded wearable protection minecraft:diamond_leggings with modifier 0.86
+[02Dec2024 15:52:52.017] [main/INFO] [hordes/]: Loaded wearable protection minecraft:diamond_chestplate with modifier 0.86
+[02Dec2024 15:52:52.018] [main/INFO] [hordes/]: Loaded wearable protection minecraft:diamond_helmet with modifier 0.86
+[02Dec2024 15:52:52.018] [main/INFO] [hordes/]: Loaded wearable protection minecraft:netherite_boots with modifier 0.82
+[02Dec2024 15:52:52.018] [main/INFO] [hordes/]: Loaded wearable protection minecraft:netherite_leggings with modifier 0.82
+[02Dec2024 15:52:52.019] [main/INFO] [hordes/]: Loaded wearable protection minecraft:netherite_chestplate with modifier 0.82
+[02Dec2024 15:52:52.020] [main/INFO] [hordes/]: Loaded wearable protection minecraft:netherite_helmet with modifier 0.82
+[02Dec2024 15:52:52.020] [main/INFO] [hordes/]: Loaded wearable protection minecraft:turtle_helmet with modifier 0.75
+[02Dec2024 15:52:52.992] [main/INFO] [majruszlibrary/]: [majruszsdifficulty.json] Reloading configuration file took 9 milliseconds
+[02Dec2024 15:52:52.994] [main/INFO] [majruszlibrary/]: [majruszlibrary.json] Reloading configuration file took 0 milliseconds
+[02Dec2024 15:52:53.004] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
+[02Dec2024 15:52:53.005] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[02Dec2024 15:52:53.005] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[02Dec2024 15:52:53.006] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[02Dec2024 15:52:53.236] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[02Dec2024 15:52:53.319] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[02Dec2024 15:52:53.440] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[02Dec2024 15:52:53.441] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[02Dec2024 15:52:53.442] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[02Dec2024 15:52:53.442] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[02Dec2024 15:52:53.468] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[02Dec2024 15:52:53.469] [Thread-3/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[02Dec2024 15:52:53.470] [Thread-3/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[02Dec2024 15:52:53.716] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:the_nether
+[02Dec2024 15:52:54.273] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:overworld
+[02Dec2024 15:52:54.274] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[02Dec2024 15:53:07.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[02Dec2024 15:53:11.658] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Dec2024 15:53:11.748] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Dec2024 15:53:11.780] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Dec2024 15:53:11.849] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Dec2024 15:53:11.856] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Dec2024 15:53:11.982] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Dec2024 15:53:12.038] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Dec2024 15:53:12.042] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Dec2024 15:53:12.116] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Dec2024 15:53:12.434] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Dec2024 15:53:12.934] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Dec2024 15:53:13.419] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Dec2024 15:53:13.943] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Dec2024 15:53:14.429] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Dec2024 15:53:14.919] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Dec2024 15:53:15.418] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 51%
+[02Dec2024 15:53:15.850] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 7932 ms
+[02Dec2024 15:53:15.851] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (22.392s)! For help, type "help"
+[02Dec2024 15:53:15.930] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[02Dec2024 15:57:52.588] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Nacho1704[/127.23.204.30:34481] logged in with entity id 594 at (79.54846289641094, -26.0, 519.3000000119209)
+[02Dec2024 15:57:52.632] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nacho1704 joined the game
+[02Dec2024 15:57:52.723] [Server thread/INFO] [Jade/]: Syncing config to Nacho1704 (9e5268a2-d6b1-3429-b9aa-0ab978a93aef)
+[02Dec2024 15:58:10.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nacho1704 suffocated in a wall
+[02Dec2024 15:58:10.086] [Server thread/INFO] [tombstone/]: The player Nacho1704 has successfully been saved
+[02Dec2024 15:59:22.014] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nacho1704 fell from a high place
+[02Dec2024 15:59:22.017] [Server thread/INFO] [tombstone/]: The player Nacho1704 has successfully been saved
+[02Dec2024 16:01:42.537] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: jajaja[/127.159.230.212:53991] logged in with entity id 7973 at (626.2993487241507, 68.0, 565.7617868428396)
+[02Dec2024 16:01:42.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jajaja joined the game
+[02Dec2024 16:01:42.557] [Server thread/INFO] [Jade/]: Syncing config to jajaja (60531054-5ff8-313e-b861-2a8b0e2dc9e3)
+[02Dec2024 16:02:16.161] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jajaja> gato
+[02Dec2024 16:02:28.925] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jajaja> a no esta el gey
+[02Dec2024 16:02:45.377] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nacho1704> jskadkj
+[02Dec2024 16:05:37.582] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2054ms or 41 ticks behind
+[02Dec2024 16:05:42.292] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: vicentula[/127.189.253.42:33087] logged in with entity id 16037 at (616.918826127697, 91.0, 555.4548031235555)
+[02Dec2024 16:05:42.303] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: vicentula joined the game
+[02Dec2024 16:05:42.395] [Server thread/INFO] [Jade/]: Syncing config to vicentula (ea963feb-ef64-36f6-8969-26de2e90d8be)
+[02Dec2024 16:05:50.522] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jajaja> DC
+[02Dec2024 16:06:00.273] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jajaja fell from a high place
+[02Dec2024 16:06:00.275] [Server thread/WARN] [tombstone/]: The drop event of the player jajaja was canceled by another mod
+[02Dec2024 16:06:00.314] [Server thread/INFO] [tombstone/]: The player jajaja has successfully been saved
+[02Dec2024 16:06:12.291] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PlayerFormEntity['entiral'/16662, l='ServerLevel[world]', x=42.20, y=-14.00, z=558.04] died: entiral was slain by Zombie
+[02Dec2024 16:06:26.108] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PlayerFormEntity['ASEStefan'/13971, l='ServerLevel[world]', x=698.35, y=16.00, z=531.32] died: ASEStefan was slain by Looter
+[02Dec2024 16:06:48.212] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jajaja fell from a high place
+[02Dec2024 16:06:48.216] [Server thread/INFO] [tombstone/]: The player jajaja has successfully been saved
+[02Dec2024 16:06:50.311] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PlayerFormEntity['Allan Marceau'/17152, l='ServerLevel[world]', x=-21.87, y=-13.20, z=577.08] died: Allan Marceau was blown up by Creeper
+[02Dec2024 16:07:08.738] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PlayerFormEntity['XPurple_DiamondX'/18744, l='ServerLevel[world]', x=123.44, y=-12.00, z=549.02] died: XPurple_DiamondX was slain by Zombie
+[02Dec2024 16:07:18.918] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombiePlayer['jajaja'/16551, l='ServerLevel[world]', x=613.30, y=65.00, z=539.70] died: Zombie Player was slain by jajaja
+[02Dec2024 16:07:20.648] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PlayerFormEntity['Kronoz'/19272, l='ServerLevel[world]', x=-55.24, y=8.00, z=479.51] died: Kronoz was slain by Looter
+[02Dec2024 16:07:41.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nacho1704 was infinitely tormented by Villager Form.
+[02Dec2024 16:07:41.085] [Server thread/INFO] [tombstone/]: The player Nacho1704 has successfully been saved
+[02Dec2024 16:07:51.910] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PlayerFormEntity['entiral'/18957, l='ServerLevel[world]', x=544.36, y=8.00, z=525.10] died: entiral died because of Zombie
+[02Dec2024 16:09:01.000] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <vicentula> vamos a la end city despues? donde esta el wuarden
+[02Dec2024 16:09:05.387] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <vicentula> ayer lo pille
+[02Dec2024 16:09:16.557] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PlayerFormEntity['Vee'/23986, l='ServerLevel[world]', x=123.95, y=22.00, z=599.10] died: Vee was slain by Zombie
+[02Dec2024 16:09:19.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jajaja> SI
+[02Dec2024 16:09:21.677] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PlayerFormEntity['MR138'/23985, l='ServerLevel[world]', x=124.61, y=21.94, z=599.34] died: MR138 was slain by Zombie
+[02Dec2024 16:09:24.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jajaja> dc
+[02Dec2024 16:09:45.921] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <vicentula> qlo de verdad estas haciendo una muralla
+[02Dec2024 16:09:47.239] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nacho1704 was exploded with gas by a Pod Infector.
+[02Dec2024 16:09:47.267] [Server thread/INFO] [tombstone/]: The player Nacho1704 has successfully been saved
+[02Dec2024 16:09:48.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <vicentula> el qlo choro
+[02Dec2024 16:09:53.185] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jajaja> ya termine
+[02Dec2024 16:10:05.769] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <vicentula> tiene q tener una zanja
+[02Dec2024 16:10:10.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <vicentula> pq los vichos trepan
+[02Dec2024 16:10:50.059] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <vicentula> ven
+[02Dec2024 16:10:52.316] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PlayerFormEntity['ASEStefan'/28921, l='ServerLevel[world]', x=632.70, y=-13.00, z=610.60] died: ASEStefan was blown up by Creeper
+[02Dec2024 16:10:55.173] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <vicentula> toy infectado
+[02Dec2024 16:10:57.268] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <vicentula> matame
+[02Dec2024 16:11:04.569] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jajaja> dondetay
+[02Dec2024 16:11:07.062] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <vicentula> base
+[02Dec2024 16:11:22.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: vicentula was slain by jajaja
+[02Dec2024 16:11:22.870] [Server thread/WARN] [tombstone/]: The drop event of the player vicentula was canceled by another mod
+[02Dec2024 16:11:22.872] [Server thread/INFO] [tombstone/]: The player vicentula has successfully been saved
+[02Dec2024 16:11:35.398] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombiePlayer['vicentula'/30459, l='ServerLevel[world]', x=605.46, y=87.00, z=546.46] died: Zombie Player was slain by jajaja
+[02Dec2024 16:11:52.728] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PlayerFormEntity['ASEStefan'/31145, l='ServerLevel[world]', x=28.67, y=-19.00, z=519.75] died: ASEStefan was slain by Nacho1704
