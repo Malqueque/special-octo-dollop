@@ -31,3 +31,18 @@
 [02Dec2024 00:35:12.599] [Server thread/INFO] [tombstone/]: The player Nacho1704 has successfully been saved
 [02Dec2024 00:35:34.294] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PlayerFormEntity['AzPure'/211283, l='ServerLevel[world]', x=611.48, y=63.00, z=630.61] died: AzPure was slain by Zombie
 [02Dec2024 00:35:38.351] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <vicentula> Nacho1704
+[02Dec2024 00:40:41.837] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PlayerFormEntity['Allan Marceau'/219783, l='ServerLevel[world]', x=57.58, y=-19.00, z=223.24] died: Allan Marceau was slain by Zombie
+[02Dec2024 00:41:10.063] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PlayerFormEntity['ItsPizzaTIM'/219087, l='ServerLevel[world]', x=143.68, y=-8.00, z=86.28] died: ItsPizzaTIM fought valiantly but fell to the flood swarm.
+[02Dec2024 00:41:36.547] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PlayerFormEntity['Vee'/218478, l='ServerLevel[world]', x=85.50, y=-15.00, z=107.84] died: Vee was slain by Zombie
+[02Dec2024 00:42:39.093] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PlayerFormEntity['MR138'/220696, l='ServerLevel[world]', x=118.62, y=22.90, z=74.78] died: MR138 was slain by Enderman
+[02Dec2024 00:44:47.377] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PlayerFormEntity['Kronoz'/228604, l='ServerLevel[world]', x=103.60, y=38.00, z=73.69] died: Kronoz was slain by Zombie
+[02Dec2024 00:45:20.697] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PlayerFormEntity['TeamAbyssal'/228893, l='ServerLevel[world]', x=194.33, y=38.00, z=928.72] died: TeamAbyssal was shot by Skeleton
+[02Dec2024 00:46:20.176] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: vicentula lost connection: Disconnected
+[02Dec2024 00:46:20.177] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: vicentula left the game
+[02Dec2024 00:47:05.134] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@328f8847[id=<null>,name=vicentula,properties={},legacy=false] (/127.189.253.42:33647) lost connection: Disconnected
+[02Dec2024 00:47:14.140] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: vicentula[/127.189.253.42:53493] logged in with entity id 232449 at (-15.578191691608323, 65.0, 1047.1534038966652)
+[02Dec2024 00:47:14.145] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: vicentula joined the game
+[02Dec2024 00:47:14.151] [Server thread/INFO] [Jade/]: Syncing config to vicentula (ea963feb-ef64-36f6-8969-26de2e90d8be)
+[02Dec2024 00:47:43.137] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PlayerFormEntity['ShadowWolf'/233087, l='ServerLevel[world]', x=45.13, y=32.00, z=988.20] died: ShadowWolf was slain by Zombie
+[02Dec2024 00:47:46.337] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PlayerFormEntity['purple skittle'/232670, l='ServerLevel[world]', x=-7.40, y=-10.10, z=955.60] died: purple skittle suffocated in a wall
+[02Dec2024 00:49:02.489] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PlayerFormEntity['boodahbob'/235541, l='ServerLevel[world]', x=112.59, y=-30.00, z=103.72] died: boodahbob was slain by Looter
