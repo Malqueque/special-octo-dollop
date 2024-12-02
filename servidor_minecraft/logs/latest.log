@@ -46,3 +46,25 @@
 [02Dec2024 00:47:43.137] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PlayerFormEntity['ShadowWolf'/233087, l='ServerLevel[world]', x=45.13, y=32.00, z=988.20] died: ShadowWolf was slain by Zombie
 [02Dec2024 00:47:46.337] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PlayerFormEntity['purple skittle'/232670, l='ServerLevel[world]', x=-7.40, y=-10.10, z=955.60] died: purple skittle suffocated in a wall
 [02Dec2024 00:49:02.489] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PlayerFormEntity['boodahbob'/235541, l='ServerLevel[world]', x=112.59, y=-30.00, z=103.72] died: boodahbob was slain by Looter
+[02Dec2024 00:49:56.445] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PlayerFormEntity['XPurple_DiamondX'/236753, l='ServerLevel[world]', x=-172.00, y=20.13, z=1043.00] died: XPurple_DiamondX tried to swim in lava
+[02Dec2024 00:50:29.325] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PlayerFormEntity['okshn'/237333, l='ServerLevel[world]', x=57.50, y=68.00, z=150.46] died: okshn was slain by Zombie
+[02Dec2024 00:51:24.990] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PlayerFormEntity['okshn'/237269, l='ServerLevel[world]', x=-191.41, y=81.00, z=1152.53] died: okshn was slain by Enderman
+[02Dec2024 00:52:32.719] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[02Dec2024 00:53:40.262] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PlayerFormEntity['XPurple_DiamondX'/242806, l='ServerLevel[world]', x=-124.40, y=24.90, z=873.60] died: XPurple_DiamondX suffocated in a wall
+[02Dec2024 00:53:49.776] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PlayerFormEntity['Kronoz'/243088, l='ServerLevel[world]', x=-60.40, y=-22.87, z=854.60] died: Kronoz suffocated in a wall whilst fighting Zombie
+[02Dec2024 00:54:38.487] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2022ms or 40 ticks behind
+[02Dec2024 00:55:10.603] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PlayerFormEntity['ItsPizzaTIM'/246758, l='ServerLevel[world]', x=85.75, y=29.00, z=684.04] died: ItsPizzaTIM was slain by Enderman
+[02Dec2024 00:55:19.862] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PlayerFormEntity['AzPure'/249148, l='ServerLevel[world]', x=57.81, y=-17.75, z=577.93] died: AzPure was slain by Looter
+[02Dec2024 00:55:57.240] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=127, y=91, z=576} BlockPos{x=128, y=89, z=576}
+[02Dec2024 00:56:22.349] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PlayerFormEntity['entiral'/251049, l='ServerLevel[world]', x=11.96, y=-5.00, z=583.50] died: entiral was slain by Looter
+[02Dec2024 00:56:26.964] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: jajaja[/127.159.230.212:51467] logged in with entity id 251404 at (-97.24018570552226, 13.0, -0.2046199927878559)
+[02Dec2024 00:56:26.969] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jajaja joined the game
+[02Dec2024 00:56:27.014] [Server thread/INFO] [Jade/]: Syncing config to jajaja (60531054-5ff8-313e-b861-2a8b0e2dc9e3)
+[02Dec2024 00:57:17.696] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PlayerFormEntity['entiral'/252827, l='ServerLevel[world]', x=9.68, y=-15.47, z=539.22] died: entiral tried to swim in lava
+[02Dec2024 00:58:29.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jajaja was infinitely tormented by Marine Form.
+[02Dec2024 00:58:29.858] [Server thread/INFO] [tombstone/]: The player jajaja has successfully been saved
+[02Dec2024 00:59:28.770] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[02Dec2024 00:59:31.728] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/244759, l='ServerLevel[world]', x=83.57, y=88.00, z=455.30] died, message: 'Nitwit was murdered by Vindicator Form.'
+[02Dec2024 00:59:34.281] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/244208, l='ServerLevel[world]', x=17.50, y=100.00, z=426.50] died, message: 'Unemployed was blown up with gas and poison by a Carrier Form.'
+[02Dec2024 00:59:34.285] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Leatherworker'/244600, l='ServerLevel[world]', x=18.50, y=100.00, z=433.50] died, message: 'Leatherworker was blown up with gas and poison by a Carrier Form.'
+[02Dec2024 00:59:34.286] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/244714, l='ServerLevel[world]', x=19.50, y=96.00, z=435.50] died, message: 'Farmer was blown up with gas and poison by a Carrier Form.'
