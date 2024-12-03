@@ -4147,3 +4147,27 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [03Dec2024 00:56:54.945] [Server thread/DEBUG] [net.minecraftforge.network.filters.NetworkFilters/]: Injected net.minecraftforge.network.filters.ForgeConnectionNetworkFilter@62163389 into net.minecraft.network.Connection@5df276d7
 [03Dec2024 00:56:54.951] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: vicentula joined the game
 [03Dec2024 00:56:55.004] [Server thread/INFO] [Jade/]: Syncing config to vicentula (ea963feb-ef64-36f6-8969-26de2e90d8be)
+[03Dec2024 00:57:57.841] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <vicentula> pene
+[03Dec2024 00:58:01.738] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BenjaChilenoxD> q
+[03Dec2024 00:58:09.086] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <vicentula> ds?
+[03Dec2024 00:59:24.305] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BenjaChilenoxD> ya
+[03Dec2024 00:59:26.343] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BenjaChilenoxD> calmao
+[03Dec2024 01:00:39.082] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PlayerFormEntity['TeamAbyssal'/304214, l='ServerLevel[world]', x=650.05, y=22.51, z=537.98] died: TeamAbyssal was slain by Looter
+[03Dec2024 01:01:17.287] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PlayerFormEntity['Beta'/307822, l='ServerLevel[world]', x=549.65, y=12.00, z=489.17] died: Beta was slain by Zombie
+[03Dec2024 01:01:38.913] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Dec2024 01:01:38.921] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Dec2024 01:05:51.666] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PlayerFormEntity['TeamAbyssal'/319395, l='ServerLevel[world]', x=759.89, y=-8.00, z=277.78] died: TeamAbyssal was blown up by Creeper
+[03Dec2024 01:05:56.375] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[03Dec2024 01:06:15.044] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PlayerFormEntity['Beta'/318957, l='ServerLevel[world]', x=837.21, y=37.17, z=244.82] died: Beta became one with the flood.
+[03Dec2024 01:06:40.994] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Dec2024 01:06:41.001] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Dec2024 01:06:57.754] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BenjaChilenoxD was outgunned by the flood.
+[03Dec2024 01:06:57.756] [Server thread/DEBUG] [tombstone/]: A new grave of the player BenjaChilenoxD was created at position [x:748, y:60, z:390, dim:minecraft:overworld]
+[03Dec2024 01:06:57.762] [Server thread/INFO] [tombstone/]: The player BenjaChilenoxD has successfully been saved
+[03Dec2024 01:07:15.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: vicentula was Swiss cheesed by the flood.
+[03Dec2024 01:07:15.828] [Server thread/DEBUG] [tombstone/]: A new grave of the player vicentula was created at position [x:606, y:69, z:551, dim:minecraft:overworld]
+[03Dec2024 01:07:15.834] [Server thread/INFO] [tombstone/]: The player vicentula has successfully been saved
+[03Dec2024 01:07:27.782] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: PodInfectorEntity['Pod Infector'/324486, l='ServerLevel[world]', x=542.25, y=63.00, z=498.27]
+[03Dec2024 01:07:27.829] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: PodInfectorEntity['Pod Infector'/324487, l='ServerLevel[world]', x=542.11, y=63.00, z=498.13]
+[03Dec2024 01:07:27.980] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: PodInfectorEntity['Pod Infector'/324531, l='ServerLevel[world]', x=541.70, y=63.00, z=497.72]
+[03Dec2024 01:07:28.230] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: PodInfectorEntity['Pod Infector'/324536, l='ServerLevel[world]', x=541.32, y=63.00, z=496.80]
