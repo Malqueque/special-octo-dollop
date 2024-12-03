@@ -4307,3 +4307,12 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [03Dec2024 03:56:23.794] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PlayerFormEntity['ShadowWolf'/242431, l='ServerLevel[world]', x=631.83, y=-40.10, z=538.40] died: ShadowWolf suffocated in a wall
 [03Dec2024 03:57:10.226] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [03Dec2024 03:57:10.233] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Dec2024 04:02:07.344] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PlayerFormEntity['XPurple_DiamondX'/249500, l='ServerLevel[world]', x=698.22, y=41.00, z=604.14] died: XPurple_DiamondX was slain by Looter
+[03Dec2024 04:02:10.224] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Dec2024 04:02:10.231] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Dec2024 04:02:19.396] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: vicentula lost connection: Disconnected
+[03Dec2024 04:02:19.399] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: vicentula left the game
+[03Dec2024 04:03:25.292] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BenjaChilenoxD lost connection: Disconnected
+[03Dec2024 04:03:25.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BenjaChilenoxD left the game
+[03Dec2024 04:07:10.198] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Dec2024 04:07:10.205] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
