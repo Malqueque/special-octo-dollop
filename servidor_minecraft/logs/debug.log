@@ -4178,3 +4178,32 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [03Dec2024 03:06:21.835] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: vicentula was consumed by Marine Form.
 [03Dec2024 03:06:21.837] [Server thread/DEBUG] [tombstone/]: A new grave of the player vicentula was created at position [x:-44, y:-45, z:354, dim:minecraft:overworld]
 [03Dec2024 03:06:21.844] [Server thread/INFO] [tombstone/]: The player vicentula has successfully been saved
+[03Dec2024 03:06:40.877] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Dec2024 03:06:40.884] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Dec2024 03:07:47.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jajaja was slain by Warden
+[03Dec2024 03:07:47.687] [Server thread/DEBUG] [tombstone/]: A new grave of the player jajaja was created at position [x:-50, y:-48, z:356, dim:minecraft:overworld]
+[03Dec2024 03:07:47.693] [Server thread/INFO] [tombstone/]: The player jajaja has successfully been saved
+[03Dec2024 03:08:07.406] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BenjaChilenoxD has made the advancement [Sneak 100]
+[03Dec2024 03:08:17.882] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: vicentula was exploded with gas by a Pod Infector.
+[03Dec2024 03:08:17.883] [Server thread/DEBUG] [tombstone/]: A new grave of the player vicentula was created at position [x:-45, y:-44, z:352, dim:minecraft:overworld]
+[03Dec2024 03:08:17.905] [Server thread/INFO] [tombstone/]: The player vicentula has successfully been saved
+[03Dec2024 03:08:26.142] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PlayerFormEntity['vicentula'/164799, l='ServerLevel[world]', x=-48.87, y=-46.00, z=361.72] died: vicentula was shot by BenjaChilenoxD
+[03Dec2024 03:08:46.163] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PlayerFormEntity['XPurple_DiamondX'/164081, l='ServerLevel[world]', x=-127.40, y=-28.10, z=321.75] died: XPurple_DiamondX suffocated in a wall
+[03Dec2024 03:09:13.445] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PlayerFormEntity['XPurple_DiamondX'/162051, l='ServerLevel[world]', x=74.95, y=-21.88, z=366.38] died: XPurple_DiamondX was shot by Skeleton
+[03Dec2024 03:09:41.215] [Server thread/INFO] [tombstone/]: The player BenjaChilenoxD has successfully been saved
+[03Dec2024 03:09:56.507] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BenjaChilenoxD was doomed to fall by Warden
+[03Dec2024 03:09:56.508] [Server thread/DEBUG] [tombstone/]: A new grave of the player BenjaChilenoxD was created at position [x:-41, y:-40, z:376, dim:minecraft:overworld]
+[03Dec2024 03:09:56.509] [Server thread/INFO] [tombstone/]: The player BenjaChilenoxD has successfully been saved
+[03Dec2024 03:10:04.446] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: vicentula has made the advancement [Sneak 100]
+[03Dec2024 03:10:13.444] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jajaja has made the advancement [Sneak 100]
+[03Dec2024 03:10:22.894] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: vicentula was obliterated by a sonically-charged shriek
+[03Dec2024 03:10:22.896] [Server thread/DEBUG] [tombstone/]: A new grave of the player vicentula was created at position [x:-47, y:-27, z:374, dim:minecraft:overworld]
+[03Dec2024 03:10:22.923] [Server thread/INFO] [tombstone/]: The player vicentula has successfully been saved
+[03Dec2024 03:10:31.474] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PlayerFormEntity['ASEStefan'/169038, l='ServerLevel[world]', x=12.88, y=31.54, z=336.92] died: ASEStefan died
+[03Dec2024 03:11:40.873] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Dec2024 03:11:40.880] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Dec2024 03:14:29.041] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PlayerFormEntity['ShadowWolf'/170299, l='ServerLevel[world]', x=7.39, y=32.00, z=338.00] died: ShadowWolf was slain by Looter
+[03Dec2024 03:16:21.264] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PlayerFormEntity['Stinker Bomber'/179440, l='ServerLevel[world]', x=253.29, y=74.00, z=453.85] died: Stinker Bomber was slain by jajaja
+[03Dec2024 03:16:32.296] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PlayerFormEntity['entiral'/180415, l='ServerLevel[world]', x=196.64, y=72.59, z=443.40] died: entiral was slain by Zombie
+[03Dec2024 03:16:40.908] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Dec2024 03:16:40.917] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

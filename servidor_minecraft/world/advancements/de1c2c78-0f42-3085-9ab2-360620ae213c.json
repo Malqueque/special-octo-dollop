@@ -29,6 +29,7 @@
       "minecraft:forest": "2024-12-01 03:51:42 +0000",
       "minecraft:windswept_forest": "2024-12-03 02:37:14 +0000",
       "minecraft:old_growth_spruce_taiga": "2024-12-01 06:54:51 +0000",
+      "minecraft:deep_dark": "2024-12-03 03:03:58 +0000",
       "minecraft:plains": "2024-12-01 04:18:02 +0000"
     },
     "done": false
@@ -1571,6 +1572,7 @@
   },
   "lootr:social": {
     "criteria": {
+      "opened_barrel": "2024-12-03 03:04:54 +0000",
       "opened_chest": "2024-12-01 04:46:34 +0000"
     },
     "done": false
@@ -2716,6 +2718,18 @@
     },
     "done": true
   },
+  "lootr:1barrel": {
+    "criteria": {
+      "opened_barrel": "2024-12-03 03:04:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/recovery_compass": {
+    "criteria": {
+      "has_echo_shard": "2024-12-03 03:06:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/form_obsidian": {
     "criteria": {
       "obsidian": "2024-12-03 03:00:47 +0000"
@@ -2725,6 +2739,12 @@
   "sophisticatedbackpacks:recipes/misc/copper_backpack": {
     "criteria": {
       "has_backpack": "2024-12-03 02:45:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/avoid_vibration": {
+    "criteria": {
+      "avoid_vibration": "2024-12-03 03:08:07 +0000"
     },
     "done": true
   },

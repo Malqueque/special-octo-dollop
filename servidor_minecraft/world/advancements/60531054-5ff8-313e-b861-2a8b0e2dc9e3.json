@@ -29,6 +29,7 @@
       "minecraft:cold_ocean": "2024-12-01 05:48:42 +0000",
       "minecraft:forest": "2024-12-01 03:51:26 +0000",
       "minecraft:old_growth_spruce_taiga": "2024-12-02 02:12:53 +0000",
+      "minecraft:deep_dark": "2024-12-03 03:05:13 +0000",
       "minecraft:plains": "2024-12-01 04:02:04 +0000"
     },
     "done": false
@@ -2785,9 +2786,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/recovery_compass": {
+    "criteria": {
+      "has_echo_shard": "2024-12-03 03:08:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/form_obsidian": {
     "criteria": {
       "obsidian": "2024-12-03 02:59:36 +0000"
+    },
+    "done": true
+  },
+  "majruszsdifficulty:warden_treasure_bag": {
+    "criteria": {
+      "bag_opened": "2024-12-03 03:06:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/avoid_vibration": {
+    "criteria": {
+      "avoid_vibration": "2024-12-03 03:10:13 +0000"
     },
     "done": true
   },
