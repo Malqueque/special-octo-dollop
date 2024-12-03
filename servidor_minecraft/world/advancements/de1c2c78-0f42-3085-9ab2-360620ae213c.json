@@ -23,6 +23,7 @@
       "minecraft:frozen_river": "2024-12-03 01:11:16 +0000",
       "minecraft:beach": "2024-12-01 05:08:02 +0000",
       "minecraft:river": "2024-12-01 03:55:16 +0000",
+      "minecraft:snowy_plains": "2024-12-03 01:17:58 +0000",
       "minecraft:cold_ocean": "2024-12-01 06:19:51 +0000",
       "minecraft:forest": "2024-12-01 03:51:42 +0000",
       "minecraft:old_growth_spruce_taiga": "2024-12-01 06:54:51 +0000",
@@ -1778,6 +1779,7 @@
       "seasonal_forest": "2024-12-01 06:19:43 +0000",
       "auroral_garden": "2024-12-03 01:11:47 +0000",
       "pumpkin_patch": "2024-12-01 06:52:35 +0000",
+      "snowy_coniferous_forest": "2024-12-03 01:17:18 +0000",
       "snowy_fir_clearing": "2024-12-03 01:13:50 +0000",
       "gravel_beach": "2024-12-01 06:19:56 +0000",
       "snowy_maple_woods": "2024-12-03 01:11:15 +0000"
@@ -2627,6 +2629,24 @@
   "minecraft:recipes/misc/gold_nugget_from_blasting": {
     "criteria": {
       "has_golden_helmet": "2024-12-03 01:14:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_rabbit": {
+    "criteria": {
+      "has_rabbit": "2024-12-03 01:20:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_rabbit_from_smoking": {
+    "criteria": {
+      "has_rabbit": "2024-12-03 01:20:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_rabbit_from_campfire_cooking": {
+    "criteria": {
+      "has_rabbit": "2024-12-03 01:20:20 +0000"
     },
     "done": true
   },
