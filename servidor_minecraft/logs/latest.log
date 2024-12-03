@@ -728,3 +728,23 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [03Dec2024 02:51:56.098] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: jajaja moved too quickly! -9.451683842584998,3.4186640077748365,-1.7742265671388964
 [03Dec2024 02:53:34.815] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PlayerFormEntity['Kronoz'/141449, l='ServerLevel[world]', x=-11.38, y=82.00, z=320.91] died: Kronoz was shot by Skeleton
 [03Dec2024 02:54:54.862] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PlayerFormEntity['okshn'/141803, l='ServerLevel[world]', x=-27.28, y=96.00, z=381.84] died: okshn was shot by Skeleton
+[03Dec2024 02:57:07.543] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PlayerFormEntity['XPurple_DiamondX'/147156, l='ServerLevel[world]', x=-62.40, y=17.90, z=306.60] died: XPurple_DiamondX suffocated in a wall
+[03Dec2024 02:57:22.837] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: jajaja lost connection: Timed out
+[03Dec2024 02:57:22.837] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jajaja left the game
+[03Dec2024 02:57:23.546] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PlayerFormEntity['purple skittle'/146489, l='ServerLevel[world]', x=-63.57, y=84.00, z=299.30] died: purple skittle was slain by Zombie
+[03Dec2024 02:57:39.949] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: jajaja[/127.159.230.212:47051] logged in with entity id 147521 at (-39.31119434251804, 59.834678534350076, 375.53522638618296)
+[03Dec2024 02:57:39.956] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jajaja joined the game
+[03Dec2024 02:57:40.020] [Server thread/INFO] [Jade/]: Syncing config to jajaja (60531054-5ff8-313e-b861-2a8b0e2dc9e3)
+[03Dec2024 02:59:01.584] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PlayerFormEntity['MR138'/148224, l='ServerLevel[world]', x=-107.08, y=-25.08, z=401.17] died: MR138 was slain by Looter
+[03Dec2024 02:59:36.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jajaja has made the advancement [Ice Bucket Challenge]
+[03Dec2024 03:00:33.982] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PlayerFormEntity['XPurple_DiamondX'/150157, l='ServerLevel[world]', x=-65.28, y=48.77, z=334.04] died: XPurple_DiamondX was slain by entity.hordes.ZombieWitch.name
+[03Dec2024 03:00:47.188] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BenjaChilenoxD has made the advancement [Ice Bucket Challenge]
+[03Dec2024 03:03:41.447] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: vicentula has completed the challenge [It Spreads]
+[03Dec2024 03:03:47.587] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PlayerFormEntity['Kronoz'/154533, l='ServerLevel[world]', x=-29.40, y=20.00, z=344.40] died: Kronoz suffocated in a wall
+[03Dec2024 03:04:06.946] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PlayerFormEntity['TeamAbyssal'/154693, l='ServerLevel[world]', x=-81.06, y=-16.00, z=348.75] died: TeamAbyssal was slain by Looter
+[03Dec2024 03:04:54.859] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BenjaChilenoxD has made the advancement [Barrel Booty]
+[03Dec2024 03:05:17.303] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PlayerFormEntity['Kronoz'/154757, l='ServerLevel[world]', x=-34.40, y=20.00, z=341.00] died: Kronoz was slain by Enderman
+[03Dec2024 03:06:12.698] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: vicentula has made the advancement [Master of Silence]
+[03Dec2024 03:06:15.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jajaja has made the advancement [Master of Silence]
+[03Dec2024 03:06:21.835] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: vicentula was consumed by Marine Form.
+[03Dec2024 03:06:21.844] [Server thread/INFO] [tombstone/]: The player vicentula has successfully been saved

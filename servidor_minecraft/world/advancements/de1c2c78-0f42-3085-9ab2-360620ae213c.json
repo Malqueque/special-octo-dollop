@@ -1777,8 +1777,10 @@
     "criteria": {
       "muskeg": "2024-12-02 02:38:18 +0000",
       "snowblossom_grove": "2024-12-03 01:11:17 +0000",
+      "highland": "2024-12-03 02:52:46 +0000",
       "cold_desert": "2024-12-03 02:29:38 +0000",
       "maple_woods": "2024-12-01 06:53:20 +0000",
+      "coniferous_forest": "2024-12-03 02:51:57 +0000",
       "aspen_glade": "2024-12-01 06:52:15 +0000",
       "seasonal_forest": "2024-12-01 06:19:43 +0000",
       "auroral_garden": "2024-12-03 01:11:47 +0000",
@@ -2672,9 +2674,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_blasting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2024-12-03 02:59:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/baked_potato": {
     "criteria": {
       "has_potato": "2024-12-03 02:20:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_smelting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2024-12-03 02:59:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_gold_block": {
+    "criteria": {
+      "has_raw_gold": "2024-12-03 02:59:34 +0000"
     },
     "done": true
   },
@@ -2696,6 +2716,12 @@
     },
     "done": true
   },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2024-12-03 03:00:47 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/copper_backpack": {
     "criteria": {
       "has_backpack": "2024-12-03 02:45:30 +0000"
@@ -2705,6 +2731,12 @@
   "tombstone:adventure/strong_or_careful": {
     "criteria": {
       "coded_trigger": "2024-12-03 02:34:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2024-12-03 03:00:47 +0000"
     },
     "done": true
   },

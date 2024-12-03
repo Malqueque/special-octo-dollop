@@ -2509,9 +2509,105 @@
     },
     "done": true
   },
-  "justhammers:recipes/tools/diamond_reinforced_hammer": {
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
     "criteria": {
-      "has_material": "2024-12-03 02:45:03 +0000"
+      "has_iron_nugget": "2024-12-03 02:24:12 +0000"
+    },
+    "done": true
+  },
+  "justhammers:recipes/tools/iron_reinforced_impact_hammer": {
+    "criteria": {
+      "has_material": "2024-12-03 02:27:41 +0000"
+    },
+    "done": true
+  },
+  "justhammers:recipes/tools/iron_reinforced_hammer": {
+    "criteria": {
+      "has_material": "2024-12-03 02:27:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2024-12-03 02:27:41 +0000"
+    },
+    "done": true
+  },
+  "justhammers:recipes/tools/iron_destructor_hammer": {
+    "criteria": {
+      "has_material": "2024-12-03 02:27:41 +0000"
+    },
+    "done": true
+  },
+  "justhammers:recipes/tools/iron_impact_hammer": {
+    "criteria": {
+      "has_material": "2024-12-03 02:27:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2024-12-03 02:27:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2024-12-03 02:32:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bone_meal": "2024-12-03 02:32:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/black_dye": {
+    "criteria": {
+      "has_ink_sac": "2024-12-03 02:33:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_black_carpet": {
+    "criteria": {
+      "has_needed_dye": "2024-12-03 02:34:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_black_bed": {
+    "criteria": {
+      "has_needed_dye": "2024-12-03 02:34:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_black_dye": "2024-12-03 02:34:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gray_dye": {
+    "criteria": {
+      "has_black_dye": "2024-12-03 02:34:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_black_white_dye": {
+    "criteria": {
+      "has_black_dye": "2024-12-03 02:34:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_candle": {
+    "criteria": {
+      "has_black_dye": "2024-12-03 02:34:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_black_wool": {
+    "criteria": {
+      "has_needed_dye": "2024-12-03 02:34:51 +0000"
     },
     "done": true
   },
@@ -2533,33 +2629,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/diamond": {
-    "criteria": {
-      "has_diamond_block": "2024-12-03 02:45:03 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/blue_stained_glass": {
     "criteria": {
       "has_glass": "2024-12-03 02:34:54 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/white_dye": {
-    "criteria": {
-      "has_bone_meal": "2024-12-03 02:32:22 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/orange_stained_glass": {
     "criteria": {
       "has_glass": "2024-12-03 02:34:54 +0000"
-    },
-    "done": true
-  },
-  "justhammers:recipes/tools/iron_reinforced_impact_hammer": {
-    "criteria": {
-      "has_material": "2024-12-03 02:27:41 +0000"
     },
     "done": true
   },
@@ -2587,18 +2665,6 @@
     },
     "done": true
   },
-  "biomesoplenty:recipes/building_blocks/maple_wood": {
-    "criteria": {
-      "has_log": "2024-12-03 02:50:49 +0000"
-    },
-    "done": true
-  },
-  "justhammers:recipes/tools/iron_reinforced_hammer": {
-    "criteria": {
-      "has_material": "2024-12-03 02:27:41 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/glass_pane": {
     "criteria": {
       "has_glass": "2024-12-03 02:34:54 +0000"
@@ -2608,12 +2674,6 @@
   "minecraft:recipes/building_blocks/magenta_stained_glass": {
     "criteria": {
       "has_glass": "2024-12-03 02:34:54 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dye_black_carpet": {
-    "criteria": {
-      "has_needed_dye": "2024-12-03 02:34:51 +0000"
     },
     "done": true
   },
@@ -2629,27 +2689,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/dye_black_bed": {
-    "criteria": {
-      "has_needed_dye": "2024-12-03 02:34:51 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/brewing/glass_bottle": {
     "criteria": {
       "has_glass": "2024-12-03 02:34:54 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/building_blocks/maple_planks": {
-    "criteria": {
-      "has_logs": "2024-12-03 02:50:49 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/black_dye": {
-    "criteria": {
-      "has_ink_sac": "2024-12-03 02:33:19 +0000"
     },
     "done": true
   },
@@ -2659,27 +2701,9 @@
     },
     "done": true
   },
-  "justhammers:recipes/tools/diamond_reinforced_impact_hammer": {
-    "criteria": {
-      "has_material": "2024-12-03 02:45:03 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/black_stained_glass_pane_from_glass_pane": {
-    "criteria": {
-      "has_black_dye": "2024-12-03 02:34:51 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/cyan_stained_glass": {
     "criteria": {
       "has_glass": "2024-12-03 02:34:54 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
-    "criteria": {
-      "has_iron_block": "2024-12-03 02:27:41 +0000"
     },
     "done": true
   },
@@ -2695,33 +2719,27 @@
     },
     "done": true
   },
-  "justhammers:recipes/tools/iron_destructor_hammer": {
-    "criteria": {
-      "has_material": "2024-12-03 02:27:41 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/gray_dye": {
-    "criteria": {
-      "has_black_dye": "2024-12-03 02:34:51 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/light_gray_dye_from_black_white_dye": {
-    "criteria": {
-      "has_black_dye": "2024-12-03 02:34:51 +0000"
-    },
-    "done": true
-  },
-  "justhammers:recipes/tools/iron_impact_hammer": {
-    "criteria": {
-      "has_material": "2024-12-03 02:27:41 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/black_stained_glass_pane": {
     "criteria": {
       "has_glass": "2024-12-03 02:35:00 +0000"
+    },
+    "done": true
+  },
+  "justhammers:recipes/tools/diamond_reinforced_hammer": {
+    "criteria": {
+      "has_material": "2024-12-03 02:45:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond": {
+    "criteria": {
+      "has_diamond_block": "2024-12-03 02:45:03 +0000"
+    },
+    "done": true
+  },
+  "justhammers:recipes/tools/diamond_reinforced_impact_hammer": {
+    "criteria": {
+      "has_material": "2024-12-03 02:45:03 +0000"
     },
     "done": true
   },
@@ -2731,39 +2749,51 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/anvil": {
-    "criteria": {
-      "has_iron_block": "2024-12-03 02:27:41 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/black_candle": {
-    "criteria": {
-      "has_black_dye": "2024-12-03 02:34:51 +0000"
-    },
-    "done": true
-  },
   "justhammers:recipes/tools/diamond_destructor_hammer": {
     "criteria": {
       "has_material": "2024-12-03 02:45:03 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/dye_black_wool": {
+  "biomesoplenty:recipes/building_blocks/maple_wood": {
     "criteria": {
-      "has_needed_dye": "2024-12-03 02:34:51 +0000"
+      "has_log": "2024-12-03 02:50:49 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+  "biomesoplenty:recipes/building_blocks/maple_planks": {
     "criteria": {
-      "has_iron_nugget": "2024-12-03 02:24:12 +0000"
+      "has_logs": "2024-12-03 02:50:49 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/bone_block": {
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
     "criteria": {
-      "has_bone_meal": "2024-12-03 02:32:22 +0000"
+      "has_potato": "2024-12-03 02:53:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2024-12-03 02:53:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2024-12-03 02:53:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2024-12-03 02:59:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2024-12-03 02:59:36 +0000"
     },
     "done": true
   },
