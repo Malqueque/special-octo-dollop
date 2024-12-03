@@ -1774,6 +1774,7 @@
     "criteria": {
       "muskeg": "2024-12-02 02:38:18 +0000",
       "snowblossom_grove": "2024-12-03 01:11:17 +0000",
+      "cold_desert": "2024-12-03 02:29:38 +0000",
       "maple_woods": "2024-12-01 06:53:20 +0000",
       "aspen_glade": "2024-12-01 06:52:15 +0000",
       "seasonal_forest": "2024-12-01 06:19:43 +0000",
@@ -2674,9 +2675,21 @@
     },
     "done": true
   },
+  "lootr:10loot": {
+    "criteria": {
+      "loot_stat": "2024-12-03 02:23:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/baked_potato_from_smoking": {
     "criteria": {
       "has_potato": "2024-12-03 02:20:32 +0000"
+    },
+    "done": true
+  },
+  "lootr:25loot": {
+    "criteria": {
+      "loot_stat": "2024-12-03 02:28:19 +0000"
     },
     "done": true
   },

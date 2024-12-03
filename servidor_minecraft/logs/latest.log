@@ -681,3 +681,19 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [03Dec2024 02:24:37.363] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PlayerFormEntity['XPurple_DiamondX'/63655, l='ServerLevel[world]', x=638.48, y=17.08, z=505.39] died: XPurple_DiamondX was slain by Looter
 [03Dec2024 02:24:57.547] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2023ms or 40 ticks behind
 [03Dec2024 02:25:01.536] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Weaponsmith'/17686, l='ServerLevel[world]', x=813.58, y=67.00, z=-799.50] died, message: 'Weaponsmith was lethally executed by Villager Form.'
+[03Dec2024 02:25:33.362] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity MarineFormEntity['Captain Keyes'/66802, l='ServerLevel[world]', x=834.17, y=41.00, z=-774.20] died: Captain Keyes died
+[03Dec2024 02:28:19.556] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BenjaChilenoxD has made the advancement [Close Quarters]
+[03Dec2024 02:28:55.628] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[03Dec2024 02:29:14.500] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2026ms or 40 ticks behind
+[03Dec2024 02:31:04.900] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PlayerFormEntity['Finton'/81263, l='ServerLevel[world]', x=648.41, y=-16.00, z=-813.69] died: Finton was blown up by Creeper
+[03Dec2024 02:31:30.648] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2024ms or 40 ticks behind
+[03Dec2024 02:32:56.387] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
+[03Dec2024 02:33:21.077] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[03Dec2024 02:33:56.127] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[03Dec2024 02:34:13.543] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2418ms or 48 ticks behind
+[03Dec2024 02:34:25.960] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BenjaChilenoxD has reached the goal [Strong or Careful]
+[03Dec2024 02:34:25.961] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BenjaChilenoxD was slain by Enderman Form
+[03Dec2024 02:34:25.962] [Server thread/WARN] [tombstone/]: The drop event of the player BenjaChilenoxD was canceled by another mod
+[03Dec2024 02:34:25.989] [Server thread/INFO] [tombstone/]: The player BenjaChilenoxD has successfully been saved
+[03Dec2024 02:34:53.199] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PlayerFormEntity['Kronoz'/92242, l='ServerLevel[world]', x=559.40, y=71.00, z=618.11] died: Kronoz was slain by Zombie
+[03Dec2024 02:35:33.963] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PlayerFormEntity['purple skittle'/95772, l='ServerLevel[world]', x=795.40, y=35.30, z=-536.94] died: purple skittle was slain by Zombie
