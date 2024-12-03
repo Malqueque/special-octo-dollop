@@ -59,3 +59,17 @@
 [03Dec2024 01:27:24.198] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PlayerFormEntity['XPurple_DiamondX'/358349, l='ServerLevel[world]', x=687.46, y=12.69, z=604.06] died: XPurple_DiamondX was slain by Zombie
 [03Dec2024 01:27:35.083] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PlayerFormEntity['XPurple_DiamondX'/358913, l='ServerLevel[world]', x=652.15, y=-26.00, z=531.20] died: XPurple_DiamondX was slain by Enderman
 [03Dec2024 01:27:54.273] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[03Dec2024 01:30:06.520] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PlayerFormEntity['purple skittle'/363813, l='ServerLevel[world]', x=637.63, y=20.00, z=599.81] died: purple skittle died because of Zombie
+[03Dec2024 01:35:09.487] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PlayerFormEntity['MR138'/371540, l='ServerLevel[world]', x=689.93, y=16.18, z=530.17] died: MR138 was slain by Zombie
+[03Dec2024 01:37:15.279] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
+[03Dec2024 01:37:34.568] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4302ms or 86 ticks behind
+[03Dec2024 01:37:53.542] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3975ms or 79 ticks behind
+[03Dec2024 01:38:13.252] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4736ms or 94 ticks behind
+[03Dec2024 01:39:12.613] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BenjaChilenoxD lost connection: Timed out
+[03Dec2024 01:39:12.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BenjaChilenoxD left the game
+[03Dec2024 01:43:42.237] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: vicentula fell from a high place
+[03Dec2024 01:43:43.141] [Server thread/INFO] [tombstone/]: The player vicentula has successfully been saved
+[03Dec2024 01:44:09.187] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PlayerFormEntity['Kronoz'/386458, l='ServerLevel[world]', x=627.54, y=64.00, z=524.00] died: Kronoz was shot by vicentula
+[03Dec2024 01:44:24.470] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: vicentula was slain by Enderman Form
+[03Dec2024 01:44:24.750] [Server thread/INFO] [tombstone/]: The player vicentula has successfully been saved
+[03Dec2024 01:47:15.934] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PlayerFormEntity['Beta'/391917, l='ServerLevel[world]', x=737.76, y=33.92, z=527.52] died: Beta was slain by Looter
