@@ -24,8 +24,10 @@
       "minecraft:beach": "2024-12-01 05:08:02 +0000",
       "minecraft:river": "2024-12-01 03:55:16 +0000",
       "minecraft:snowy_plains": "2024-12-03 01:17:58 +0000",
+      "minecraft:snowy_taiga": "2024-12-03 02:39:28 +0000",
       "minecraft:cold_ocean": "2024-12-01 06:19:51 +0000",
       "minecraft:forest": "2024-12-01 03:51:42 +0000",
+      "minecraft:windswept_forest": "2024-12-03 02:37:14 +0000",
       "minecraft:old_growth_spruce_taiga": "2024-12-01 06:54:51 +0000",
       "minecraft:plains": "2024-12-01 04:18:02 +0000"
     },
@@ -2690,6 +2692,12 @@
   "lootr:25loot": {
     "criteria": {
       "loot_stat": "2024-12-03 02:28:19 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/strong_or_careful": {
+    "criteria": {
+      "coded_trigger": "2024-12-03 02:34:25 +0000"
     },
     "done": true
   },
